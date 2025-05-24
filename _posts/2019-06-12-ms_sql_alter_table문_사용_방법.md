@@ -1,6 +1,5 @@
 ---
 title:  "[2019-06-12] - [MS-SQL] ALTER TABLE문 사용 방법"
-excerpt: ""
 permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
@@ -11,7 +10,6 @@ tags:
   - table
   - alter
   - alter
-last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [MS-SQL] ALTER TABLE문 사용 방법

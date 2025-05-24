@@ -1,6 +1,5 @@
 ---
 title:  "[2023-09-12] - [Oracle] ORA-01756 : quoted string not properly terminated"
-excerpt: ""
 permalink: /categories/코딩정보/Oracle/
 layout: category
 author_profile: true
@@ -14,7 +13,6 @@ tags:
   - ORA-01756
   - 단일인용부
   - 인용부
-last_modified_at: 2025-05-24T22:43:50+09:00
 ---
 
 ## [Oracle] ORA-01756 : quoted string not properly terminated

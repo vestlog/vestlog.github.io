@@ -1,6 +1,5 @@
 ---
 title:  "[2019-12-16] - [KakaoAdfit]드디어 심사 승인되었습니다"
-excerpt: ""
 permalink: /categories/코딩정보/잡담/
 layout: category
 author_profile: true
@@ -11,7 +10,6 @@ tags:
   - kakaoadfit
   - 최신컨텐츠보류
   - 매체
-last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [KakaoAdfit]드디어 심사 승인되었습니다

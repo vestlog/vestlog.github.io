@@ -1,6 +1,5 @@
 ---
 title:  "[2020-02-12] - [TensorFlow] 텐서플로 설치와 주피터 노트북 설치하기"
-excerpt: ""
 permalink: /categories/코딩정보/TensorFlow/
 layout: category
 author_profile: true
@@ -12,7 +11,6 @@ tags:
   - tensorflow
   - jupyter
   - 주피터노트북
-last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [TensorFlow] 텐서플로 설치와 주피터 노트북 설치하기

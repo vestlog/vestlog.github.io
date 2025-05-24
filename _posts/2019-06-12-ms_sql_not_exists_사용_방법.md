@@ -1,6 +1,5 @@
 ---
 title:  "[2019-06-12] - [MS-SQL] NOT EXISTS 사용 방법"
-excerpt: ""
 permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
@@ -12,7 +11,6 @@ tags:
   - Exists
   - NOT
   - 조회조건
-last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [MS-SQL] NOT EXISTS 사용 방법

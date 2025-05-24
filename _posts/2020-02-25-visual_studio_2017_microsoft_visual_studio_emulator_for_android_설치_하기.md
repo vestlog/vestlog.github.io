@@ -1,6 +1,5 @@
 ---
 title:  "[2020-02-25] - [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 설치 하기"
-excerpt: ""
 permalink: /categories/코딩정보/Android/
 layout: category
 author_profile: true
@@ -10,7 +9,6 @@ tags:
   - Visual
   - 비쥬얼스튜디오
   - 비쥬얼스튜디오2017
-last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 설치 하기

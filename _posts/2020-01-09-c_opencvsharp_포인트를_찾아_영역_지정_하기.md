@@ -1,6 +1,5 @@
 ---
 title:  "[2020-01-09] - [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기"
-excerpt: ""
 permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
@@ -12,7 +11,6 @@ tags:
   - opencvsharp
   - BoundingRect
   - 사각그리기
-last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기
