@@ -1,5 +1,5 @@
 ---
-title:  "[2023-05-09][오라클링크드오류]OraOLEDB.Oracle에서 열 정보를 가져올 수 없습니다."
+title:  "[2023-05-09]-[오라클링크드오류]OraOLEDB.Oracle에서 열 정보를 가져올 수 없습니다."
 permalink: /categories/코딩정보/Oracle/
 layout: category
 author_profile: true
@@ -9,9 +9,6 @@ tags:
   - MSSQL
   - 링크드서버오류
   - OraOLEDB.Oracle
-  - "OraOLEDB.Oracle"에
-  - "OraOLEDB.Oracle"에서
-  - "OraOLEDB.Oracle"에서
 ---
 
 ## [오라클링크드오류]"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.
