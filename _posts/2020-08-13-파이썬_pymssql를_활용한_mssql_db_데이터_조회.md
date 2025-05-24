@@ -1,14 +1,13 @@
 ---
 title:  "[2020-08-13] - [파이썬] pymssql를 활용한 MSSQL DB 데이터 조회"
-permalink: /categories/코딩정보/Python/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "python"
   - "파이썬"
   - "python"
   - "mssql"
   - "파이썬"
+last_modified_at: 2025-05-24T23:15:56+09:00
 ---
 
 ## [파이썬] pymssql를 활용한 MSSQL DB 데이터 조회

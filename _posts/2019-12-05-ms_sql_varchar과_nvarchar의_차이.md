@@ -1,9 +1,7 @@
 ---
 title:  "[2019-12-05] - [MS-SQL] VARCHAR과 NVARCHAR의 차이??"
-permalink: /categories/코딩정보/MS-SQL/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "팁"
   - "SQL"
   - "차이점"
@@ -14,6 +12,7 @@ taxonomy: 코딩정보
   - "소소한팁"
   - "varchar와nvarchar의차이"
   - "초보sql"
+last_modified_at: 2025-05-24T23:15:52+09:00
 ---
 
 ## [MS-SQL] VARCHAR과 NVARCHAR의 차이??

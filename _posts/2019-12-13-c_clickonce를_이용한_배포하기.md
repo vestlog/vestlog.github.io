@@ -1,9 +1,7 @@
 ---
 title:  "[2019-12-13] - [C#] ClickOnce를 이용한 배포하기"
-permalink: /categories/코딩정보/C#/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "보안"
   - "웹사이트"
   - "폴더"
@@ -14,6 +12,7 @@ taxonomy: 코딩정보
   - "IIS"
   - "게시"
   - "클릭온스"
+last_modified_at: 2025-05-24T23:15:53+09:00
 ---
 
 ## [C#] ClickOnce를 이용한 배포하기

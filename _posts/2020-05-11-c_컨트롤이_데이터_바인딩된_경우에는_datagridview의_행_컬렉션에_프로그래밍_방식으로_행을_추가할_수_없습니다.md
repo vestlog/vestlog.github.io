@@ -1,14 +1,13 @@
 ---
 title:  "[2020-05-11] - [C#]컨트롤이 데이터 바인딩된 경우에는 datagridview의 행 컬렉션에 프로그래밍 방식으로 행을 추가할 수 없습니다"
-permalink: /categories/코딩정보/C#/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "C#"
   - "그리드뷰바인딩오류"
   - "Row추가"
   - "그리드뷰"
   - "행"
+last_modified_at: 2025-05-24T23:15:55+09:00
 ---
 
 ## [C#]컨트롤이 데이터 바인딩된 경우에는 datagridview의 행 컬렉션에 프로그래밍 방식으로 행을 추가할 수 없습니다

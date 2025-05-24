@@ -1,9 +1,7 @@
 ---
 title:  "[2019-12-30] - [C#]OpenCvSharp 라이브러리 사용하기 #1"
-permalink: /categories/코딩정보/C#/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "xml"
   - "c#"
   - "opencv"
@@ -11,6 +9,7 @@ taxonomy: 코딩정보
   - "opencvsharp"
   - "라이브러리등록"
   - "c#"
+last_modified_at: 2025-05-24T23:15:53+09:00
 ---
 
 ## [C#]OpenCvSharp 라이브러리 사용하기 #1

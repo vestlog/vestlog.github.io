@@ -1,10 +1,9 @@
 ---
 title:  "[2021-04-16] - [PYTHON] KIVY 윈도우환경에서 설치하기"
-permalink: /categories/코딩정보/Python/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "기타"
+last_modified_at: 2025-05-24T23:15:59+09:00
 ---
 
 ## [PYTHON] KIVY 윈도우환경에서 설치하기

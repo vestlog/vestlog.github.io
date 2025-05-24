@@ -1,9 +1,7 @@
 ---
 title:  "[2020-11-20] - [FortiGate] 크롬 브라우져에서 웹필터 우회 막기"
-permalink: /categories/코딩정보/IT 프로그램/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "웹필터"
   - "크롬"
   - "프록시"
@@ -11,6 +9,7 @@ taxonomy: 코딩정보
   - "fortigate"
   - "크롬"
   - "웹필터"
+last_modified_at: 2025-05-24T23:15:56+09:00
 ---
 
 ## [FortiGate] 크롬 브라우져에서 웹필터 우회 막기

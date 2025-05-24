@@ -1,9 +1,7 @@
 ---
 title:  "[2020-01-09] - [C#] OpenCvSharp 이미지 사각, 원형 검출하기"
-permalink: /categories/코딩정보/OpenCv/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "c#"
   - "opencv"
   - "컨투어"
@@ -13,6 +11,7 @@ taxonomy: 코딩정보
   - "사각형검출"
   - "원형검출"
   - "이미지"
+last_modified_at: 2025-05-24T23:15:54+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 사각, 원형 검출하기

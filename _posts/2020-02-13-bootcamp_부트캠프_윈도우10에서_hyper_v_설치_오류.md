@@ -1,15 +1,14 @@
 ---
 title:  "[2020-02-13] - [BootCamp] 부트캠프 윈도우10에서 Hyper-V 설치 오류"
-permalink: /categories/코딩정보/BootCamp/
-layout: category
-author_profile: true
-taxonomy: 코딩정보
+categories:
+  - Blog
   - "안드로이드"
   - "비쥬얼스튜디오"
   - "설치"
   - "Microsoft"
   - "Hyper-v"
   - "에뮬레이터"
+last_modified_at: 2025-05-24T23:15:54+09:00
 ---
 
 ## [BootCamp] 부트캠프 윈도우10에서 Hyper-V 설치 오류
