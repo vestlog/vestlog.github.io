@@ -2,8 +2,7 @@
 title:  "[2019-12-30] - [C#] OpenCvSharp 이미지처리(회전, 축소, 확대) 하기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "OpenCv"
+- Blog
 tags:
   - "c#"
   - "이미지회전"
@@ -12,7 +11,7 @@ tags:
   - "opencvsharp"
   - "이미지처리"
   - "이미지축소"
-last_modified_at: 2025-05-24T21:37:54+09:00
+last_modified_at: 2025-05-24T21:47:37+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지처리(회전, 축소, 확대) 하기

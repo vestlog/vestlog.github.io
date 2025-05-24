@@ -2,15 +2,14 @@
 title:  "[2019-12-16] - [KakaoAdfit]드디어 심사 승인되었습니다"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "잡담"
+- Blog
 tags:
   - "심사보류"
   - "다음애드핏"
   - "kakaoadfit"
   - "최신컨텐츠보류"
   - "매체"
-last_modified_at: 2025-05-24T21:37:53+09:00
+last_modified_at: 2025-05-24T21:47:37+09:00
 ---
 
 ## [KakaoAdfit]드디어 심사 승인되었습니다

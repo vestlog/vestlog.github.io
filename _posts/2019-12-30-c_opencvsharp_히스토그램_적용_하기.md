@@ -2,8 +2,7 @@
 title:  "[2019-12-30] - [C#] OpenCvSharp  히스토그램 적용 하기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "OpenCv"
+- Blog
 tags:
   - "c#"
   - "opencv"
@@ -11,7 +10,7 @@ tags:
   - "이미지효과"
   - "이미지필터"
   - "opencvsharp"
-last_modified_at: 2025-05-24T21:37:54+09:00
+last_modified_at: 2025-05-24T21:47:37+09:00
 ---
 
 ## [C#] OpenCvSharp 히스토그램 적용 하기

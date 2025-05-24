@@ -2,14 +2,13 @@
 title:  "[2021-01-11] - [Python] 티스토리 API 사용을 위한 Access_token 구하기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "Python"
+- Blog
 tags:
   - "파이썬"
   - "티스토리"
   - "티스토리"
   - "티스토리토큰"
-last_modified_at: 2025-05-24T21:37:56+09:00
+last_modified_at: 2025-05-24T21:47:40+09:00
 ---
 
 ## [Python] 티스토리 API 사용을 위한 Access_token 구하기

@@ -2,8 +2,7 @@
 title:  "[2019-06-12] - [C#]MX Component V4를 이용한 통신"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "C#"
+- Blog
 tags:
   - "통신"
   - "c#"
@@ -11,7 +10,7 @@ tags:
   - "미쯔비시"
   - "비쥬얼스튜디오"
   - "2017"
-last_modified_at: 2025-05-24T21:37:53+09:00
+last_modified_at: 2025-05-24T21:47:36+09:00
 ---
 
 ## [C#]MX Component V4를 이용한 통신

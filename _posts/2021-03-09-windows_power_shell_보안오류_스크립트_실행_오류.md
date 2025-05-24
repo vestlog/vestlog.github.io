@@ -2,8 +2,7 @@
 title:  "[2021-03-09] - [Windows Power Shell] 보안오류(스크립트 실행 오류)"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "Windows"
+- Blog
 tags:
   - "관리자"
   - "unauthorizedAccess"
@@ -11,7 +10,7 @@ tags:
   - "보안"
   - "PSSecurityException"
   - "about_Execution_Policies"
-last_modified_at: 2025-05-24T21:37:58+09:00
+last_modified_at: 2025-05-24T21:47:42+09:00
 ---
 
 ## [Windows Power Shell] 보안오류(스크립트 실행 오류)

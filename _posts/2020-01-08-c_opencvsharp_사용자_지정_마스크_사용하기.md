@@ -2,8 +2,7 @@
 title:  "[2020-01-08] - [C#] OpenCvSharp 사용자 지정 마스크 사용하기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "OpenCv"
+- Blog
 tags:
   - "c#"
   - "opencv"
@@ -12,7 +11,7 @@ tags:
   - "사용자지정마스크"
   - "유저마스크"
   - "Fiter2D"
-last_modified_at: 2025-05-24T21:37:54+09:00
+last_modified_at: 2025-05-24T21:47:38+09:00
 ---
 
 ## [C#] OpenCvSharp 사용자 지정 마스크 사용하기

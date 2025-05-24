@@ -2,8 +2,7 @@
 title:  "[2021-09-03] - [Windows Server 2003] 방화벽 설정으로 특정 IP 차단 설정"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "Windows"
+- Blog
 tags:
   - "윈도우서버2003"
   - "db접근통제"
@@ -11,7 +10,7 @@ tags:
   - "WindowsServer2003"
   - "서버접근차단"
   - "MSSQL"
-last_modified_at: 2025-05-24T21:38:02+09:00
+last_modified_at: 2025-05-24T21:47:46+09:00
 ---
 
 ## [Windows Server 2003] 방화벽 설정으로 특정 IP 차단 설정

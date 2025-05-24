@@ -2,8 +2,7 @@
 title:  "[2020-09-10] - [MSSQL] 날짜 계산하기(datediff, dateadd)"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "MS-SQL"
+- Blog
 tags:
   - "날짜계산"
   - "DATEDIFF"
@@ -11,7 +10,7 @@ tags:
   - "일자계산"
   - "mssql"
   - "일수"
-last_modified_at: 2025-05-24T21:37:56+09:00
+last_modified_at: 2025-05-24T21:47:39+09:00
 ---
 
 ## [MSSQL] 날짜 계산하기(datediff, dateadd)

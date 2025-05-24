@@ -2,8 +2,7 @@
 title:  "[2019-12-30] - [C#] OpenCvSharp 얼굴검출 기능 구현하기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "OpenCv"
+- Blog
 tags:
   - "얼굴인식"
   - "c#"
@@ -13,7 +12,7 @@ tags:
   - "이미지인식"
   - "opencvsharp"
   - "얼굴검출"
-last_modified_at: 2025-05-24T21:37:54+09:00
+last_modified_at: 2025-05-24T21:47:37+09:00
 ---
 
 ## [C#] OpenCvSharp 얼굴검출 기능 구현하기

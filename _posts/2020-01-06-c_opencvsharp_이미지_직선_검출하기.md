@@ -2,8 +2,7 @@
 title:  "[2020-01-06] - [C#] OpenCvSharp 이미지 직선 검출하기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "OpenCv"
+- Blog
 tags:
   - "c#"
   - "opencv"
@@ -12,7 +11,7 @@ tags:
   - "직선검출"
   - "HoughLines2"
   - "허프변환"
-last_modified_at: 2025-05-24T21:37:54+09:00
+last_modified_at: 2025-05-24T21:47:37+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 직선 검출하기

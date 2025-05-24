@@ -2,8 +2,7 @@
 title:  "[2019-12-30] - [C#] OpenCvSharp 소벨엣지 효과 주기"
 excerpt: ""
 categories:
-  - "코딩정보"
-  - "OpenCv"
+- Blog
 tags:
   - "c#"
   - "opencv"
@@ -12,7 +11,7 @@ tags:
   - "opencvsharp"
   - "소벨엣지효과"
   - "소벨엣지"
-last_modified_at: 2025-05-24T21:37:54+09:00
+last_modified_at: 2025-05-24T21:47:37+09:00
 ---
 
 ## [C#] OpenCvSharp 소벨엣지 효과 주기
