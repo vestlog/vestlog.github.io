@@ -1,12 +1,8 @@
 ---
 title:  "[2020-01-02] - [네트워크] FortiClient 설치 하기"
 excerpt: ""
-permalink: /categories/코딩정보/IT 프로그램/
+permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/IT%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/
 layout: category
-author_profile: true
-taxonomy:
-  - "코딩정보"
-  - "IT 프로그램"
 tags:
   - "클라이언트"
   - "VPN"
@@ -15,7 +11,7 @@ tags:
   - "fortigate"
   - "FortiClient"
   - "VPN"
-last_modified_at: 2025-05-24T22:06:37+09:00
+last_modified_at: 2025-05-24T22:16:30+09:00
 ---
 
 ## [네트워크] FortiClient 설치 하기

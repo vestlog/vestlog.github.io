@@ -1,12 +1,8 @@
 ---
 title:  "[2019-06-12] - [C#]MX Component V4 설정 방법"
 excerpt: ""
-permalink: /categories/코딩정보/IT 프로그램/
+permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/IT%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/
 layout: category
-author_profile: true
-taxonomy:
-  - "코딩정보"
-  - "IT 프로그램"
 tags:
   - "Mitsubishi"
   - "시뮬레이션"
@@ -15,7 +11,7 @@ tags:
   - "미쯔비시"
   - "MXComponent"
   - "GX"
-last_modified_at: 2025-05-24T22:06:35+09:00
+last_modified_at: 2025-05-24T22:16:29+09:00
 ---
 
 ## [C#]MX Component V4 설정 방법

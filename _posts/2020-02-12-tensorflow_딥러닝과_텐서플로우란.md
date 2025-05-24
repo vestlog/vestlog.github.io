@@ -1,17 +1,13 @@
 ---
 title:  "[2020-02-12] - [TensorFlow] 딥러닝과 텐서플로우란?"
 excerpt: ""
-permalink: /categories/코딩정보/TensorFlow/
+permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/TensorFlow/
 layout: category
-author_profile: true
-taxonomy:
-  - "코딩정보"
-  - "TensorFlow"
 tags:
   - "딥러닝"
   - "tensorflow"
   - "텐서플로"
-last_modified_at: 2025-05-24T22:06:38+09:00
+last_modified_at: 2025-05-24T22:16:31+09:00
 ---
 
 ## [TensorFlow] 딥러닝과 텐서플로우란?

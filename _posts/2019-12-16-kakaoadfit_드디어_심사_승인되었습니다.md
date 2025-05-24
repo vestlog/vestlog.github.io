@@ -1,19 +1,15 @@
 ---
 title:  "[2019-12-16] - [KakaoAdfit]드디어 심사 승인되었습니다"
 excerpt: ""
-permalink: /categories/코딩정보/잡담/
+permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/%EC%9E%A1%EB%8B%B4/
 layout: category
-author_profile: true
-taxonomy:
-  - "코딩정보"
-  - "잡담"
 tags:
   - "심사보류"
   - "다음애드핏"
   - "kakaoadfit"
   - "최신컨텐츠보류"
   - "매체"
-last_modified_at: 2025-05-24T22:06:36+09:00
+last_modified_at: 2025-05-24T22:16:30+09:00
 ---
 
 ## [KakaoAdfit]드디어 심사 승인되었습니다

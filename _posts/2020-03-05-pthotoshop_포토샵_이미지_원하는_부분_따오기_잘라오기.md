@@ -1,19 +1,15 @@
 ---
 title:  "[2020-03-05] - [PthotoShop] 포토샵 이미지 원하는 부분 따오기(잘라오기)"
 excerpt: ""
-permalink: /categories/코딩정보/Photoshop/
+permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/Photoshop/
 layout: category
-author_profile: true
-taxonomy:
-  - "코딩정보"
-  - "Photoshop"
 tags:
   - "포토샵"
   - "배경투명"
   - "조각화"
   - "배경분리"
   - "이미지"
-last_modified_at: 2025-05-24T22:06:38+09:00
+last_modified_at: 2025-05-24T22:16:31+09:00
 ---
 
 ## [PthotoShop] 포토샵 이미지 원하는 부분 따오기(잘라오기)

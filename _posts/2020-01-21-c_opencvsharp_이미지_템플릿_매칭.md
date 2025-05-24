@@ -1,12 +1,8 @@
 ---
 title:  "[2020-01-21] - [C#] OpenCvSharp 이미지 템플릿 매칭"
 excerpt: ""
-permalink: /categories/코딩정보/OpenCv/
+permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/OpenCv/
 layout: category
-author_profile: true
-taxonomy:
-  - "코딩정보"
-  - "OpenCv"
 tags:
   - "비교"
   - "매칭"
@@ -17,7 +13,7 @@ tags:
   - "템플릿매칭"
   - "이미지비교"
   - "찾아내기"
-last_modified_at: 2025-05-24T22:06:37+09:00
+last_modified_at: 2025-05-24T22:16:31+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 템플릿 매칭

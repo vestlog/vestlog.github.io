@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "GitHub 일일세상요약 - vestlog.github.io"
+title                    : "코딩하는남자의 취미 생활 Vlog's - vestlog.github.io"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "코딩하는남자"
-description              : "회사원은 돈만 벌고 취미로 세상/주식 정보 모으는 개발자의 블로그 ."
+description              : "월급으로 돈 벌고 취미로 세상/주식 정보 모아서 투자하는 AI 개발자의 블로그 ."
 url                      : "https://vestlog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
