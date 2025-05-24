@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "웹필터"
-  - "크롬"
-  - "프록시"
-  - "포티케이트(FortiGate)"
-  - "fortigate"
-  - "크롬"
-  - "웹필터"
-last_modified_at: 2025-05-24T22:32:59+09:00
+  - 웹필터
+  - 크롬
+  - 프록시
+  - 포티케이트(FortiGate)
+  - fortigate
+  - 크롬
+  - 웹필터
+last_modified_at: 2025-05-24T22:43:42+09:00
 ---
 
 ## [FortiGate] 크롬 브라우져에서 웹필터 우회 막기

@@ -6,12 +6,12 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "C#"
-  - "C#"
-  - "픽쳐박스"
-  - "투명팝업"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - c#
+  - C#
+  - C#
+  - 픽쳐박스
+  - 투명팝업
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [C#] 투명 팝업창을 이용한 ProgressBar 만들기

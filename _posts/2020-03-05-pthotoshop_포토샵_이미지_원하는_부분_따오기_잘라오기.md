@@ -6,12 +6,12 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "포토샵"
-  - "배경투명"
-  - "조각화"
-  - "배경분리"
-  - "이미지"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - 포토샵
+  - 배경투명
+  - 조각화
+  - 배경분리
+  - 이미지
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [PthotoShop] 포토샵 이미지 원하는 부분 따오기(잘라오기)

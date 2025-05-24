@@ -6,17 +6,17 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "opencv"
-  - "팽창"
-  - "침식"
-  - "모폴로지"
-  - "opencvsharp"
-  - "이미지처리"
-  - "이미지작업"
-  - "모폴로지연산"
-  - "형태학적"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - c#
+  - opencv
+  - 팽창
+  - 침식
+  - 모폴로지
+  - opencvsharp
+  - 이미지처리
+  - 이미지작업
+  - 모폴로지연산
+  - 형태학적
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 모폴로지 연산 처리하기

@@ -6,13 +6,13 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "윈도우서버2003"
-  - "db접근통제"
-  - "방화벽"
-  - "WindowsServer2003"
-  - "서버접근차단"
-  - "MSSQL"
-last_modified_at: 2025-05-24T22:33:06+09:00
+  - 윈도우서버2003
+  - db접근통제
+  - 방화벽
+  - WindowsServer2003
+  - 서버접근차단
+  - MSSQL
+last_modified_at: 2025-05-24T22:43:49+09:00
 ---
 
 ## [Windows Server 2003] 방화벽 설정으로 특정 IP 차단 설정

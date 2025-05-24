@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "이미지회전"
-  - "opencv"
-  - "이미지확대"
-  - "opencvsharp"
-  - "이미지처리"
-  - "이미지축소"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - c#
+  - 이미지회전
+  - opencv
+  - 이미지확대
+  - opencvsharp
+  - 이미지처리
+  - 이미지축소
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지처리(회전, 축소, 확대) 하기

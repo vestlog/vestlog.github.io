@@ -6,16 +6,16 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "opencv"
-  - "컨투어"
-  - "윤곽선"
-  - "opencvsharp"
-  - "모형검출"
-  - "사각형검출"
-  - "원형검출"
-  - "이미지"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - c#
+  - opencv
+  - 컨투어
+  - 윤곽선
+  - opencvsharp
+  - 모형검출
+  - 사각형검출
+  - 원형검출
+  - 이미지
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 사각, 원형 검출하기

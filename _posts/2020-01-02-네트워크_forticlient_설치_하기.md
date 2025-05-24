@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "클라이언트"
-  - "VPN"
-  - "방화벽"
-  - "SSL"
-  - "fortigate"
-  - "FortiClient"
-  - "VPN"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - 클라이언트
+  - VPN
+  - 방화벽
+  - SSL
+  - fortigate
+  - FortiClient
+  - VPN
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [네트워크] FortiClient 설치 하기

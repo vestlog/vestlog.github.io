@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "Update"
-  - "MSSQL"
-  - "query"
-  - "insert"
-  - "merge"
-  - "INSERT와UPDATE를"
-  - "INSERT와"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - Update
+  - MSSQL
+  - query
+  - insert
+  - merge
+  - INSERT와UPDATE를
+  - INSERT와
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [MSSQL] MERGE를 이용한 INSERT와 UPDATE 한번에 하기

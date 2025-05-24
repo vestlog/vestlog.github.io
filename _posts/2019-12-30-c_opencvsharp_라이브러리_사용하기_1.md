@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "xml"
-  - "c#"
-  - "opencv"
-  - "dll등록"
-  - "opencvsharp"
-  - "라이브러리등록"
-  - "c#"
-last_modified_at: 2025-05-24T22:32:56+09:00
+  - xml
+  - c#
+  - opencv
+  - dll등록
+  - opencvsharp
+  - 라이브러리등록
+  - c#
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#]OpenCvSharp 라이브러리 사용하기 #1

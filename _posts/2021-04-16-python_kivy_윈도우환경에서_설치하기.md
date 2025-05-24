@@ -6,8 +6,8 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "기타"
-last_modified_at: 2025-05-24T22:33:02+09:00
+  - 기타
+last_modified_at: 2025-05-24T22:43:45+09:00
 ---
 
 ## [PYTHON] KIVY 윈도우환경에서 설치하기

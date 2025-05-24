@@ -4,9 +4,7 @@ main:
     url: vestlog.github.io
   - title: "About"
     url: https://vestlog.github.io/about/
-  - title: "Categoies"
+  - title: "Categories"
     url: /categories/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Sitemap"
+    url: /sitemap/

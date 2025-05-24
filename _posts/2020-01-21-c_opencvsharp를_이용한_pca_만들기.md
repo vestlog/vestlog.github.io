@@ -6,16 +6,16 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "pca"
-  - "판별"
-  - "분석"
-  - "학습"
-  - "매칭"
-  - "c#"
-  - "검출"
-  - "opencv"
-  - "opencvsharp"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - pca
+  - 판별
+  - 분석
+  - 학습
+  - 매칭
+  - c#
+  - 검출
+  - opencv
+  - opencvsharp
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp를 이용한 PCA 만들기

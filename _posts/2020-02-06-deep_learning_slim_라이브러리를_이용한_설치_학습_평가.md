@@ -6,16 +6,16 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "평가"
-  - "Slim"
-  - "학습"
-  - "라이브러리"
-  - "deep"
-  - "tensorflow"
-  - "실예측정확도"
-  - "유사율"
-  - "모델학습"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - 평가
+  - Slim
+  - 학습
+  - 라이브러리
+  - deep
+  - tensorflow
+  - 실예측정확도
+  - 유사율
+  - 모델학습
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [Deep Learning] slim 라이브러리를 이용한 설치, 학습, 평가

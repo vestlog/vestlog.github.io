@@ -6,13 +6,13 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "날짜계산"
-  - "DATEDIFF"
-  - "dateadd"
-  - "일자계산"
-  - "mssql"
-  - "일수"
-last_modified_at: 2025-05-24T22:32:59+09:00
+  - 날짜계산
+  - DATEDIFF
+  - dateadd
+  - 일자계산
+  - mssql
+  - 일수
+last_modified_at: 2025-05-24T22:43:42+09:00
 ---
 
 ## [MSSQL] 날짜 계산하기(datediff, dateadd)

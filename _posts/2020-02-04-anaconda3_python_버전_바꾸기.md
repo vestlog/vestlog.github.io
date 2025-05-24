@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "파이썬"
-  - "python"
-  - "anaconda3"
-  - "python"
-  - "python업그레이드"
-  - "파이썬"
-  - "파이선"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - 파이썬
+  - python
+  - anaconda3
+  - python
+  - python업그레이드
+  - 파이썬
+  - 파이선
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [Anaconda3] Python 버전 바꾸기

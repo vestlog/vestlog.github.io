@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "에뮬레이터"
-  - "안드로이드"
-  - "인터넷연결"
-  - "인터넷연결안됨"
-  - "Visual"
-  - "ERR_SSL_PROTOCOL_ERROR"
-  - "Webpage"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - 에뮬레이터
+  - 안드로이드
+  - 인터넷연결
+  - 인터넷연결안됨
+  - Visual
+  - ERR_SSL_PROTOCOL_ERROR
+  - Webpage
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 인터넷 연결

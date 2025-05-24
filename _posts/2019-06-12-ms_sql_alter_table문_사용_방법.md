@@ -6,12 +6,12 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "MSSQL"
-  - "query"
-  - "table"
-  - "alter"
-  - "alter"
-last_modified_at: 2025-05-24T22:32:56+09:00
+  - MSSQL
+  - query
+  - table
+  - alter
+  - alter
+last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [MS-SQL] ALTER TABLE문 사용 방법

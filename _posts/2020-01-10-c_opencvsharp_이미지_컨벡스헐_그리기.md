@@ -6,16 +6,16 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "opencv"
-  - "Hull"
-  - "opencvsharp"
-  - "컨벡스헐"
-  - "점선그리기"
-  - "ConvexHull2"
-  - "점선연결하기"
-  - "외곽선그리기"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - c#
+  - opencv
+  - Hull
+  - opencvsharp
+  - 컨벡스헐
+  - 점선그리기
+  - ConvexHull2
+  - 점선연결하기
+  - 외곽선그리기
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 컨벡스헐 그리기

@@ -6,13 +6,13 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "MSSQL"
-  - "query"
-  - "쿼리"
-  - "Exists"
-  - "NOT"
-  - "조회조건"
-last_modified_at: 2025-05-24T22:32:55+09:00
+  - MSSQL
+  - query
+  - 쿼리
+  - Exists
+  - NOT
+  - 조회조건
+last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [MS-SQL] NOT EXISTS 사용 방법

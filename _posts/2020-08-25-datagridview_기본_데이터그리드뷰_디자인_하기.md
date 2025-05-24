@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "DataGridView"
-  - "커스텀디자인"
-  - "데이터그리드뷰"
-  - "그리드뷰"
-  - "그리드뷰"
-  - "그리드뷰"
-last_modified_at: 2025-05-24T22:32:59+09:00
+  - c#
+  - DataGridView
+  - 커스텀디자인
+  - 데이터그리드뷰
+  - 그리드뷰
+  - 그리드뷰
+  - 그리드뷰
+last_modified_at: 2025-05-24T22:43:42+09:00
 ---
 
 ## [DataGridView] 기본 데이터그리드뷰 디자인 하기!!

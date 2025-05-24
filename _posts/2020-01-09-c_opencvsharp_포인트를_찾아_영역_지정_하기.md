@@ -6,13 +6,13 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "Rectangle"
-  - "c#"
-  - "opencv"
-  - "opencvsharp"
-  - "BoundingRect"
-  - "사각그리기"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - Rectangle
+  - c#
+  - opencv
+  - opencvsharp
+  - BoundingRect
+  - 사각그리기
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기

@@ -6,17 +6,17 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "이미지"
-  - "c#"
-  - "opencv"
-  - "opencvsharp"
-  - "옵티컬플로우"
-  - "광학처리"
-  - "이미지"
-  - "이미지"
-  - "광류"
-  - "이미지"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - 이미지
+  - c#
+  - opencv
+  - opencvsharp
+  - 옵티컬플로우
+  - 광학처리
+  - 이미지
+  - 이미지
+  - 광류
+  - 이미지
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 옵티컬플로우 처리하기

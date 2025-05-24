@@ -6,15 +6,15 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "어플만들기"
-  - "앱만들기"
-  - "cross-platform"
-  - "자마린"
-  - "Xamarin"
-  - "xamarin"
-  - "로그인만들기"
-  - "비쥬얼스튜디오"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - 어플만들기
+  - 앱만들기
+  - cross-platform
+  - 자마린
+  - Xamarin
+  - xamarin
+  - 로그인만들기
+  - 비쥬얼스튜디오
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [Xamarin Forms] 자마린으로 간단한 로그인 앱 만들기

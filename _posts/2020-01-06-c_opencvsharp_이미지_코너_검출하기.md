@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "이미지편집"
-  - "c#"
-  - "opencv"
-  - "opencvsharp"
-  - "이미지처리"
-  - "이미지코너검출"
-  - "코너검출"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - 이미지편집
+  - c#
+  - opencv
+  - opencvsharp
+  - 이미지처리
+  - 이미지코너검출
+  - 코너검출
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 코너 검출하기

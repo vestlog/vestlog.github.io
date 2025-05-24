@@ -6,11 +6,11 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "파이썬"
-  - "티스토리"
-  - "티스토리"
-  - "티스토리토큰"
-last_modified_at: 2025-05-24T22:32:59+09:00
+  - 파이썬
+  - 티스토리
+  - 티스토리
+  - 티스토리토큰
+last_modified_at: 2025-05-24T22:43:42+09:00
 ---
 
 ## [Python] 티스토리 API 사용을 위한 Access_token 구하기

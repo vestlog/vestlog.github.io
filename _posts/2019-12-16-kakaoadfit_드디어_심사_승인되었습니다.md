@@ -6,12 +6,12 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "심사보류"
-  - "다음애드핏"
-  - "kakaoadfit"
-  - "최신컨텐츠보류"
-  - "매체"
-last_modified_at: 2025-05-24T22:32:56+09:00
+  - 심사보류
+  - 다음애드핏
+  - kakaoadfit
+  - 최신컨텐츠보류
+  - 매체
+last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [KakaoAdfit]드디어 심사 승인되었습니다

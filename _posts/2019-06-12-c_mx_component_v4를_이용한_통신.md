@@ -6,13 +6,13 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "통신"
-  - "c#"
-  - "PLC"
-  - "미쯔비시"
-  - "비쥬얼스튜디오"
-  - "2017"
-last_modified_at: 2025-05-24T22:32:56+09:00
+  - 통신
+  - c#
+  - PLC
+  - 미쯔비시
+  - 비쥬얼스튜디오
+  - 2017
+last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [C#]MX Component V4를 이용한 통신

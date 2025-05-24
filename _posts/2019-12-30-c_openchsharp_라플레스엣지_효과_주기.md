@@ -6,13 +6,13 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "opencv"
-  - "이미지효과"
-  - "이미지필터"
-  - "opencvsharp"
-  - "라플레스엣지"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - c#
+  - opencv
+  - 이미지효과
+  - 이미지필터
+  - opencvsharp
+  - 라플레스엣지
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [C#] OpenChSharp 라플레스엣지 효과 주기

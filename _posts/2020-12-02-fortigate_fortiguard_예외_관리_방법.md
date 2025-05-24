@@ -6,12 +6,12 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "패킷분석"
-  - "포티게이트(FortiGate)"
-  - "포티가드(FortiGuard)"
-  - "웹사이트차단"
-  - "URL확인"
-last_modified_at: 2025-05-24T22:32:59+09:00
+  - 패킷분석
+  - 포티게이트(FortiGate)
+  - 포티가드(FortiGuard)
+  - 웹사이트차단
+  - URL확인
+last_modified_at: 2025-05-24T22:43:42+09:00
 ---
 
 ## [FortiGate] FortiGuard 예외 관리 방법

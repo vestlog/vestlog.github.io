@@ -6,10 +6,10 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "c#"
-  - "svm"
-  - "MachineLearning"
-last_modified_at: 2025-05-24T22:32:58+09:00
+  - c#
+  - svm
+  - MachineLearning
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [C#] OpenCv DLL 라이브러리 파일

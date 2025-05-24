@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "Mitsubishi"
-  - "매뉴얼"
-  - "한글매뉴얼"
-  - "mxcomponentv4"
-  - "melsoft"
-  - "MX"
-  - "프로그래밍"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - Mitsubishi
+  - 매뉴얼
+  - 한글매뉴얼
+  - mxcomponentv4
+  - melsoft
+  - MX
+  - 프로그래밍
+last_modified_at: 2025-05-24T22:43:40+09:00
 ---
 
 ## [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)

@@ -6,16 +6,16 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "ai"
-  - "ChatGPT"
-  - "AI"
-  - "AI"
-  - "ChatGPT"
-  - "AI"
-  - "AI"
-  - "AI"
-  - "AI"
-last_modified_at: 2025-05-24T22:33:07+09:00
+  - ai
+  - ChatGPT
+  - AI
+  - AI
+  - ChatGPT
+  - AI
+  - AI
+  - AI
+  - AI
+last_modified_at: 2025-05-24T22:43:50+09:00
 ---
 
 ## [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)

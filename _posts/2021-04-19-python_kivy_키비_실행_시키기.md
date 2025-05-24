@@ -6,11 +6,11 @@ layout: category
 author_profile: true
 taxonomy: 
 tags:
-  - "파이썬"
-  - "파이썬"
-  - "kivy"
-  - "kivy"
-last_modified_at: 2025-05-24T22:33:02+09:00
+  - 파이썬
+  - 파이썬
+  - kivy
+  - kivy
+last_modified_at: 2025-05-24T22:43:45+09:00
 ---
 
 ## [PYTHON] Kivy[키비] 실행 시키기

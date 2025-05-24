@@ -6,14 +6,14 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "Mitsubishi"
-  - "시뮬레이션"
-  - "c#"
-  - "PLC"
-  - "미쯔비시"
-  - "MXComponent"
-  - "GX"
-last_modified_at: 2025-05-24T22:32:55+09:00
+  - Mitsubishi
+  - 시뮬레이션
+  - c#
+  - PLC
+  - 미쯔비시
+  - MXComponent
+  - GX
+last_modified_at: 2025-05-24T22:43:39+09:00
 ---
 
 ## [C#]MX Component V4 설정 방법

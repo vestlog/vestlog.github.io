@@ -6,15 +6,15 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "tensorflow"
-  - "텐서플로우"
-  - "Tensorflow"
-  - "Tensorflow"
-  - "텐서플로우"
-  - "tf.contrib.layers.fully_connected"
-  - "runtimeerror:"
-  - "attributeerror:"
-last_modified_at: 2025-05-24T22:33:01+09:00
+  - tensorflow
+  - 텐서플로우
+  - Tensorflow
+  - Tensorflow
+  - 텐서플로우
+  - tf.contrib.layers.fully_connected
+  - runtimeerror:
+  - attributeerror:
+last_modified_at: 2025-05-24T22:43:44+09:00
 ---
 
 ## [텐서플로워] Tensorflow 1.x버전 코드를 Tensorflow 2.x버전으로 사용

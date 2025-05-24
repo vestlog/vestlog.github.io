@@ -6,12 +6,12 @@ layout: category
 author_profile: true
 taxonomy: 코딩정보
 tags:
-  - "tensorflow"
-  - "텐서플로우"
-  - "tensorflow"
-  - "텐서플로우"
-  - "tensorflow"
-last_modified_at: 2025-05-24T22:32:57+09:00
+  - tensorflow
+  - 텐서플로우
+  - tensorflow
+  - 텐서플로우
+  - tensorflow
+last_modified_at: 2025-05-24T22:43:41+09:00
 ---
 
 ## [Tensorflow] 특정 버전의 텐서플로우 설치하기
