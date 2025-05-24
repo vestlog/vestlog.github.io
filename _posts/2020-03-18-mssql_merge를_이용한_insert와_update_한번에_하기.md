@@ -2,17 +2,17 @@
 title:  "[2020-03-18] - [MSSQL] MERGE를 이용한 INSERT와 UPDATE 한번에 하기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - MS-SQL
+  - "코딩정보"
+  - "MS-SQL"
 tags:
-  - Update
-  - MSSQL
-  - query
-  - insert
-  - merge
-  - INSERT와UPDATE를
-  - INSERT와
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "Update"
+  - "MSSQL"
+  - "query"
+  - "insert"
+  - "merge"
+  - "INSERT와UPDATE를"
+  - "INSERT와"
+last_modified_at: 2025-05-24T21:19:31+09:00
 ---
 
 ## [MSSQL] MERGE를 이용한 INSERT와 UPDATE 한번에 하기

@@ -2,17 +2,17 @@
 title:  "[2020-03-04] - [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 인터넷 연결 설정하기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - Android
+  - "코딩정보"
+  - "Android"
 tags:
-  - 에뮬레이터
-  - 안드로이드
-  - 인터넷연결
-  - 인터넷연결안됨
-  - Visual
-  - ERR_SSL_PROTOCOL_ERROR
-  - Webpage
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "에뮬레이터"
+  - "안드로이드"
+  - "인터넷연결"
+  - "인터넷연결안됨"
+  - "Visual"
+  - "ERR_SSL_PROTOCOL_ERROR"
+  - "Webpage"
+last_modified_at: 2025-05-24T21:19:30+09:00
 ---
 
 ## [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 인터넷 연결

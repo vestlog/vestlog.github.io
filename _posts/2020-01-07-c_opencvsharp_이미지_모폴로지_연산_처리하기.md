@@ -2,20 +2,20 @@
 title:  "[2020-01-07] - [C#] OpenCvSharp 이미지 모폴로지 연산 처리하기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - OpenCv
+  - "코딩정보"
+  - "OpenCv"
 tags:
-  - c#
-  - opencv
-  - 팽창
-  - 침식
-  - 모폴로지
-  - opencvsharp
-  - 이미지처리
-  - 이미지작업
-  - 모폴로지연산
-  - 형태학적
-last_modified_at: 2025-05-24T18:45:51+09:00
+  - "c#"
+  - "opencv"
+  - "팽창"
+  - "침식"
+  - "모폴로지"
+  - "opencvsharp"
+  - "이미지처리"
+  - "이미지작업"
+  - "모폴로지연산"
+  - "형태학적"
+last_modified_at: 2025-05-24T21:19:29+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 모폴로지 연산 처리하기

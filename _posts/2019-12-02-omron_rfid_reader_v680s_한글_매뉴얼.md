@@ -2,20 +2,20 @@
 title:  "[2019-12-02] - [OMRON] RFID Reader V680S  한글 매뉴얼"
 excerpt: ""
 categories:
-  - 코딩정보
-  - IT 프로그램
+  - "코딩정보"
+  - "IT 프로그램"
 tags:
-  - RFID
-  - 메뉴얼
-  - 매뉴얼
-  - 옴론
-  - OMRON
-  - RFIDTag
-  - V680S
-  - RFID리더
-  - RFID
-  - omron
-last_modified_at: 2025-05-24T18:45:51+09:00
+  - "RFID"
+  - "메뉴얼"
+  - "매뉴얼"
+  - "옴론"
+  - "OMRON"
+  - "RFIDTag"
+  - "V680S"
+  - "RFID리더"
+  - "RFID"
+  - "omron"
+last_modified_at: 2025-05-24T21:19:28+09:00
 ---
 
 ## [OMRON] RFID Reader V680S 한글 매뉴얼

@@ -2,17 +2,17 @@
 title:  "[2020-02-04] - [Anaconda3] Python 버전 바꾸기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - Python
+  - "코딩정보"
+  - "Python"
 tags:
-  - 파이썬
-  - python
-  - anaconda3
-  - python
-  - python업그레이드
-  - 파이썬
-  - 파이선
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "파이썬"
+  - "python"
+  - "anaconda3"
+  - "python"
+  - "python업그레이드"
+  - "파이썬"
+  - "파이선"
+last_modified_at: 2025-05-24T21:19:30+09:00
 ---
 
 ## [Anaconda3] Python 버전 바꾸기

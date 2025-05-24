@@ -2,16 +2,16 @@
 title:  "[2019-12-30] - [C#] OpenCvSharp 그레이 효과 주기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - OpenCv
+  - "코딩정보"
+  - "OpenCv"
 tags:
-  - c#
-  - opencv
-  - 이미지효과
-  - 이미지필터
-  - opencvsharp
-  - 그레이효과
-last_modified_at: 2025-05-24T18:45:51+09:00
+  - "c#"
+  - "opencv"
+  - "이미지효과"
+  - "이미지필터"
+  - "opencvsharp"
+  - "그레이효과"
+last_modified_at: 2025-05-24T21:19:29+09:00
 ---
 
 ## [C#] OpenCvSharp 그레이 효과 주기

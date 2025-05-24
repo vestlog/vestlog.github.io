@@ -2,15 +2,15 @@
 title:  "[2020-04-22] - [C#] 투명 팝업창을 이용한 ProgressBar 만들기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - C#
+  - "코딩정보"
+  - "C#"
 tags:
-  - c#
-  - C#
-  - C#
-  - 픽쳐박스
-  - 투명팝업
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "c#"
+  - "C#"
+  - "C#"
+  - "픽쳐박스"
+  - "투명팝업"
+last_modified_at: 2025-05-24T21:19:31+09:00
 ---
 
 ## [C#] 투명 팝업창을 이용한 ProgressBar 만들기

@@ -2,13 +2,13 @@
 title:  "[2021-04-19] - [PYTHON] Kivy[키비] 실행 시키기"
 excerpt: ""
 categories:
-  - 
+  - ""
 tags:
-  - 파이썬
-  - 파이썬
-  - kivy
-  - kivy
-last_modified_at: 2025-05-24T18:45:55+09:00
+  - "파이썬"
+  - "파이썬"
+  - "kivy"
+  - "kivy"
+last_modified_at: 2025-05-24T21:19:34+09:00
 ---
 
 ## [PYTHON] Kivy[키비] 실행 시키기

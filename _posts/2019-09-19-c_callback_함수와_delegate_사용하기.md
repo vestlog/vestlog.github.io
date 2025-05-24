@@ -2,20 +2,20 @@
 title:  "[2019-09-19] - [C#] CallBack 함수와 Delegate 사용하기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - C#
+  - "코딩정보"
+  - "C#"
 tags:
-  - 프로그래밍
-  - RFID
-  - delegate
-  - c#
-  - 코딩
-  - Callback
-  - RFID
-  - 대리자
-  - Soket
-  - 이더넷통신
-last_modified_at: 2025-05-24T18:45:51+09:00
+  - "프로그래밍"
+  - "RFID"
+  - "delegate"
+  - "c#"
+  - "코딩"
+  - "Callback"
+  - "RFID"
+  - "대리자"
+  - "Soket"
+  - "이더넷통신"
+last_modified_at: 2025-05-24T21:19:28+09:00
 ---
 
 ## [C#] CallBack 함수와 Delegate 사용하기

@@ -2,19 +2,19 @@
 title:  "[2020-01-10] - [C#] OpenCvSharp 이미지 와핑 시키기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - OpenCv
+  - "코딩정보"
+  - "OpenCv"
 tags:
-  - 이미지편집
-  - c#
-  - opencv
-  - 와핑
-  - Warping
-  - WarpPerspective
-  - opencvsharp
-  - 이미지왜곡
-  - 이미지변조
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "이미지편집"
+  - "c#"
+  - "opencv"
+  - "와핑"
+  - "Warping"
+  - "WarpPerspective"
+  - "opencvsharp"
+  - "이미지왜곡"
+  - "이미지변조"
+last_modified_at: 2025-05-24T21:19:30+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 와핑 시키기

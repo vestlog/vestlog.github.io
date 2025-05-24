@@ -2,15 +2,15 @@
 title:  "[2020-02-04] - [Tensorflow] 특정 버전의 텐서플로우 설치하기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - TensorFlow
+  - "코딩정보"
+  - "TensorFlow"
 tags:
-  - tensorflow
-  - 텐서플로우
-  - tensorflow
-  - 텐서플로우
-  - tensorflow
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "tensorflow"
+  - "텐서플로우"
+  - "tensorflow"
+  - "텐서플로우"
+  - "tensorflow"
+last_modified_at: 2025-05-24T21:19:30+09:00
 ---
 
 ## [Tensorflow] 특정 버전의 텐서플로우 설치하기

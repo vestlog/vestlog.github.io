@@ -2,17 +2,17 @@
 title:  "[2019-12-24] - [C#] OpenCvSharp 이미지 읽어 오기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - C#
+  - "코딩정보"
+  - "C#"
 tags:
-  - c#
-  - 불러오기
-  - 파일불러오기
-  - opencv
-  - opencvsharp
-  - PictureBoxIpI
-  - 그림파일넣기
-last_modified_at: 2025-05-24T18:45:51+09:00
+  - "c#"
+  - "불러오기"
+  - "파일불러오기"
+  - "opencv"
+  - "opencvsharp"
+  - "PictureBoxIpI"
+  - "그림파일넣기"
+last_modified_at: 2025-05-24T21:19:29+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 읽어 오기

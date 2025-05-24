@@ -2,16 +2,16 @@
 title:  "[2020-03-17] - [Xamarin Forms] 자마린에서 MSSQL 연동하기"
 excerpt: ""
 categories:
-  - 코딩정보
-  - Android
+  - "코딩정보"
+  - "Android"
 tags:
-  - MSSQL
-  - DB
-  - xamarin
-  - 로그인
-  - 안드로이드
-  - MSSQL
-last_modified_at: 2025-05-24T18:45:52+09:00
+  - "MSSQL"
+  - "DB"
+  - "xamarin"
+  - "로그인"
+  - "안드로이드"
+  - "MSSQL"
+last_modified_at: 2025-05-24T21:19:31+09:00
 ---
 
 ## [Xamarin Forms] 자마린에서 MSSQL 연동하기
