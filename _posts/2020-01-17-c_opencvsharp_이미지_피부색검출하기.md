@@ -1,8 +1,7 @@
 ---
 title:  "[2020-01-17] - [C#] OpenCvSharp 이미지 피부색검출하기"
 excerpt: ""
-categories:
-- Blog
+permalink: /categories/코딩정보/OpenCv/
 tags:
   - "c#"
   - "opencv"
@@ -14,7 +13,7 @@ tags:
   - "ConvextyDefect"
   - "CvBlobs"
   - "ApproxPoly"
-last_modified_at: 2025-05-24T21:47:38+09:00
+last_modified_at: 2025-05-24T21:56:37+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 피부색검출하기

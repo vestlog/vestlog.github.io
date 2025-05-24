@@ -1,8 +1,7 @@
 ---
 title:  "[2020-01-21] - [C#] OpenCvSharp를 이용한 PCA 만들기"
 excerpt: ""
-categories:
-- Blog
+permalink: /categories/코딩정보/OpenCv/
 tags:
   - "pca"
   - "판별"
@@ -13,7 +12,7 @@ tags:
   - "검출"
   - "opencv"
   - "opencvsharp"
-last_modified_at: 2025-05-24T21:47:38+09:00
+last_modified_at: 2025-05-24T21:56:37+09:00
 ---
 
 ## [C#] OpenCvSharp를 이용한 PCA 만들기

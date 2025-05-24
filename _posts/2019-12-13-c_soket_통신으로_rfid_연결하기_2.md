@@ -1,8 +1,7 @@
 ---
 title:  "[2019-12-13] - [C#] Soket 통신으로 RFID 연결하기 #2"
 excerpt: ""
-categories:
-- Blog
+permalink: /categories/코딩정보/C#/
 tags:
   - "통신"
   - "RFID"
@@ -11,7 +10,7 @@ tags:
   - "OMRON"
   - "V680S"
   - "soket통신"
-last_modified_at: 2025-05-24T21:47:37+09:00
+last_modified_at: 2025-05-24T21:56:36+09:00
 ---
 
 ## [C#] Soket 통신으로 RFID 연결하기 #2

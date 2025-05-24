@@ -1,13 +1,12 @@
 ---
 title:  "[2020-02-07] - [C#] OpenCv DLL 라이브러리 파일"
 excerpt: ""
-categories:
-- Blog
+permalink: /categories/코딩정보/OpenCv/
 tags:
   - "c#"
   - "svm"
   - "MachineLearning"
-last_modified_at: 2025-05-24T21:47:38+09:00
+last_modified_at: 2025-05-24T21:56:37+09:00
 ---
 
 ## [C#] OpenCv DLL 라이브러리 파일
