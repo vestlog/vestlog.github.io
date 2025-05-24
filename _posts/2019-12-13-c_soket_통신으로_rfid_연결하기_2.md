@@ -12,7 +12,7 @@ tags:
   - "OMRON"
   - "V680S"
   - "soket통신"
-last_modified_at: 2025-05-24T21:25:40+09:00
+last_modified_at: 2025-05-24T21:37:53+09:00
 ---
 
 ## [C#] Soket 통신으로 RFID 연결하기 #2

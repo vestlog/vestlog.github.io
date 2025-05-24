@@ -10,7 +10,7 @@ tags:
   - "CUDA"
   - "tensorflow"
   - "cuDNN"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [Nvidia CUDA] 윈도우에서 CUDA 설치 하기

@@ -11,7 +11,7 @@ tags:
   - "tensorflow"
   - "jupyter"
   - "주피터노트북"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:55+09:00
 ---
 
 ## [TensorFlow] 텐서플로 설치와 주피터 노트북 설치하기

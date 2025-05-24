@@ -11,7 +11,7 @@ tags:
   - "WindowsServer2003"
   - "서버접근차단"
   - "MSSQL"
-last_modified_at: 2025-05-24T21:25:47+09:00
+last_modified_at: 2025-05-24T21:38:02+09:00
 ---
 
 ## [Windows Server 2003] 방화벽 설정으로 특정 IP 차단 설정

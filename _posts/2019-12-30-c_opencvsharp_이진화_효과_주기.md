@@ -11,7 +11,7 @@ tags:
   - "opencvsharp"
   - "이진화처리"
   - "이미지이진화"
-last_modified_at: 2025-05-24T21:25:40+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [C#] OpenCvSharp 이진화 효과 주기

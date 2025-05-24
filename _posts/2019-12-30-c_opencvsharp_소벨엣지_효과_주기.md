@@ -12,7 +12,7 @@ tags:
   - "opencvsharp"
   - "소벨엣지효과"
   - "소벨엣지"
-last_modified_at: 2025-05-24T21:25:40+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [C#] OpenCvSharp 소벨엣지 효과 주기

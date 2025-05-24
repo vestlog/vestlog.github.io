@@ -15,7 +15,7 @@ tags:
   - "대리자"
   - "Soket"
   - "이더넷통신"
-last_modified_at: 2025-05-24T21:25:40+09:00
+last_modified_at: 2025-05-24T21:37:53+09:00
 ---
 
 ## [C#] CallBack 함수와 Delegate 사용하기

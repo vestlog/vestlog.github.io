@@ -8,7 +8,7 @@ tags:
   - "Microsoft.ACE.OLEDB.12.0"
   - "OLEDB"
   - "엑셀"
-last_modified_at: 2025-05-24T21:25:42+09:00
+last_modified_at: 2025-05-24T21:37:55+09:00
 ---
 
 ## [C#] 'Microsoft.ACE.OLEDB.12.0' 공급자는 로컬 컴퓨터에 등록할 수 없습니다

@@ -11,7 +11,7 @@ tags:
   - "보안"
   - "PSSecurityException"
   - "about_Execution_Policies"
-last_modified_at: 2025-05-24T21:25:43+09:00
+last_modified_at: 2025-05-24T21:37:58+09:00
 ---
 
 ## [Windows Power Shell] 보안오류(스크립트 실행 오류)

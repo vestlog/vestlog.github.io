@@ -12,7 +12,7 @@ tags:
   - "melsoft"
   - "MX"
   - "프로그래밍"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)

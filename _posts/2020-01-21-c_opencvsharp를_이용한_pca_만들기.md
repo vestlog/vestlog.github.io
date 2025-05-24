@@ -14,7 +14,7 @@ tags:
   - "검출"
   - "opencv"
   - "opencvsharp"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [C#] OpenCvSharp를 이용한 PCA 만들기

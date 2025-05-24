@@ -11,7 +11,7 @@ tags:
   - "opencvsharp"
   - "BoundingRect"
   - "사각그리기"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기

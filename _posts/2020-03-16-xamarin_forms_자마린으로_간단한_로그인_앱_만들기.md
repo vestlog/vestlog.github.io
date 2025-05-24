@@ -13,7 +13,7 @@ tags:
   - "xamarin"
   - "로그인만들기"
   - "비쥬얼스튜디오"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:55+09:00
 ---
 
 ## [Xamarin Forms] 자마린으로 간단한 로그인 앱 만들기

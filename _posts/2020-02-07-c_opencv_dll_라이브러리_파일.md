@@ -8,7 +8,7 @@ tags:
   - "c#"
   - "svm"
   - "MachineLearning"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:55+09:00
 ---
 
 ## [C#] OpenCv DLL 라이브러리 파일

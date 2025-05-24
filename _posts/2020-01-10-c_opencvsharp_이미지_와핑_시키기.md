@@ -14,7 +14,7 @@ tags:
   - "opencvsharp"
   - "이미지왜곡"
   - "이미지변조"
-last_modified_at: 2025-05-24T21:25:41+09:00
+last_modified_at: 2025-05-24T21:37:54+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 와핑 시키기

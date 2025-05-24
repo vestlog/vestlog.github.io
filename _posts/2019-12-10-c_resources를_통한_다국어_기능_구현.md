@@ -14,7 +14,7 @@ tags:
   - "언어변경"
   - "Resource"
   - "인도네시아어"
-last_modified_at: 2025-05-24T21:25:40+09:00
+last_modified_at: 2025-05-24T21:37:53+09:00
 ---
 
 ## [C#] Resources를 통한 다국어 기능 구현
