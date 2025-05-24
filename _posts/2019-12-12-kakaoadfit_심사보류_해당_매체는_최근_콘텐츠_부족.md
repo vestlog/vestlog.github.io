@@ -1,8 +1,10 @@
 ---
 title:  '[2019-12-12] - [kakaoAdfit] 심사보류 "해당 매체는 최근 콘텐츠 부족..."'
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/%EC%9E%A1%EB%8B%B4/
+permalink: /categories/코딩정보/잡담/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "c#"
   - "코딩"
@@ -14,7 +16,7 @@ tags:
   - "코딩배우기"
   - "코딩프로그램"
   - "카카오애드핏"
-last_modified_at: 2025-05-24T22:16:29+09:00
+last_modified_at: 2025-05-24T22:32:56+09:00
 ---
 
 ## [kakaoAdfit] 심사보류 "해당 매체는 최근 콘텐츠 부족..."

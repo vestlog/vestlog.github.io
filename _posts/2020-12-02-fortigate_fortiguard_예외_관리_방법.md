@@ -1,15 +1,17 @@
 ---
 title:  "[2020-12-02] - [FortiGate] FortiGuard 예외 관리 방법"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/IT%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/
+permalink: /categories/코딩정보/IT 프로그램/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "패킷분석"
   - "포티게이트(FortiGate)"
   - "포티가드(FortiGuard)"
   - "웹사이트차단"
   - "URL확인"
-last_modified_at: 2025-05-24T22:16:33+09:00
+last_modified_at: 2025-05-24T22:32:59+09:00
 ---
 
 ## [FortiGate] FortiGuard 예외 관리 방법

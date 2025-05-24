@@ -1,15 +1,17 @@
 ---
 title:  "[2019-12-24] - [OpenCV] OpenCVSharp 분석하기"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/OpenCv/
+permalink: /categories/코딩정보/OpenCv/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "다운로드"
   - "c#"
   - "opencv"
   - "opencvsharp"
   - "OpenCV라이브러리"
-last_modified_at: 2025-05-24T22:16:30+09:00
+last_modified_at: 2025-05-24T22:32:56+09:00
 ---
 
 ## [OpenCV] OpenCVSharp 분석하기

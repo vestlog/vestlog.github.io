@@ -1,8 +1,10 @@
 ---
 title:  "[2020-01-16] - [Visual Studio 2017] Live Share 기능 사용하기"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/IT%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/
+permalink: /categories/코딩정보/IT 프로그램/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "공동개발"
   - "소스공유"
@@ -10,7 +12,7 @@ tags:
   - "visual"
   - "live"
   - "비쥬얼스튜디오"
-last_modified_at: 2025-05-24T22:16:31+09:00
+last_modified_at: 2025-05-24T22:32:57+09:00
 ---
 
 ## [Visual Studio 2017] Live Share 기능 사용하기

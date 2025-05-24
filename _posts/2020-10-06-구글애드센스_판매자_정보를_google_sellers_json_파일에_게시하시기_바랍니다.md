@@ -1,13 +1,15 @@
 ---
 title:  "[2020-10-06] - [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다."
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/%EC%9E%A1%EB%8B%B4/
+permalink: /categories/코딩정보/잡담/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "google"
   - "구글애드센스"
   - "판매자"
-last_modified_at: 2025-05-24T22:16:32+09:00
+last_modified_at: 2025-05-24T22:32:59+09:00
 ---
 
 ## [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다.

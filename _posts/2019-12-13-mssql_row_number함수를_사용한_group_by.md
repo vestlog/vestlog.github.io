@@ -1,15 +1,17 @@
 ---
 title:  "[2019-12-13] - [MSSQL] ROW_NUMBER함수를 사용한 GROUP BY"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/MS-SQL/
+permalink: /categories/코딩정보/MS-SQL/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "MSSQL"
   - "쿼리"
   - "ROW_NUMBER"
   - "중복제거"
   - "GroupBy"
-last_modified_at: 2025-05-24T22:16:29+09:00
+last_modified_at: 2025-05-24T22:32:56+09:00
 ---
 
 ## [MSSQL] ROW_NUMBER함수를 사용한 GROUP BY

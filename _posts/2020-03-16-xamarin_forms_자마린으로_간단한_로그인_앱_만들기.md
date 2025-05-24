@@ -1,8 +1,10 @@
 ---
 title:  "[2020-03-16] - [Xamarin Forms] 자마린으로 간단한 로그인 앱 만들기"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/Android/
+permalink: /categories/코딩정보/Android/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "어플만들기"
   - "앱만들기"
@@ -12,7 +14,7 @@ tags:
   - "xamarin"
   - "로그인만들기"
   - "비쥬얼스튜디오"
-last_modified_at: 2025-05-24T22:16:31+09:00
+last_modified_at: 2025-05-24T22:32:58+09:00
 ---
 
 ## [Xamarin Forms] 자마린으로 간단한 로그인 앱 만들기

@@ -1,8 +1,10 @@
 ---
 title:  "[2019-12-30] - [C#] OpenCvSharp 이진화 효과 주기"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/OpenCv/
+permalink: /categories/코딩정보/OpenCv/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "c#"
   - "이진화"
@@ -10,7 +12,7 @@ tags:
   - "opencvsharp"
   - "이진화처리"
   - "이미지이진화"
-last_modified_at: 2025-05-24T22:16:30+09:00
+last_modified_at: 2025-05-24T22:32:57+09:00
 ---
 
 ## [C#] OpenCvSharp 이진화 효과 주기

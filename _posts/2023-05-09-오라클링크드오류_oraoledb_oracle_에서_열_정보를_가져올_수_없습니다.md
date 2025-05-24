@@ -1,8 +1,10 @@
 ---
 title:  '[2023-05-09] - [오라클링크드오류]"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.'
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/Oracle/
+permalink: /categories/코딩정보/Oracle/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "오라클"
   - "MSSQL"
@@ -11,7 +13,7 @@ tags:
   - '"OraOLEDB.Oracle"에'
   - '"OraOLEDB.Oracle"에서'
   - '"OraOLEDB.Oracle"에서'
-last_modified_at: 2025-05-24T22:16:40+09:00
+last_modified_at: 2025-05-24T22:33:07+09:00
 ---
 
 ## [오라클링크드오류]"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.

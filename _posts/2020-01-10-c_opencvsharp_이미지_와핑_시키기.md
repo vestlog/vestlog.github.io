@@ -1,8 +1,10 @@
 ---
 title:  "[2020-01-10] - [C#] OpenCvSharp 이미지 와핑 시키기"
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/OpenCv/
+permalink: /categories/코딩정보/OpenCv/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "이미지편집"
   - "c#"
@@ -13,7 +15,7 @@ tags:
   - "opencvsharp"
   - "이미지왜곡"
   - "이미지변조"
-last_modified_at: 2025-05-24T22:16:30+09:00
+last_modified_at: 2025-05-24T22:32:57+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 와핑 시키기

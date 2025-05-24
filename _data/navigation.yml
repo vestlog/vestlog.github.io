@@ -5,7 +5,7 @@ main:
   - title: "About"
     url: https://vestlog.github.io/about/
   - title: "Categoies"
-    url: https://vestlog.github.io/Categoies/
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

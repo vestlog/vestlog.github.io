@@ -1,11 +1,13 @@
 ---
 title:  "[2019-12-16] - [KakaoAdfit] 심사요청 4일차 심사대기 중..."
 excerpt: ""
-permalink: /categories/%EC%BD%94%EB%94%A9%EC%A0%95%EB%B3%B4/%EC%9E%A1%EB%8B%B4/
+permalink: /categories/코딩정보/잡담/
 layout: category
+author_profile: true
+taxonomy: 코딩정보
 tags:
   - "기타"
-last_modified_at: 2025-05-24T22:16:30+09:00
+last_modified_at: 2025-05-24T22:32:56+09:00
 ---
 
 ## [KakaoAdfit] 심사요청 4일차 심사대기 중...
