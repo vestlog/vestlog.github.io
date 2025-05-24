@@ -10,7 +10,7 @@ tags:
   - "merge"
   - "INSERT와UPDATE를"
   - "INSERT와"
-last_modified_at: 2025-05-24T23:22:15+09:00
+last_modified_at: 2025-05-24T23:34:41+09:00
 ---
 
 ## [MSSQL] MERGE를 이용한 INSERT와 UPDATE 한번에 하기

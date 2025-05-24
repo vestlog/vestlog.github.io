@@ -7,7 +7,7 @@ tags:
   - "윈도우서버"
   - "WindowsServer2012"
   - "특정프로그램차단"
-last_modified_at: 2025-05-24T23:22:22+09:00
+last_modified_at: 2025-05-24T23:34:48+09:00
 ---
 
 ## [Windows Server 2012] 방화벽 설정으로 특정 IP 차단 설정

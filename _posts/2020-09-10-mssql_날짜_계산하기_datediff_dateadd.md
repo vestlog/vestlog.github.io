@@ -9,7 +9,7 @@ tags:
   - "일자계산"
   - "mssql"
   - "일수"
-last_modified_at: 2025-05-24T23:22:16+09:00
+last_modified_at: 2025-05-24T23:34:41+09:00
 ---
 
 ## [MSSQL] 날짜 계산하기(datediff, dateadd)

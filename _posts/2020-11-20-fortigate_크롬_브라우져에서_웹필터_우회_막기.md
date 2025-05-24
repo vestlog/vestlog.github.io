@@ -10,7 +10,7 @@ tags:
   - "fortigate"
   - "크롬"
   - "웹필터"
-last_modified_at: 2025-05-24T23:22:16+09:00
+last_modified_at: 2025-05-24T23:34:42+09:00
 ---
 
 ## [FortiGate] 크롬 브라우져에서 웹필터 우회 막기

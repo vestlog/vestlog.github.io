@@ -9,7 +9,7 @@ tags:
   - "Xamarin"
   - "앱"
   - "로그인앱만들기"
-last_modified_at: 2025-05-24T23:22:15+09:00
+last_modified_at: 2025-05-24T23:34:41+09:00
 ---
 
 ## [Xamarin Forms] 자마린으로 간단한 앱 회원가입 만들기

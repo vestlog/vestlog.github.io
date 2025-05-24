@@ -9,7 +9,7 @@ tags:
   - "Microsoft"
   - "Hyper-v"
   - "에뮬레이터"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [BootCamp] 부트캠프 윈도우10에서 Hyper-V 설치 오류

@@ -8,7 +8,7 @@ tags:
   - "이미지셋다운로드"
   - "download_and_convert_data.py"
   - "tansorflow"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [Deep Learning] Tensorflow slim 라이브러리 설치

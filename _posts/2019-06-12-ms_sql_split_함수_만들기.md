@@ -8,7 +8,7 @@ tags:
   - "자르기"
   - "function"
   - "split"
-last_modified_at: 2025-05-24T23:22:12+09:00
+last_modified_at: 2025-05-24T23:34:38+09:00
 ---
 
 ## [MS-SQL] Split 함수 만들기!!

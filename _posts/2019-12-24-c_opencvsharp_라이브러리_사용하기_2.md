@@ -9,7 +9,7 @@ tags:
   - "opencv"
   - "dll등록"
   - "opencvsharp"
-last_modified_at: 2025-05-24T23:22:13+09:00
+last_modified_at: 2025-05-24T23:34:39+09:00
 ---
 
 ## [C#] OpenCvSharp 라이브러리 사용하기 #2

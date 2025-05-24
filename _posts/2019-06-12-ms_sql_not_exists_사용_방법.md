@@ -9,7 +9,7 @@ tags:
   - "Exists"
   - "NOT"
   - "조회조건"
-last_modified_at: 2025-05-24T23:22:12+09:00
+last_modified_at: 2025-05-24T23:34:38+09:00
 ---
 
 ## [MS-SQL] NOT EXISTS 사용 방법

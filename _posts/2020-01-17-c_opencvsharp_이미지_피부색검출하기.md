@@ -13,7 +13,7 @@ tags:
   - "ConvextyDefect"
   - "CvBlobs"
   - "ApproxPoly"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 피부색검출하기

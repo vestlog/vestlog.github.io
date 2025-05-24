@@ -10,7 +10,7 @@ tags:
   - "python업그레이드"
   - "파이썬"
   - "파이선"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [Anaconda3] Python 버전 바꾸기

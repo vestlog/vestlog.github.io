@@ -5,7 +5,8 @@ categories:
 tags:
   - "mssql"
   - "MSSQL"
-last_modified_at: 2025-05-24T23:22:16+09:00
+  - "2005"
+last_modified_at: 2025-05-24T23:34:42+09:00
 ---
 
 ## [Query]MSSQL 2005 이하 버전에서 Merge 기능 만들기.

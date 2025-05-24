@@ -8,7 +8,7 @@ tags:
   - "tensorflow"
   - "텐서플로우"
   - "tensorflow"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [Tensorflow] 특정 버전의 텐서플로우 설치하기

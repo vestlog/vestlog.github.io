@@ -8,7 +8,8 @@ tags:
   - "PLC"
   - "미쯔비시"
   - "비쥬얼스튜디오"
-last_modified_at: 2025-05-24T23:22:12+09:00
+  - "2017"
+last_modified_at: 2025-05-24T23:34:38+09:00
 ---
 
 ## [C#]MX Component V4를 이용한 통신

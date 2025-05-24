@@ -6,7 +6,7 @@ tags:
   - "딥러닝"
   - "tensorflow"
   - "텐서플로"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [TensorFlow] 딥러닝과 텐서플로우란?

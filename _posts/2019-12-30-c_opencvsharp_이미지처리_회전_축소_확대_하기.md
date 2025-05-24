@@ -10,7 +10,7 @@ tags:
   - "opencvsharp"
   - "이미지처리"
   - "이미지축소"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:39+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지처리(회전, 축소, 확대) 하기

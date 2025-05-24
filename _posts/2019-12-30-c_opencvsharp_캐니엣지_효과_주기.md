@@ -9,7 +9,7 @@ tags:
   - "이미지필터"
   - "opencvsharp"
   - "캐니엣지"
-last_modified_at: 2025-05-24T23:22:13+09:00
+last_modified_at: 2025-05-24T23:34:39+09:00
 ---
 
 ## [C#] OpenCvSharp 캐니엣지 효과 주기

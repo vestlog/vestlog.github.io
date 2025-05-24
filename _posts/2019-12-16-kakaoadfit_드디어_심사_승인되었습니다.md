@@ -8,7 +8,7 @@ tags:
   - "kakaoadfit"
   - "최신컨텐츠보류"
   - "매체"
-last_modified_at: 2025-05-24T23:22:13+09:00
+last_modified_at: 2025-05-24T23:34:39+09:00
 ---
 
 ## [KakaoAdfit]드디어 심사 승인되었습니다

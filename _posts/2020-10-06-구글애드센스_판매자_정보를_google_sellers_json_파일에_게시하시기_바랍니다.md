@@ -6,7 +6,7 @@ tags:
   - "google"
   - "구글애드센스"
   - "판매자"
-last_modified_at: 2025-05-24T23:22:16+09:00
+last_modified_at: 2025-05-24T23:34:42+09:00
 ---
 
 ## [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다.

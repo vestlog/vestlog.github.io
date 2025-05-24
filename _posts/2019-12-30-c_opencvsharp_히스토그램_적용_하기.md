@@ -9,7 +9,7 @@ tags:
   - "이미지효과"
   - "이미지필터"
   - "opencvsharp"
-last_modified_at: 2025-05-24T23:22:13+09:00
+last_modified_at: 2025-05-24T23:34:39+09:00
 ---
 
 ## [C#] OpenCvSharp 히스토그램 적용 하기

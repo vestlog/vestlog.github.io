@@ -9,7 +9,7 @@ tags:
   - "데이터그리드뷰"
   - "동적컬럼생성하기"
   - "DATAGRIDVIEW"
-last_modified_at: 2025-05-24T23:22:15+09:00
+last_modified_at: 2025-05-24T23:34:41+09:00
 ---
 
 ## [C#] DataGridView 동적 컬럼 생성하기

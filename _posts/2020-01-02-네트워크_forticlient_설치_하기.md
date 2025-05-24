@@ -10,7 +10,7 @@ tags:
   - "fortigate"
   - "FortiClient"
   - "VPN"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:39+09:00
 ---
 
 ## [네트워크] FortiClient 설치 하기

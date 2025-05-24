@@ -4,7 +4,7 @@ categories:
   - Blog
 tags:
   - "기타"
-last_modified_at: 2025-05-24T23:22:18+09:00
+last_modified_at: 2025-05-24T23:34:44+09:00
 ---
 
 ## [PYTHON] KIVY 윈도우환경에서 설치하기

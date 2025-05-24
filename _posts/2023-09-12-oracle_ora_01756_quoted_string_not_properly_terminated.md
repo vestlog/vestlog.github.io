@@ -11,7 +11,7 @@ tags:
   - "ORA-01756"
   - "단일인용부"
   - "인용부"
-last_modified_at: 2025-05-24T23:22:24+09:00
+last_modified_at: 2025-05-24T23:34:50+09:00
 ---
 
 ## [Oracle] ORA-01756 : quoted string not properly terminated

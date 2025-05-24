@@ -10,7 +10,7 @@ tags:
   - "사용자지정마스크"
   - "유저마스크"
   - "Fiter2D"
-last_modified_at: 2025-05-24T23:22:14+09:00
+last_modified_at: 2025-05-24T23:34:40+09:00
 ---
 
 ## [C#] OpenCvSharp 사용자 지정 마스크 사용하기

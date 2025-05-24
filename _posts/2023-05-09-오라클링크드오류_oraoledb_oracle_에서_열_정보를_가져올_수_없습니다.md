@@ -7,10 +7,10 @@ tags:
   - "MSSQL"
   - "링크드서버오류"
   - "OraOLEDB.Oracle"
-  - "'OraOLEDB.Oracle'에"
-  - "'OraOLEDB.Oracle'에서"
-  - "'OraOLEDB.Oracle'에서"
-last_modified_at: 2025-05-24T23:22:24+09:00
+  - '"OraOLEDB.Oracle"에'
+  - '"OraOLEDB.Oracle"에서'
+  - '"OraOLEDB.Oracle"에서'
+last_modified_at: 2025-05-24T23:34:50+09:00
 ---
 
 ## [오라클링크드오류]"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.

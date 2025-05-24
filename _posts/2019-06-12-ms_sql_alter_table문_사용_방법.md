@@ -8,7 +8,7 @@ tags:
   - "table"
   - "alter"
   - "alter"
-last_modified_at: 2025-05-24T23:22:12+09:00
+last_modified_at: 2025-05-24T23:34:38+09:00
 ---
 
 ## [MS-SQL] ALTER TABLE문 사용 방법
