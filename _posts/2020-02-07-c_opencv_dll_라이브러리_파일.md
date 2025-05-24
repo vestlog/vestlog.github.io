@@ -4,10 +4,9 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - svm
-  - MachineLearning
+  - "c#"
+  - "svm"
+  - "MachineLearning"
 ---
 
 ## [C#] OpenCv DLL 라이브러리 파일

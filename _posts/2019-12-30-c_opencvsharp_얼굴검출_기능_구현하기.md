@@ -4,15 +4,14 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 얼굴인식
-  - c#
-  - opencv
-  - 이미지효과
-  - 이미지필터
-  - 이미지인식
-  - opencvsharp
-  - 얼굴검출
+  - "얼굴인식"
+  - "c#"
+  - "opencv"
+  - "이미지효과"
+  - "이미지필터"
+  - "이미지인식"
+  - "opencvsharp"
+  - "얼굴검출"
 ---
 
 ## [C#] OpenCvSharp 얼굴검출 기능 구현하기

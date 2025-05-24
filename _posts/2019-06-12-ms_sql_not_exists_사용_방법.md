@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - MSSQL
-  - query
-  - 쿼리
-  - Exists
-  - NOT
-  - 조회조건
+  - "MSSQL"
+  - "query"
+  - "쿼리"
+  - "Exists"
+  - "NOT"
+  - "조회조건"
 ---
 
 ## [MS-SQL] NOT EXISTS 사용 방법

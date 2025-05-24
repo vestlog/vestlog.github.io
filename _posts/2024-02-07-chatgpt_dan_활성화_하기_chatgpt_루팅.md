@@ -4,16 +4,15 @@ permalink: /categories/코딩정보/잡담/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - ai
-  - ChatGPT
-  - AI
-  - AI
-  - ChatGPT
-  - AI
-  - AI
-  - AI
-  - AI
+  - "ai"
+  - "ChatGPT"
+  - "AI"
+  - "AI"
+  - "ChatGPT"
+  - "AI"
+  - "AI"
+  - "AI"
+  - "AI"
 ---
 
 ## [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)

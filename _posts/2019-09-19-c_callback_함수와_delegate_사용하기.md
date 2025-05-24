@@ -4,17 +4,16 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 프로그래밍
-  - RFID
-  - delegate
-  - c#
-  - 코딩
-  - Callback
-  - RFID
-  - 대리자
-  - Soket
-  - 이더넷통신
+  - "프로그래밍"
+  - "RFID"
+  - "delegate"
+  - "c#"
+  - "코딩"
+  - "Callback"
+  - "RFID"
+  - "대리자"
+  - "Soket"
+  - "이더넷통신"
 ---
 
 ## [C#] CallBack 함수와 Delegate 사용하기

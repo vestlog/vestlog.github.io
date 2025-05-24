@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - 이미지효과
-  - 이미지필터
-  - opencvsharp
-  - 캐니엣지
+  - "c#"
+  - "opencv"
+  - "이미지효과"
+  - "이미지필터"
+  - "opencvsharp"
+  - "캐니엣지"
 ---
 
 ## [C#] OpenCvSharp 캐니엣지 효과 주기

@@ -4,15 +4,14 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - contour
-  - opencvsharp
-  - 윤곽선검출
-  - 컨투어검출
-  - FindContours
-  - StartFindContours
+  - "c#"
+  - "opencv"
+  - "contour"
+  - "opencvsharp"
+  - "윤곽선검출"
+  - "컨투어검출"
+  - "FindContours"
+  - "StartFindContours"
 ---
 
 ## [C#] OpenCvSharp 이미지 컨투어(윤곽선) 찾기

@@ -4,17 +4,16 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - 팽창
-  - 침식
-  - 모폴로지
-  - opencvsharp
-  - 이미지처리
-  - 이미지작업
-  - 모폴로지연산
-  - 형태학적
+  - "c#"
+  - "opencv"
+  - "팽창"
+  - "침식"
+  - "모폴로지"
+  - "opencvsharp"
+  - "이미지처리"
+  - "이미지작업"
+  - "모폴로지연산"
+  - "형태학적"
 ---
 
 ## [C#] OpenCvSharp 이미지 모폴로지 연산 처리하기

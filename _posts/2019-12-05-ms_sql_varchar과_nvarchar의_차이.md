@@ -4,17 +4,16 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 팁
-  - SQL
-  - 차이점
-  - MSSQL
-  - query
-  - VARCHAR
-  - nvarchar
-  - 소소한팁
-  - varchar와nvarchar의차이
-  - 초보sql
+  - "팁"
+  - "SQL"
+  - "차이점"
+  - "MSSQL"
+  - "query"
+  - "VARCHAR"
+  - "nvarchar"
+  - "소소한팁"
+  - "varchar와nvarchar의차이"
+  - "초보sql"
 ---
 
 ## [MS-SQL] VARCHAR과 NVARCHAR의 차이??

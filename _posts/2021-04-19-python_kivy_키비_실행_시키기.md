@@ -4,11 +4,10 @@ permalink: /categories//
 layout: category
 author_profile: true
 taxonomy: 
-tags:
-  - 파이썬
-  - 파이썬
-  - kivy
-  - kivy
+  - "파이썬"
+  - "파이썬"
+  - "kivy"
+  - "kivy"
 ---
 
 ## [PYTHON] Kivy[키비] 실행 시키기

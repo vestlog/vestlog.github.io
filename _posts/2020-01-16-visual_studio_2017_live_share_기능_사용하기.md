@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/IT 프로그램/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 공동개발
-  - 소스공유
-  - 팀
-  - visual
-  - live
-  - 비쥬얼스튜디오
+  - "공동개발"
+  - "소스공유"
+  - "팀"
+  - "visual"
+  - "live"
+  - "비쥬얼스튜디오"
 ---
 
 ## [Visual Studio 2017] Live Share 기능 사용하기

@@ -4,10 +4,9 @@ permalink: /categories/코딩정보/TensorFlow/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 딥러닝
-  - tensorflow
-  - 텐서플로
+  - "딥러닝"
+  - "tensorflow"
+  - "텐서플로"
 ---
 
 ## [TensorFlow] 딥러닝과 텐서플로우란?

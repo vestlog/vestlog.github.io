@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - 이진화
-  - opencv
-  - opencvsharp
-  - 이진화처리
-  - 이미지이진화
+  - "c#"
+  - "이진화"
+  - "opencv"
+  - "opencvsharp"
+  - "이진화처리"
+  - "이미지이진화"
 ---
 
 ## [C#] OpenCvSharp 이진화 효과 주기

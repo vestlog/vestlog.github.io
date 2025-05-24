@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/TensorFlow/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - python
-  - 파이썬
-  - jupyter
-  - tensorflow
-  - jupyter
-  - 주피터노트북
+  - "python"
+  - "파이썬"
+  - "jupyter"
+  - "tensorflow"
+  - "jupyter"
+  - "주피터노트북"
 ---
 
 ## [TensorFlow] 텐서플로 설치와 주피터 노트북 설치하기

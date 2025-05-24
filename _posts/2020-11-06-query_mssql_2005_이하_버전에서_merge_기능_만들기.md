@@ -4,10 +4,8 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - mssql
-  - MSSQL
-  - 2005
+  - "mssql"
+  - "MSSQL"
 ---
 
 ## [Query]MSSQL 2005 이하 버전에서 Merge 기능 만들기.

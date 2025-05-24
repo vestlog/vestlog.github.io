@@ -4,10 +4,9 @@ permalink: /categories/코딩정보/잡담/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - google
-  - 구글애드센스
-  - 판매자
+  - "google"
+  - "구글애드센스"
+  - "판매자"
 ---
 
 ## [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다.

@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 다운로드
-  - c#
-  - opencv
-  - opencvsharp
-  - OpenCV라이브러리
+  - "다운로드"
+  - "c#"
+  - "opencv"
+  - "opencvsharp"
+  - "OpenCV라이브러리"
 ---
 
 ## [OpenCV] OpenCVSharp 분석하기

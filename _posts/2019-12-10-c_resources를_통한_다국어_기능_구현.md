@@ -4,16 +4,15 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 중국어
-  - 개발
-  - 한국어
-  - c#
-  - 코딩
-  - 다국어
-  - 언어변경
-  - Resource
-  - 인도네시아어
+  - "중국어"
+  - "개발"
+  - "한국어"
+  - "c#"
+  - "코딩"
+  - "다국어"
+  - "언어변경"
+  - "Resource"
+  - "인도네시아어"
 ---
 
 ## [C#] Resources를 통한 다국어 기능 구현

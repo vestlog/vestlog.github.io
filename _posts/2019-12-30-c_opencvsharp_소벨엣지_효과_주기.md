@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - 이미지효과
-  - 이미지필터
-  - opencvsharp
-  - 소벨엣지효과
-  - 소벨엣지
+  - "c#"
+  - "opencv"
+  - "이미지효과"
+  - "이미지필터"
+  - "opencvsharp"
+  - "소벨엣지효과"
+  - "소벨엣지"
 ---
 
 ## [C#] OpenCvSharp 소벨엣지 효과 주기

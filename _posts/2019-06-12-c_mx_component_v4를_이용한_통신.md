@@ -4,13 +4,11 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 통신
-  - c#
-  - PLC
-  - 미쯔비시
-  - 비쥬얼스튜디오
-  - 2017
+  - "통신"
+  - "c#"
+  - "PLC"
+  - "미쯔비시"
+  - "비쥬얼스튜디오"
 ---
 
 ## [C#]MX Component V4를 이용한 통신

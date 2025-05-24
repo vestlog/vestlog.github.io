@@ -4,16 +4,15 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - pca
-  - 판별
-  - 분석
-  - 학습
-  - 매칭
-  - c#
-  - 검출
-  - opencv
-  - opencvsharp
+  - "pca"
+  - "판별"
+  - "분석"
+  - "학습"
+  - "매칭"
+  - "c#"
+  - "검출"
+  - "opencv"
+  - "opencvsharp"
 ---
 
 ## [C#] OpenCvSharp를 이용한 PCA 만들기

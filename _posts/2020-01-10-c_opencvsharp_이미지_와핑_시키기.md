@@ -4,16 +4,15 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 이미지편집
-  - c#
-  - opencv
-  - 와핑
-  - Warping
-  - WarpPerspective
-  - opencvsharp
-  - 이미지왜곡
-  - 이미지변조
+  - "이미지편집"
+  - "c#"
+  - "opencv"
+  - "와핑"
+  - "Warping"
+  - "WarpPerspective"
+  - "opencvsharp"
+  - "이미지왜곡"
+  - "이미지변조"
 ---
 
 ## [C#] OpenCvSharp 이미지 와핑 시키기

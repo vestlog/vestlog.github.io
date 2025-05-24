@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/잡담/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 심사보류
-  - 다음애드핏
-  - kakaoadfit
-  - 최신컨텐츠보류
-  - 매체
+  - "심사보류"
+  - "다음애드핏"
+  - "kakaoadfit"
+  - "최신컨텐츠보류"
+  - "매체"
 ---
 
 ## [KakaoAdfit]드디어 심사 승인되었습니다

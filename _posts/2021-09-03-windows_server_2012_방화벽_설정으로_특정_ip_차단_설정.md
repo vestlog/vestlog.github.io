@@ -4,11 +4,10 @@ permalink: /categories/코딩정보/Windows/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - MSSQL
-  - 윈도우서버
-  - WindowsServer2012
-  - 특정프로그램차단
+  - "MSSQL"
+  - "윈도우서버"
+  - "WindowsServer2012"
+  - "특정프로그램차단"
 ---
 
 ## [Windows Server 2012] 방화벽 설정으로 특정 IP 차단 설정

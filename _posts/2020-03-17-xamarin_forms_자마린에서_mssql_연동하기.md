@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/Android/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - MSSQL
-  - DB
-  - xamarin
-  - 로그인
-  - 안드로이드
-  - MSSQL
+  - "MSSQL"
+  - "DB"
+  - "xamarin"
+  - "로그인"
+  - "안드로이드"
+  - "MSSQL"
 ---
 
 ## [Xamarin Forms] 자마린에서 MSSQL 연동하기

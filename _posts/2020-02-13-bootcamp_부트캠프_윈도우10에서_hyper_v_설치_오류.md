@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/BootCamp/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 안드로이드
-  - 비쥬얼스튜디오
-  - 설치
-  - Microsoft
-  - Hyper-v
-  - 에뮬레이터
+  - "안드로이드"
+  - "비쥬얼스튜디오"
+  - "설치"
+  - "Microsoft"
+  - "Hyper-v"
+  - "에뮬레이터"
 ---
 
 ## [BootCamp] 부트캠프 윈도우10에서 Hyper-V 설치 오류

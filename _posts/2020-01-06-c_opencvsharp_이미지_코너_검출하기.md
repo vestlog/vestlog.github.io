@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 이미지편집
-  - c#
-  - opencv
-  - opencvsharp
-  - 이미지처리
-  - 이미지코너검출
-  - 코너검출
+  - "이미지편집"
+  - "c#"
+  - "opencv"
+  - "opencvsharp"
+  - "이미지처리"
+  - "이미지코너검출"
+  - "코너검출"
 ---
 
 ## [C#] OpenCvSharp 이미지 코너 검출하기

@@ -4,17 +4,16 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - opencvsharp
-  - FindContours
-  - ConvexHull2
-  - 피부색검출
-  - DrawContours
-  - ConvextyDefect
-  - CvBlobs
-  - ApproxPoly
+  - "c#"
+  - "opencv"
+  - "opencvsharp"
+  - "FindContours"
+  - "ConvexHull2"
+  - "피부색검출"
+  - "DrawContours"
+  - "ConvextyDefect"
+  - "CvBlobs"
+  - "ApproxPoly"
 ---
 
 ## [C#] OpenCvSharp 이미지 피부색검출하기

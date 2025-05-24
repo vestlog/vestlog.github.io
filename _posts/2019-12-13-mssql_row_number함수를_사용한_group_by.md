@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - MSSQL
-  - 쿼리
-  - ROW_NUMBER
-  - 중복제거
-  - GroupBy
+  - "MSSQL"
+  - "쿼리"
+  - "ROW_NUMBER"
+  - "중복제거"
+  - "GroupBy"
 ---
 
 ## [MSSQL] ROW_NUMBER함수를 사용한 GROUP BY

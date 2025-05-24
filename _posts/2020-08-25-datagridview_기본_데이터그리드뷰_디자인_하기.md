@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - DataGridView
-  - 커스텀디자인
-  - 데이터그리드뷰
-  - 그리드뷰
-  - 그리드뷰
-  - 그리드뷰
+  - "c#"
+  - "DataGridView"
+  - "커스텀디자인"
+  - "데이터그리드뷰"
+  - "그리드뷰"
+  - "그리드뷰"
+  - "그리드뷰"
 ---
 
 ## [DataGridView] 기본 데이터그리드뷰 디자인 하기!!

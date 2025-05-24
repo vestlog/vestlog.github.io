@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/Nvidia CUDA/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - Nvidia
-  - CUDA
-  - CUDA
-  - tensorflow
-  - cuDNN
+  - "Nvidia"
+  - "CUDA"
+  - "CUDA"
+  - "tensorflow"
+  - "cuDNN"
 ---
 
 ## [Nvidia CUDA] 윈도우에서 CUDA 설치 하기

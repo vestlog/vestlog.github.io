@@ -4,8 +4,7 @@ permalink: /categories/코딩정보/잡담/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 기타
+  - "기타"
 ---
 
 ## [KakaoAdfit] 심사요청 4일차 심사대기 중...

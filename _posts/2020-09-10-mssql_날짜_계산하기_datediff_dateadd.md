@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 날짜계산
-  - DATEDIFF
-  - dateadd
-  - 일자계산
-  - mssql
-  - 일수
+  - "날짜계산"
+  - "DATEDIFF"
+  - "dateadd"
+  - "일자계산"
+  - "mssql"
+  - "일수"
 ---
 
 ## [MSSQL] 날짜 계산하기(datediff, dateadd)

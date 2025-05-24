@@ -4,15 +4,14 @@ permalink: /categories/코딩정보/Deep Learning/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 아나콘다
-  - python
-  - 파이썬
-  - deep
-  - 딥러닝
-  - tensorflow
-  - 텐서플로우
-  - anaconda3
+  - "아나콘다"
+  - "python"
+  - "파이썬"
+  - "deep"
+  - "딥러닝"
+  - "tensorflow"
+  - "텐서플로우"
+  - "anaconda3"
 ---
 
 ## [Deep Learning] Anaconda3 + Tensorflow 사용하기

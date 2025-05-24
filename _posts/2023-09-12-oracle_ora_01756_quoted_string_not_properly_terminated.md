@@ -4,15 +4,14 @@ permalink: /categories/코딩정보/Oracle/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - oracle
-  - 오라클
-  - 오류
-  - 작은
-  - 오라클오류
-  - ORA-01756
-  - 단일인용부
-  - 인용부
+  - "oracle"
+  - "오라클"
+  - "오류"
+  - "작은"
+  - "오라클오류"
+  - "ORA-01756"
+  - "단일인용부"
+  - "인용부"
 ---
 
 ## [Oracle] ORA-01756 : quoted string not properly terminated

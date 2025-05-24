@@ -4,8 +4,7 @@ permalink: /categories/코딩정보/Python/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 기타
+  - "기타"
 ---
 
 ## [PYTHON] KIVY 윈도우환경에서 설치하기

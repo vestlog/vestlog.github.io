@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - RGB
-  - opencv
-  - Math.Round
-  - opencvsharp
-  - 픽셀변환
-  - CvColor
+  - "c#"
+  - "RGB"
+  - "opencv"
+  - "Math.Round"
+  - "opencvsharp"
+  - "픽셀변환"
+  - "CvColor"
 ---
 
 ## [C#] OpenCvSharp 이미지 픽셀변환 시키기

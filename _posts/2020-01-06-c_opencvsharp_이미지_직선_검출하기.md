@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - opencvsharp
-  - 이미지처리
-  - 직선검출
-  - HoughLines2
-  - 허프변환
+  - "c#"
+  - "opencv"
+  - "opencvsharp"
+  - "이미지처리"
+  - "직선검출"
+  - "HoughLines2"
+  - "허프변환"
 ---
 
 ## [C#] OpenCvSharp 이미지 직선 검출하기

@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - MSSQL
-  - query
-  - table
-  - alter
-  - alter
+  - "MSSQL"
+  - "query"
+  - "table"
+  - "alter"
+  - "alter"
 ---
 
 ## [MS-SQL] ALTER TABLE문 사용 방법

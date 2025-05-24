@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 함수
-  - MSSQL
-  - 자르기
-  - function
-  - split
+  - "함수"
+  - "MSSQL"
+  - "자르기"
+  - "function"
+  - "split"
 ---
 
 ## [MS-SQL] Split 함수 만들기!!

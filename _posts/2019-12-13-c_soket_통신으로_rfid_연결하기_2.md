@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 통신
-  - RFID
-  - c#
-  - 비동기
-  - OMRON
-  - V680S
-  - soket통신
+  - "통신"
+  - "RFID"
+  - "c#"
+  - "비동기"
+  - "OMRON"
+  - "V680S"
+  - "soket통신"
 ---
 
 ## [C#] Soket 통신으로 RFID 연결하기 #2

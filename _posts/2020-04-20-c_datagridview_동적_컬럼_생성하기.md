@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - MSSQL
-  - 엑셀불러오기
-  - 데이터그리드뷰
-  - 동적컬럼생성하기
-  - DATAGRIDVIEW
+  - "c#"
+  - "MSSQL"
+  - "엑셀불러오기"
+  - "데이터그리드뷰"
+  - "동적컬럼생성하기"
+  - "DATAGRIDVIEW"
 ---
 
 ## [C#] DataGridView 동적 컬럼 생성하기

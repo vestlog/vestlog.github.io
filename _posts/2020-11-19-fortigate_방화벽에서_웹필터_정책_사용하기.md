@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/IT 프로그램/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 웹필터
-  - 보안정책
-  - 포티게이트(FortiGate)
-  - 포티가드(FortiGuard)
-  - 501E
+  - "웹필터"
+  - "보안정책"
+  - "포티게이트(FortiGate)"
+  - "포티가드(FortiGuard)"
+  - "501E"
 ---
 
 ## [FortiGate] 방화벽에서 웹필터 정책 사용하기

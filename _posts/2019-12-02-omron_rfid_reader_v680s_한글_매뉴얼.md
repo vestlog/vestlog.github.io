@@ -4,17 +4,16 @@ permalink: /categories/코딩정보/IT 프로그램/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - RFID
-  - 메뉴얼
-  - 매뉴얼
-  - 옴론
-  - OMRON
-  - RFIDTag
-  - V680S
-  - RFID리더
-  - RFID
-  - omron
+  - "RFID"
+  - "메뉴얼"
+  - "매뉴얼"
+  - "옴론"
+  - "OMRON"
+  - "RFIDTag"
+  - "V680S"
+  - "RFID리더"
+  - "RFID"
+  - "omron"
 ---
 
 ## [OMRON] RFID Reader V680S 한글 매뉴얼

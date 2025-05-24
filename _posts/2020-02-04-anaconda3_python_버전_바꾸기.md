@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/Python/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 파이썬
-  - python
-  - anaconda3
-  - python
-  - python업그레이드
-  - 파이썬
-  - 파이선
+  - "파이썬"
+  - "python"
+  - "anaconda3"
+  - "python"
+  - "python업그레이드"
+  - "파이썬"
+  - "파이선"
 ---
 
 ## [Anaconda3] Python 버전 바꾸기

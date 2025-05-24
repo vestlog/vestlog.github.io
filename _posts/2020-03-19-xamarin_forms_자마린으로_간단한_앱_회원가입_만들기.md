@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/Android/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 안드로이드
-  - 앱만들기
-  - 자마린
-  - Xamarin
-  - 앱
-  - 로그인앱만들기
+  - "안드로이드"
+  - "앱만들기"
+  - "자마린"
+  - "Xamarin"
+  - "앱"
+  - "로그인앱만들기"
 ---
 
 ## [Xamarin Forms] 자마린으로 간단한 앱 회원가입 만들기

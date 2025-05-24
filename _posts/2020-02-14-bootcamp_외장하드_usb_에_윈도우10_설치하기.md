@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/BootCamp/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 부트캠프
-  - 윈도우10
-  - 윈도우10
-  - 외장하드윈도우설치
-  - 외장하드디스크부팅
+  - "부트캠프"
+  - "윈도우10"
+  - "윈도우10"
+  - "외장하드윈도우설치"
+  - "외장하드디스크부팅"
 ---
 
 ## [BootCamp] 외장하드(USB)에 윈도우10 설치하기

@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - 히스토그램
-  - 이미지효과
-  - 이미지필터
-  - opencvsharp
+  - "c#"
+  - "opencv"
+  - "히스토그램"
+  - "이미지효과"
+  - "이미지필터"
+  - "opencvsharp"
 ---
 
 ## [C#] OpenCvSharp 히스토그램 적용 하기

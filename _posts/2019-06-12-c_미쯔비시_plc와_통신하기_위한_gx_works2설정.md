@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 시뮬레이션
-  - c#
-  - PLC
-  - 미쯔비시
-  - GX
+  - "시뮬레이션"
+  - "c#"
+  - "PLC"
+  - "미쯔비시"
+  - "GX"
 ---
 
 ## [C#] 미쯔비시 PLC와 통신하기 위한 GX Works2설정

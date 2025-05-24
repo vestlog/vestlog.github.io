@@ -4,11 +4,10 @@ permalink: /categories/코딩정보/Android/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 에뮬레이터
-  - Visual
-  - 비쥬얼스튜디오
-  - 비쥬얼스튜디오2017
+  - "에뮬레이터"
+  - "Visual"
+  - "비쥬얼스튜디오"
+  - "비쥬얼스튜디오2017"
 ---
 
 ## [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 설치 하기

@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/IT 프로그램/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - Mitsubishi
-  - 매뉴얼
-  - 한글매뉴얼
-  - mxcomponentv4
-  - melsoft
-  - MX
-  - 프로그래밍
+  - "Mitsubishi"
+  - "매뉴얼"
+  - "한글매뉴얼"
+  - "mxcomponentv4"
+  - "melsoft"
+  - "MX"
+  - "프로그래밍"
 ---
 
 ## [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)

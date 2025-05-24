@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - opencv
-  - threshold
-  - opencvsharp
-  - 사용자지정마스크
-  - 유저마스크
-  - Fiter2D
+  - "c#"
+  - "opencv"
+  - "threshold"
+  - "opencvsharp"
+  - "사용자지정마스크"
+  - "유저마스크"
+  - "Fiter2D"
 ---
 
 ## [C#] OpenCvSharp 사용자 지정 마스크 사용하기

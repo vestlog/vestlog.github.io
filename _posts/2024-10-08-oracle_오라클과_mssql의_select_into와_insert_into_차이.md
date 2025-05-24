@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/Oracle/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - mssql
-  - 오라클과
-  - 오라클
-  - 오라클
-  - mssql
-  - 오라클
-  - mssql
+  - "mssql"
+  - "오라클과"
+  - "오라클"
+  - "오라클"
+  - "mssql"
+  - "오라클"
+  - "mssql"
 ---
 
 ## [ORACLE]오라클과 MSSQL의 SELECT INTO와 INSERT INTO 차이

@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/MS-SQL/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - Update
-  - MSSQL
-  - query
-  - insert
-  - merge
-  - INSERT와UPDATE를
-  - INSERT와
+  - "Update"
+  - "MSSQL"
+  - "query"
+  - "insert"
+  - "merge"
+  - "INSERT와UPDATE를"
+  - "INSERT와"
 ---
 
 ## [MSSQL] MERGE를 이용한 INSERT와 UPDATE 한번에 하기

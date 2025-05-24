@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/Python/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - python
-  - 파이썬
-  - python
-  - mssql
-  - 파이썬
+  - "python"
+  - "파이썬"
+  - "python"
+  - "mssql"
+  - "파이썬"
 ---
 
 ## [파이썬] pymssql를 활용한 MSSQL DB 데이터 조회

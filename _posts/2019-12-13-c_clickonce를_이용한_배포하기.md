@@ -4,17 +4,16 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 보안
-  - 웹사이트
-  - 폴더
-  - FTP
-  - 배포
-  - c#
-  - ClickOnce
-  - IIS
-  - 게시
-  - 클릭온스
+  - "보안"
+  - "웹사이트"
+  - "폴더"
+  - "FTP"
+  - "배포"
+  - "c#"
+  - "ClickOnce"
+  - "IIS"
+  - "게시"
+  - "클릭온스"
 ---
 
 ## [C#] ClickOnce를 이용한 배포하기

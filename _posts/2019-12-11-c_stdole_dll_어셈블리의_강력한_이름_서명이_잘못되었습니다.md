@@ -4,16 +4,15 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 오류
-  - 배포
-  - ClickOnce
-  - 코딩
-  - 생활코딩
-  - 코딩교육
-  - 코딩배우기
-  - 코딩프로그램
-  - stdole.dll
+  - "오류"
+  - "배포"
+  - "ClickOnce"
+  - "코딩"
+  - "생활코딩"
+  - "코딩교육"
+  - "코딩배우기"
+  - "코딩프로그램"
+  - "stdole.dll"
 ---
 
 ## [C#] stdole.dll 어셈블리의 강력한 이름 서명이 잘못되었습니다.

@@ -4,16 +4,15 @@ permalink: /categories/코딩정보/OpenCv/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 비교
-  - 매칭
-  - c#
-  - 검출
-  - opencv
-  - opencvsharp
-  - 템플릿매칭
-  - 이미지비교
-  - 찾아내기
+  - "비교"
+  - "매칭"
+  - "c#"
+  - "검출"
+  - "opencv"
+  - "opencvsharp"
+  - "템플릿매칭"
+  - "이미지비교"
+  - "찾아내기"
 ---
 
 ## [C#] OpenCvSharp 이미지 템플릿 매칭

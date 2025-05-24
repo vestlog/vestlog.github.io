@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/C#/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - c#
-  - 불러오기
-  - 파일불러오기
-  - opencv
-  - opencvsharp
-  - PictureBoxIpI
-  - 그림파일넣기
+  - "c#"
+  - "불러오기"
+  - "파일불러오기"
+  - "opencv"
+  - "opencvsharp"
+  - "PictureBoxIpI"
+  - "그림파일넣기"
 ---
 
 ## [C#] OpenCvSharp 이미지 읽어 오기

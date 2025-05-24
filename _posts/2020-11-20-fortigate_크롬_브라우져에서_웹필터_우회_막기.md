@@ -4,14 +4,13 @@ permalink: /categories/코딩정보/IT 프로그램/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 웹필터
-  - 크롬
-  - 프록시
-  - 포티케이트(FortiGate)
-  - fortigate
-  - 크롬
-  - 웹필터
+  - "웹필터"
+  - "크롬"
+  - "프록시"
+  - "포티케이트(FortiGate)"
+  - "fortigate"
+  - "크롬"
+  - "웹필터"
 ---
 
 ## [FortiGate] 크롬 브라우져에서 웹필터 우회 막기

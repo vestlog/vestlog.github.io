@@ -4,13 +4,12 @@ permalink: /categories/코딩정보/Windows/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 관리자
-  - unauthorizedAccess
-  - Power
-  - 보안
-  - PSSecurityException
-  - about_Execution_Policies
+  - "관리자"
+  - "unauthorizedAccess"
+  - "Power"
+  - "보안"
+  - "PSSecurityException"
+  - "about_Execution_Policies"
 ---
 
 ## [Windows Power Shell] 보안오류(스크립트 실행 오류)

@@ -4,12 +4,11 @@ permalink: /categories/코딩정보/TensorFlow/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - tensorflow
-  - 텐서플로우
-  - tensorflow
-  - 텐서플로우
-  - tensorflow
+  - "tensorflow"
+  - "텐서플로우"
+  - "tensorflow"
+  - "텐서플로우"
+  - "tensorflow"
 ---
 
 ## [Tensorflow] 특정 버전의 텐서플로우 설치하기

@@ -4,11 +4,10 @@ permalink: /categories/코딩정보/Python/
 layout: category
 author_profile: true
 taxonomy: 코딩정보
-tags:
-  - 파이썬
-  - 티스토리
-  - 티스토리
-  - 티스토리토큰
+  - "파이썬"
+  - "티스토리"
+  - "티스토리"
+  - "티스토리토큰"
 ---
 
 ## [Python] 티스토리 API 사용을 위한 Access_token 구하기
