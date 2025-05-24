@@ -8,7 +8,7 @@ tags:
   - "파이썬"
   - "kivy"
   - "kivy"
-last_modified_at: 2025-05-24T21:19:34+09:00
+last_modified_at: 2025-05-24T21:25:44+09:00
 ---
 
 ## [PYTHON] Kivy[키비] 실행 시키기

@@ -12,7 +12,7 @@ tags:
   - ""OraOLEDB.Oracle"에"
   - ""OraOLEDB.Oracle"에서"
   - ""OraOLEDB.Oracle"에서"
-last_modified_at: 2025-05-24T21:19:40+09:00
+last_modified_at: 2025-05-24T21:25:48+09:00
 ---
 
 ## [오라클링크드오류]"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.

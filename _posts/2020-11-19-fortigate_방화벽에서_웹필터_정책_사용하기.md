@@ -10,7 +10,7 @@ tags:
   - "포티게이트(FortiGate)"
   - "포티가드(FortiGuard)"
   - "501E"
-last_modified_at: 2025-05-24T21:19:32+09:00
+last_modified_at: 2025-05-24T21:25:42+09:00
 ---
 
 ## [FortiGate] 방화벽에서 웹필터 정책 사용하기

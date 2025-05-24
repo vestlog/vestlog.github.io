@@ -14,7 +14,7 @@ tags:
   - "ConvexHull2"
   - "점선연결하기"
   - "외곽선그리기"
-last_modified_at: 2025-05-24T21:19:29+09:00
+last_modified_at: 2025-05-24T21:25:41+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 컨벡스헐 그리기

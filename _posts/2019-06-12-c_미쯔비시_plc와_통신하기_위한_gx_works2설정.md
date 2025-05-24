@@ -10,7 +10,7 @@ tags:
   - "PLC"
   - "미쯔비시"
   - "GX"
-last_modified_at: 2025-05-24T21:19:28+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [C#] 미쯔비시 PLC와 통신하기 위한 GX Works2설정

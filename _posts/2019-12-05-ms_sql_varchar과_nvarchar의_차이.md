@@ -15,7 +15,7 @@ tags:
   - "소소한팁"
   - "varchar와nvarchar의차이"
   - "초보sql"
-last_modified_at: 2025-05-24T21:19:28+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [MS-SQL] VARCHAR과 NVARCHAR의 차이??

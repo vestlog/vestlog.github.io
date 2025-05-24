@@ -15,7 +15,7 @@ tags:
   - "RFID리더"
   - "RFID"
   - "omron"
-last_modified_at: 2025-05-24T21:19:28+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [OMRON] RFID Reader V680S 한글 매뉴얼

@@ -10,7 +10,7 @@ tags:
   - "opencv"
   - "opencvsharp"
   - "OpenCV라이브러리"
-last_modified_at: 2025-05-24T21:19:29+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [OpenCV] OpenCVSharp 분석하기

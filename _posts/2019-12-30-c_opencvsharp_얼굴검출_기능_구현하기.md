@@ -13,7 +13,7 @@ tags:
   - "이미지인식"
   - "opencvsharp"
   - "얼굴검출"
-last_modified_at: 2025-05-24T21:19:29+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [C#] OpenCvSharp 얼굴검출 기능 구현하기

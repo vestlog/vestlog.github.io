@@ -13,7 +13,7 @@ tags:
   - "tensorflow"
   - "텐서플로우"
   - "anaconda3"
-last_modified_at: 2025-05-24T21:19:30+09:00
+last_modified_at: 2025-05-24T21:25:41+09:00
 ---
 
 ## [Deep Learning] Anaconda3 + Tensorflow 사용하기

@@ -14,7 +14,7 @@ tags:
   - "AI"
   - "AI"
   - "AI"
-last_modified_at: 2025-05-24T21:19:40+09:00
+last_modified_at: 2025-05-24T21:25:48+09:00
 ---
 
 ## [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)

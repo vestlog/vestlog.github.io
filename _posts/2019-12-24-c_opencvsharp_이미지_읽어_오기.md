@@ -12,7 +12,7 @@ tags:
   - "opencvsharp"
   - "PictureBoxIpI"
   - "그림파일넣기"
-last_modified_at: 2025-05-24T21:19:29+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 읽어 오기

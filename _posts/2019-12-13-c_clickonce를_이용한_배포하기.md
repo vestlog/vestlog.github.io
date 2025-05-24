@@ -15,7 +15,7 @@ tags:
   - "IIS"
   - "게시"
   - "클릭온스"
-last_modified_at: 2025-05-24T21:19:28+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [C#] ClickOnce를 이용한 배포하기

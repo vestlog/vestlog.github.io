@@ -12,7 +12,7 @@ tags:
   - "mssql"
   - "오라클"
   - "mssql"
-last_modified_at: 2025-05-24T21:19:40+09:00
+last_modified_at: 2025-05-24T21:25:48+09:00
 ---
 
 ## [ORACLE]오라클과 MSSQL의 SELECT INTO와 INSERT INTO 차이

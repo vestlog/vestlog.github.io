@@ -12,7 +12,7 @@ tags:
   - "미쯔비시"
   - "MXComponent"
   - "GX"
-last_modified_at: 2025-05-24T21:19:28+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [C#]MX Component V4 설정 방법

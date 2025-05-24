@@ -13,7 +13,7 @@ tags:
   - "컨투어검출"
   - "FindContours"
   - "StartFindContours"
-last_modified_at: 2025-05-24T21:19:29+09:00
+last_modified_at: 2025-05-24T21:25:41+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 컨투어(윤곽선) 찾기

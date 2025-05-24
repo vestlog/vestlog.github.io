@@ -11,7 +11,7 @@ tags:
   - "이미지필터"
   - "opencvsharp"
   - "그레이효과"
-last_modified_at: 2025-05-24T21:19:29+09:00
+last_modified_at: 2025-05-24T21:25:40+09:00
 ---
 
 ## [C#] OpenCvSharp 그레이 효과 주기

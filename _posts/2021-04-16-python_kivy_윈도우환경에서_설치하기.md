@@ -5,7 +5,7 @@ categories:
   - "코딩정보"
   - "Python"
 tags:
-last_modified_at: 2025-05-24T21:19:34+09:00
+last_modified_at: 2025-05-24T21:25:44+09:00
 ---
 
 ## [PYTHON] KIVY 윈도우환경에서 설치하기
