@@ -2,13 +2,18 @@
 title:  "[2020-06-01] - [DataGridView] 콤보박스 원클릭 리시트 보여주기"
 excerpt: ""
 permalink: /categories/코딩정보/C#/
+layout: category
+author_profile: true
+taxonomy:
+  - "코딩정보"
+  - "C#"
 tags:
   - "드롭다운"
   - "콤보박스"
   - "데이터그리드뷰"
   - "CellClick"
   - "콤보박스리스트"
-last_modified_at: 2025-05-24T21:56:38+09:00
+last_modified_at: 2025-05-24T22:06:38+09:00
 ---
 
 ## [DataGridView] 콤보박스 원클릭 리시트 보여주기

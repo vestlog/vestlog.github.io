@@ -2,6 +2,11 @@
 title:  "[2020-01-09] - [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)"
 excerpt: ""
 permalink: /categories/코딩정보/IT 프로그램/
+layout: category
+author_profile: true
+taxonomy:
+  - "코딩정보"
+  - "IT 프로그램"
 tags:
   - "Mitsubishi"
   - "매뉴얼"
@@ -10,7 +15,7 @@ tags:
   - "melsoft"
   - "MX"
   - "프로그래밍"
-last_modified_at: 2025-05-24T21:56:37+09:00
+last_modified_at: 2025-05-24T22:06:37+09:00
 ---
 
 ## [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)

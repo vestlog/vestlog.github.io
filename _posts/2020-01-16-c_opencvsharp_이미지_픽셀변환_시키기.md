@@ -2,6 +2,11 @@
 title:  "[2020-01-16] - [C#] OpenCvSharp 이미지 픽셀변환 시키기"
 excerpt: ""
 permalink: /categories/코딩정보/OpenCv/
+layout: category
+author_profile: true
+taxonomy:
+  - "코딩정보"
+  - "OpenCv"
 tags:
   - "c#"
   - "RGB"
@@ -10,7 +15,7 @@ tags:
   - "opencvsharp"
   - "픽셀변환"
   - "CvColor"
-last_modified_at: 2025-05-24T21:56:37+09:00
+last_modified_at: 2025-05-24T22:06:37+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 픽셀변환 시키기

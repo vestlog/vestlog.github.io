@@ -2,6 +2,11 @@
 title:  "[2024-02-07] - [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)"
 excerpt: ""
 permalink: /categories/코딩정보/잡담/
+layout: category
+author_profile: true
+taxonomy:
+  - "코딩정보"
+  - "잡담"
 tags:
   - "ai"
   - "ChatGPT"
@@ -12,7 +17,7 @@ tags:
   - "AI"
   - "AI"
   - "AI"
-last_modified_at: 2025-05-24T21:56:47+09:00
+last_modified_at: 2025-05-24T22:06:48+09:00
 ---
 
 ## [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)
