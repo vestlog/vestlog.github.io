@@ -2,6 +2,7 @@
 title:  "[2019-12-02] - [OMRON] RFID Reader V680S  한글 매뉴얼"
 categories:
   - Blog
+tags:
   - "RFID"
   - "메뉴얼"
   - "매뉴얼"
@@ -12,7 +13,7 @@ categories:
   - "RFID리더"
   - "RFID"
   - "omron"
-last_modified_at: 2025-05-24T23:15:52+09:00
+last_modified_at: 2025-05-24T23:22:13+09:00
 ---
 
 ## [OMRON] RFID Reader V680S 한글 매뉴얼

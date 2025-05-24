@@ -2,6 +2,7 @@
 title:  "[2020-03-16] - [Microsoft Visual Studio 2017] Xamarin 디바이스로 디버깅 하기"
 categories:
   - Blog
+tags:
   - "안드로이드"
   - "디버깅"
   - "비쥬얼스튜디오"
@@ -10,7 +11,7 @@ categories:
   - "디바이스디버깅"
   - "휴대폰빌드"
   - "내휴대폰으로앱실행하기"
-last_modified_at: 2025-05-24T23:15:55+09:00
+last_modified_at: 2025-05-24T23:22:15+09:00
 ---
 
 ## [Microsoft Visual Studio 2017] Xamarin 디바이스로 디버깅 하기

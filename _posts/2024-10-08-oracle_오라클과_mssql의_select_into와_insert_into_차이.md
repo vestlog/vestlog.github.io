@@ -2,6 +2,7 @@
 title:  "[2024-10-08] - [ORACLE]오라클과 MSSQL의 SELECT INTO와 INSERT INTO 차이"
 categories:
   - Blog
+tags:
   - "mssql"
   - "오라클과"
   - "오라클"
@@ -9,7 +10,7 @@ categories:
   - "mssql"
   - "오라클"
   - "mssql"
-last_modified_at: 2025-05-24T23:16:05+09:00
+last_modified_at: 2025-05-24T23:22:24+09:00
 ---
 
 ## [ORACLE]오라클과 MSSQL의 SELECT INTO와 INSERT INTO 차이

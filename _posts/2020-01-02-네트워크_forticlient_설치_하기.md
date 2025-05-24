@@ -2,6 +2,7 @@
 title:  "[2020-01-02] - [네트워크] FortiClient 설치 하기"
 categories:
   - Blog
+tags:
   - "클라이언트"
   - "VPN"
   - "방화벽"
@@ -9,7 +10,7 @@ categories:
   - "fortigate"
   - "FortiClient"
   - "VPN"
-last_modified_at: 2025-05-24T23:15:53+09:00
+last_modified_at: 2025-05-24T23:22:14+09:00
 ---
 
 ## [네트워크] FortiClient 설치 하기

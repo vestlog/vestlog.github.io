@@ -2,6 +2,7 @@
 title:  "[2020-01-07] - [C#] OpenCvSharp 이미지 옵티컬플로우  처리하기"
 categories:
   - Blog
+tags:
   - "이미지"
   - "c#"
   - "opencv"
@@ -12,7 +13,7 @@ categories:
   - "이미지"
   - "광류"
   - "이미지"
-last_modified_at: 2025-05-24T23:15:54+09:00
+last_modified_at: 2025-05-24T23:22:14+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 옵티컬플로우 처리하기

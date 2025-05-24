@@ -2,6 +2,7 @@
 title:  "[2020-01-23] - [Deep Learning] Anaconda3 + Tensorflow 사용하기"
 categories:
   - Blog
+tags:
   - "아나콘다"
   - "python"
   - "파이썬"
@@ -10,7 +11,7 @@ categories:
   - "tensorflow"
   - "텐서플로우"
   - "anaconda3"
-last_modified_at: 2025-05-24T23:15:54+09:00
+last_modified_at: 2025-05-24T23:22:14+09:00
 ---
 
 ## [Deep Learning] Anaconda3 + Tensorflow 사용하기

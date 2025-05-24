@@ -2,6 +2,7 @@
 title:  "[2020-01-06] - [C#] OpenCvSharp 이미지 코너 검출하기"
 categories:
   - Blog
+tags:
   - "이미지편집"
   - "c#"
   - "opencv"
@@ -9,7 +10,7 @@ categories:
   - "이미지처리"
   - "이미지코너검출"
   - "코너검출"
-last_modified_at: 2025-05-24T23:15:53+09:00
+last_modified_at: 2025-05-24T23:22:14+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 코너 검출하기

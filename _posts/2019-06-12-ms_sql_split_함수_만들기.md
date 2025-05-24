@@ -2,12 +2,13 @@
 title:  "[2019-06-12] - [MS-SQL] Split 함수 만들기!!"
 categories:
   - Blog
+tags:
   - "함수"
   - "MSSQL"
   - "자르기"
   - "function"
   - "split"
-last_modified_at: 2025-05-24T23:15:52+09:00
+last_modified_at: 2025-05-24T23:22:12+09:00
 ---
 
 ## [MS-SQL] Split 함수 만들기!!

@@ -2,6 +2,7 @@
 title:  "[2020-01-08] - [C#] OpenCvSharp 이미지 컨투어(윤곽선) 찾기"
 categories:
   - Blog
+tags:
   - "c#"
   - "opencv"
   - "contour"
@@ -10,7 +11,7 @@ categories:
   - "컨투어검출"
   - "FindContours"
   - "StartFindContours"
-last_modified_at: 2025-05-24T23:15:54+09:00
+last_modified_at: 2025-05-24T23:22:14+09:00
 ---
 
 ## [C#] OpenCvSharp 이미지 컨투어(윤곽선) 찾기

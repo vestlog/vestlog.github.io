@@ -2,9 +2,10 @@
 title:  "[2020-11-06] - [Query]MSSQL 2005 이하 버전에서 Merge 기능 만들기."
 categories:
   - Blog
+tags:
   - "mssql"
   - "MSSQL"
-last_modified_at: 2025-05-24T23:15:56+09:00
+last_modified_at: 2025-05-24T23:22:16+09:00
 ---
 
 ## [Query]MSSQL 2005 이하 버전에서 Merge 기능 만들기.

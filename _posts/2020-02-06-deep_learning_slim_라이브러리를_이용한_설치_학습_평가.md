@@ -2,6 +2,7 @@
 title:  "[2020-02-06] - [Deep Learning] slim 라이브러리를 이용한 설치, 학습, 평가"
 categories:
   - Blog
+tags:
   - "평가"
   - "Slim"
   - "학습"
@@ -11,7 +12,7 @@ categories:
   - "실예측정확도"
   - "유사율"
   - "모델학습"
-last_modified_at: 2025-05-24T23:15:54+09:00
+last_modified_at: 2025-05-24T23:22:14+09:00
 ---
 
 ## [Deep Learning] slim 라이브러리를 이용한 설치, 학습, 평가

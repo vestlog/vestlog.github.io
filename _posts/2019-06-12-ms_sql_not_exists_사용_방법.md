@@ -2,13 +2,14 @@
 title:  "[2019-06-12] - [MS-SQL] NOT EXISTS 사용 방법"
 categories:
   - Blog
+tags:
   - "MSSQL"
   - "query"
   - "쿼리"
   - "Exists"
   - "NOT"
   - "조회조건"
-last_modified_at: 2025-05-24T23:15:52+09:00
+last_modified_at: 2025-05-24T23:22:12+09:00
 ---
 
 ## [MS-SQL] NOT EXISTS 사용 방법
