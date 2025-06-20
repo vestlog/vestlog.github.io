@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://burningfalls.github.io/sitemap.xml
+Sitemap: https://vestlog.github.io/sitemap.xml
