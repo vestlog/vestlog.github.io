@@ -1,10 +1,27 @@
 <!-- start custom head snippets -->
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1695952648850095"
-     crossorigin="anonymous"></script>
+<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1695952648850095"
+     crossorigin="anonymous"></script> -->
 	 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!--<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/my-feed.xml" title="{{ site.title }} Feed"> -->
+<!-- end custom head snippets -->
+
+<!-- start custom head snippets -->
+
+<!-- Google Adsense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1695952648850095"
+     crossorigin="anonymous"></script>
+
+<!-- SEO Elements -->
+<title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ page.excerpt | default: site.description }}">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- RSS -->
 <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/my-feed.xml" title="{{ site.title }} Feed">
+
 <!-- end custom head snippets -->
 
