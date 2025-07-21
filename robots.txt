@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vestlog.github.io/my-sitemap.xml
+Sitemap: https://vestlog.github.io/sitemap.xml
