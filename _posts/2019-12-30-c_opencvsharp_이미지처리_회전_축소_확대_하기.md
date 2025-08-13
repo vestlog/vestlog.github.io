@@ -18,6 +18,7 @@ permalink: '/posts/2019-12-30-c_opencvsharp_이미지처리_회전_축소_확대
 alt_en: '/en/posts/2019-12-30-c_opencvsharp_이미지처리_회전_축소_확대_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지처리(회전, 축소, 확대) 하기
 
 코딩정보/OpenCv
@@ -226,3 +227,9 @@ alt_en: '/en/posts/2019-12-30-c_opencvsharp_이미지처리_회전_축소_확대
 
 #c# #이미지회전 #opencv #이미지확대 #opencvsharp #이미지처리 #이미지축소
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

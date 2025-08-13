@@ -17,6 +17,7 @@ permalink: '/posts/2019-12-30-c_opencvsharp_히스토그램_적용_하기/'
 alt_en: '/en/posts/2019-12-30-c_opencvsharp_히스토그램_적용_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 히스토그램 적용 하기
 
 코딩정보/OpenCv
@@ -261,3 +262,9 @@ https://docs.opencv.org/4.0.0.. webnautes.tistory.com
 
 #c# #opencv #히스토그램 #이미지효과 #이미지필터 #opencvsharp
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

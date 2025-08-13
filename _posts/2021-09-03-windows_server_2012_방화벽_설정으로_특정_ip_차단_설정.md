@@ -15,6 +15,7 @@ permalink: '/posts/2021-09-03-windows_server_2012_방화벽_설정으로_특정_
 alt_en: '/en/posts/2021-09-03-windows_server_2012_방화벽_설정으로_특정_ip_차단_설정/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Windows Server 2012] 방화벽 설정으로 특정 IP 차단 설정
 
 코딩정보/Windows
@@ -108,3 +109,9 @@ alt_en: '/en/posts/2021-09-03-windows_server_2012_방화벽_설정으로_특정_
 
 #MSSQL 접근 차단 #윈도우서버 접근 차단 #WindowsServer2012 #특정프로그램차단
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

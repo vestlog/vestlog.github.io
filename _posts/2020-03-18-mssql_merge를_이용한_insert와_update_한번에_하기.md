@@ -18,6 +18,7 @@ permalink: '/posts/2020-03-18-mssql_merge를_이용한_insert와_update_한번�
 alt_en: '/en/posts/2020-03-18-mssql_merge를_이용한_insert와_update_한번에_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MSSQL] MERGE를 이용한 INSERT와 UPDATE 한번에 하기
 
 코딩정보/MS-SQL
@@ -135,3 +136,9 @@ USER_MAST 테이블에 USER_ID컬럼이 'TEST'이고 USER_NAME컬럼이 'TEST'�
 
 #Update #MSSQL #query #insert #merge #INSERT와UPDATE를 한번에 #INSERT와 UPDATE 동시
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

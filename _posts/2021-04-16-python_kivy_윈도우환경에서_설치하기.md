@@ -12,6 +12,7 @@ permalink: '/posts/2021-04-16-python_kivy_윈도우환경에서_설치하기/'
 alt_en: '/en/posts/2021-04-16-python_kivy_윈도우환경에서_설치하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [PYTHON] KIVY 윈도우환경에서 설치하기
 
 코딩정보/Python
@@ -84,3 +85,9 @@ alt_en: '/en/posts/2021-04-16-python_kivy_윈도우환경에서_설치하기/'
 
   
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

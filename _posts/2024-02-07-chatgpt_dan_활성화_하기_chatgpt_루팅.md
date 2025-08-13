@@ -20,6 +20,7 @@ permalink: '/posts/2024-02-07-chatgpt_dan_활성화_하기_chatgpt_루팅/'
 alt_en: '/en/posts/2024-02-07-chatgpt_dan_활성화_하기_chatgpt_루팅/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)
 
 코딩정보/잡담
@@ -102,3 +103,9 @@ Message ChatGPT... 부분에 복사한 명령프롬프트를 넣어 주세요
 
 #ai #ChatGPT #AI 주식 #AI 루팅 #ChatGPT 루팅 #AI 정치 #AI 로토 #AI 토토 #AI 확률
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

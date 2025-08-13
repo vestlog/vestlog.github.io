@@ -18,6 +18,7 @@ permalink: '/posts/2019-12-30-c_opencvsharp_라이브러리_사용하기_1/'
 alt_en: '/en/posts/2019-12-30-c_opencvsharp_라이브러리_사용하기_1/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#]OpenCvSharp 라이브러리 사용하기 #1
 
 코딩정보/C#
@@ -114,3 +115,9 @@ OpenCv 3,4 버전에서 오류가 발생하는 문제가 있다는 얘길 듣고
 
 #xml #c# #opencv #dll등록 #opencvsharp #라이브러리등록 #c# opencv버전
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

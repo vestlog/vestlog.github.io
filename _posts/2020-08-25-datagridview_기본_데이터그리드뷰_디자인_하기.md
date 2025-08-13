@@ -18,6 +18,7 @@ permalink: '/posts/2020-08-25-datagridview_기본_데이터그리드뷰_디자�
 alt_en: '/en/posts/2020-08-25-datagridview_기본_데이터그리드뷰_디자인_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [DataGridView] 기본 데이터그리드뷰 디자인 하기!!
 
 코딩정보/C#
@@ -114,3 +115,9 @@ alt_en: '/en/posts/2020-08-25-datagridview_기본_데이터그리드뷰_디자�
 
 #c# #DataGridView #커스텀디자인 #데이터그리드뷰 디자인 #그리드뷰 속성 #그리드뷰 디자인 변경 #그리드뷰 커스텀
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

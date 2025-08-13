@@ -18,6 +18,7 @@ permalink: '/posts/2020-01-16-c_opencvsharp_이미지_픽셀변환_시키기/'
 alt_en: '/en/posts/2020-01-16-c_opencvsharp_이미지_픽셀변환_시키기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 픽셀변환 시키기
 
 코딩정보/OpenCv
@@ -190,3 +191,9 @@ OpenCvSharp의 함수중 CvColor을 사용하여 R,G,B 영역을 변경시켜 �
 
 #c# #RGB #opencv #Math.Round #opencvsharp #픽셀변환 #CvColor
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

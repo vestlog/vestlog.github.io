@@ -1,3 +1,12 @@
 <!-- start custom footer snippets -->
+{% if page.lang == "ko" and page.alt_en %}
+<div class="lang-toggle" style="margin:12px 0 20px;">
+  <button
+    style="padding:6px 10px;border:1px solid #ccc;border-radius:6px;background:#fff;cursor:pointer;"
+    onclick="document.body.setAttribute('data-lang', document.body.getAttribute('data-lang')==='en' ? 'ko' : 'en')">
+    🌐 Toggle English
+  </button>
+</div>
+{% endif %}
 
 <!-- end custom footer snippets -->

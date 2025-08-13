@@ -17,6 +17,7 @@ permalink: '/posts/2019-12-24-c_opencvsharp_라이브러리_사용하기_2/'
 alt_en: '/en/posts/2019-12-24-c_opencvsharp_라이브러리_사용하기_2/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 라이브러리 사용하기 #2
 
 코딩정보/C#
@@ -113,3 +114,9 @@ IplImage용 픽쳐박스를 사용하는 방법을 소개 해보겟습니다
 
 #xml #c# #라이브러리 #opencv #dll등록 #opencvsharp
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -17,6 +17,7 @@ permalink: '/posts/2019-06-12-ms_sql_not_exists_사용_방법/'
 alt_en: '/en/posts/2019-06-12-ms_sql_not_exists_사용_방법/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MS-SQL] NOT EXISTS 사용 방법
 
 코딩정보/MS-SQL
@@ -37,3 +38,9 @@ alt_en: '/en/posts/2019-06-12-ms_sql_not_exists_사용_방법/'
 
 #MSSQL #query #쿼리 #Exists #NOT EXISTS #조회조건
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

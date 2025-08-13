@@ -14,6 +14,7 @@ permalink: '/posts/2020-02-12-tensorflow_딥러닝과_텐서플로우란/'
 alt_en: '/en/posts/2020-02-12-tensorflow_딥러닝과_텐서플로우란/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [TensorFlow] 딥러닝과 텐서플로우란?
 
 코딩정보/TensorFlow
@@ -154,3 +155,9 @@ Tutorials/tree/master/01%20-%20Why%20TensorFlow#12-%EC%99%9C-%ED%85%90%EC%84%9C%
 
 #딥러닝 #tensorflow #텐서플로 커뮤니티
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

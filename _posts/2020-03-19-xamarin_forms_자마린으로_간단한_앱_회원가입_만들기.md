@@ -17,6 +17,7 @@ permalink: '/posts/2020-03-19-xamarin_forms_자마린으로_간단한_앱_회원
 alt_en: '/en/posts/2020-03-19-xamarin_forms_자마린으로_간단한_앱_회원가입_만들기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Xamarin Forms] 자마린으로 간단한 앱 회원가입 만들기
 
 코딩정보/Android
@@ -322,3 +323,9 @@ SQL에서 USER_MAST 테이블을 조회해 보니 정상적으로 값이 INSERT 
 
 #안드로이드 #앱만들기 #자마린 #Xamarin 회원가입 #앱 회원가입 #로그인앱만들기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

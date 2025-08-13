@@ -17,6 +17,7 @@ permalink: '/posts/2020-09-10-mssql_날짜_계산하기_datediff_dateadd/'
 alt_en: '/en/posts/2020-09-10-mssql_날짜_계산하기_datediff_dateadd/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MSSQL] 날짜 계산하기(datediff, dateadd)
 
 코딩정보/MS-SQL
@@ -121,3 +122,9 @@ _**2\. datediff**_
 
 #날짜계산 #DATEDIFF #dateadd #일자계산 #mssql 날짜 조회 #일수 구하기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

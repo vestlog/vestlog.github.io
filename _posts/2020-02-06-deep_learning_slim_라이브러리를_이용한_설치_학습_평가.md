@@ -20,6 +20,7 @@ permalink: '/posts/2020-02-06-deep_learning_slim_라이브러리를_이용한_�
 alt_en: '/en/posts/2020-02-06-deep_learning_slim_라이브러리를_이용한_설치_학습_평가/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Deep Learning] slim 라이브러리를 이용한 설치, 학습, 평가
 
 코딩정보/Deep Learning
@@ -255,3 +256,9 @@ http://download.tensorflow.org/models/inception_v1_2016_08_28.tar.gz)[http://dow
 
 #평가 #Slim #학습 #라이브러리 #deep learning #tensorflow #실예측정확도 #유사율 #모델학습
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

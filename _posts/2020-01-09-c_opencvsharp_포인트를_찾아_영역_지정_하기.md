@@ -17,6 +17,7 @@ permalink: '/posts/2020-01-09-c_opencvsharp_포인트를_찾아_영역_지정_�
 alt_en: '/en/posts/2020-01-09-c_opencvsharp_포인트를_찾아_영역_지정_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기
 
 코딩정보/OpenCv
@@ -135,3 +136,9 @@ alt_en: '/en/posts/2020-01-09-c_opencvsharp_포인트를_찾아_영역_지정_�
 
 #Rectangle #c# #opencv #opencvsharp #BoundingRect #사각그리기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

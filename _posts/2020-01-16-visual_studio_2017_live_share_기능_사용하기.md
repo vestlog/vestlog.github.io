@@ -17,6 +17,7 @@ permalink: '/posts/2020-01-16-visual_studio_2017_live_share_기능_사용하기/
 alt_en: '/en/posts/2020-01-16-visual_studio_2017_live_share_기능_사용하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Visual Studio 2017] Live Share 기능 사용하기
 
 코딩정보/IT 프로그램
@@ -143,3 +144,9 @@ Visual Studio 2019에서는 기본 기능으로 탑재되어 배포 되어지고
 
 #공동개발 #소스공유 #팀 프로젝트 #visual studio 2017 #live share #비쥬얼스튜디오 확장 기능
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

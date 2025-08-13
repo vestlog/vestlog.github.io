@@ -18,6 +18,7 @@ permalink: '/posts/2020-01-06-c_opencvsharp_이미지_직선_검출하기/'
 alt_en: '/en/posts/2020-01-06-c_opencvsharp_이미지_직선_검출하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 직선 검출하기
 
 코딩정보/OpenCv
@@ -189,3 +190,9 @@ MultiScale 허프 변환에서는 각도에 대한 나누는 수를 의미한다
 
 #c# #opencv #opencvsharp #이미지처리 #직선검출 #HoughLines2 #허프변환
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

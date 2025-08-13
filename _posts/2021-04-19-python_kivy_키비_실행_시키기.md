@@ -15,6 +15,7 @@ permalink: '/posts/2021-04-19-python_kivy_키비_실행_시키기/'
 alt_en: '/en/posts/2021-04-19-python_kivy_키비_실행_시키기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [PYTHON] Kivy[키비] 실행 시키기
 
 2021-04-19 08:43:03
@@ -74,3 +75,9 @@ Kivy(키비)를 호출하여 Label에 Hello World(가장 기초)를 띄우는 �
 
 #파이썬 키비 #파이썬 Kivy #kivy 실행하기 #kivy hello world
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -20,6 +20,7 @@ permalink: '/posts/2020-01-09-c_opencvsharp_이미지_사각_원형_검출하기
 alt_en: '/en/posts/2020-01-09-c_opencvsharp_이미지_사각_원형_검출하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 사각, 원형 검출하기
 
 코딩정보/OpenCv
@@ -340,3 +341,9 @@ alt_en: '/en/posts/2020-01-09-c_opencvsharp_이미지_사각_원형_검출하기
 
 #c# #opencv #컨투어 #윤곽선 #opencvsharp #모형검출 #사각형검출 #원형검출 #이미지 검출
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

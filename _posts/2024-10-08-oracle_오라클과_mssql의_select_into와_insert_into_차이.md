@@ -18,6 +18,7 @@ permalink: '/posts/2024-10-08-oracle_오라클과_mssql의_select_into와_insert
 alt_en: '/en/posts/2024-10-08-oracle_오라클과_mssql의_select_into와_insert_into_차이/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [ORACLE]오라클과 MSSQL의 SELECT INTO와 INSERT INTO 차이
 
 코딩정보/Oracle
@@ -107,3 +108,9 @@ MSSQL오라클
 #mssql SELECT INTO #오라클과 mssql 차이점 #오라클 select into #오라클 insert into #mssql
 insert into #오라클 예시 #mssql 예시
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

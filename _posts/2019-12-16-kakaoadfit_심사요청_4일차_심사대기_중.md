@@ -12,6 +12,7 @@ permalink: '/posts/2019-12-16-kakaoadfit_심사요청_4일차_심사대기_중/'
 alt_en: '/en/posts/2019-12-16-kakaoadfit_심사요청_4일차_심사대기_중/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [KakaoAdfit] 심사요청 4일차 심사대기 중...
 
 코딩정보/잡담
@@ -66,3 +67,9 @@ alt_en: '/en/posts/2019-12-16-kakaoadfit_심사요청_4일차_심사대기_중/'
 
   
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

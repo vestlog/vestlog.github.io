@@ -21,6 +21,7 @@ permalink: '/posts/2019-12-13-c_clickonce를_이용한_배포하기/'
 alt_en: '/en/posts/2019-12-13-c_clickonce를_이용한_배포하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] ClickOnce를 이용한 배포하기
 
 코딩정보/C#
@@ -207,3 +208,9 @@ IIS서버 구축 방법은 서버 버전에 따라 많이 다르고 IIS 버전�
 
 #보안 #웹사이트 #폴더 #FTP #배포 #c# #ClickOnce #IIS #게시 #클릭온스
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -19,6 +19,7 @@ permalink: '/posts/2023-09-12-oracle_ora_01756_quoted_string_not_properly_termin
 alt_en: '/en/posts/2023-09-12-oracle_ora_01756_quoted_string_not_properly_terminated/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Oracle] ORA-01756 : quoted string not properly terminated
 
 코딩정보/Oracle
@@ -73,3 +74,9 @@ ORA-01756 : 단일 인용부를 지정해 주십시오
 
 #oracle #오라클 #오류 #작은 따옴표 #오라클오류 #ORA-01756 #단일인용부 #인용부
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

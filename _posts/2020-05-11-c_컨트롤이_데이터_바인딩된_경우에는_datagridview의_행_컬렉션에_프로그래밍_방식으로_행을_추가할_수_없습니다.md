@@ -16,6 +16,7 @@ permalink: '/posts/2020-05-11-c_컨트롤이_데이터_바인딩된_경우에는
 alt_en: '/en/posts/2020-05-11-c_컨트롤이_데이터_바인딩된_경우에는_datagridview의_행_컬렉션에_프로그래밍_방식으로_행을_추가할_수_없습니다/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#]컨트롤이 데이터 바인딩된 경우에는 datagridview의 행 컬렉션에 프로그래밍 방식으로 행을 추가할 수 없습니다
 
 코딩정보/C#
@@ -229,3 +230,9 @@ Row 추가 이벤트 구문에서 DataTable를 선언하고 Row 추가 이후에
 
 #C# 오류 #그리드뷰바인딩오류 #Row추가 #그리드뷰 Row 추가하기 #행 컬렉션에 프로그래밍 방식으로 행을 추가할 수 없습니다
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

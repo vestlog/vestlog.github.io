@@ -16,6 +16,7 @@ permalink: '/posts/2019-06-12-ms_sql_split_함수_만들기/'
 alt_en: '/en/posts/2019-06-12-ms_sql_split_함수_만들기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MS-SQL] Split 함수 만들기!!
 
 코딩정보/MS-SQL
@@ -80,3 +81,9 @@ MSSQL에서 Split 제공 함수가 없습니다
 
 #함수 #MSSQL #자르기 #function #split
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -17,6 +17,7 @@ permalink: '/posts/2020-02-12-tensorflow_텐서플로_설치와_주피터_노트
 alt_en: '/en/posts/2020-02-12-tensorflow_텐서플로_설치와_주피터_노트북_설치하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [TensorFlow] 텐서플로 설치와 주피터 노트북 설치하기
 
 코딩정보/TensorFlow
@@ -153,3 +154,9 @@ C:\> jupyter notebook
 
 #python #파이썬 #jupyter #tensorflow #jupyter notebook #주피터노트북
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

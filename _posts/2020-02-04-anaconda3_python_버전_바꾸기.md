@@ -18,6 +18,7 @@ permalink: '/posts/2020-02-04-anaconda3_python_버전_바꾸기/'
 alt_en: '/en/posts/2020-02-04-anaconda3_python_버전_바꾸기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Anaconda3] Python 버전 바꾸기
 
 코딩정보/Python
@@ -77,3 +78,9 @@ Anaconda3에서 기본 설치시 파이선 3.7버전이 설치 되게 된다
 #파이썬 업그레이드 #python 버전 변경 #anaconda3 #python 버전 확인 #python업그레이드 #파이썬 변경 #파이선
 다운그레이드
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

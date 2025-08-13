@@ -17,6 +17,7 @@ permalink: '/posts/2019-12-30-c_opencvsharp_이진화_효과_주기/'
 alt_en: '/en/posts/2019-12-30-c_opencvsharp_이진화_효과_주기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이진화 효과 주기
 
 코딩정보/OpenCv
@@ -154,3 +155,9 @@ https://codingman.tistor.. codingman.tistory.com
 
 #c# #이진화 #opencv #opencvsharp #이진화처리 #이미지이진화
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -18,6 +18,7 @@ permalink: '/posts/2020-03-04-visual_studio_2017_microsoft_visual_studio_emulato
 alt_en: '/en/posts/2020-03-04-visual_studio_2017_microsoft_visual_studio_emulator_for_android_인터넷_연결_설정하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 인터넷 연결
 설정하기
 
@@ -117,3 +118,9 @@ alt_en: '/en/posts/2020-03-04-visual_studio_2017_microsoft_visual_studio_emulato
 #에뮬레이터 #안드로이드 #인터넷연결 #인터넷연결안됨 #Visual Studio Emulator for Android
 #ERR_SSL_PROTOCOL_ERROR #Webpage not available
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -17,6 +17,7 @@ permalink: '/posts/2021-03-09-windows_power_shell_보안오류_스크립트_실�
 alt_en: '/en/posts/2021-03-09-windows_power_shell_보안오류_스크립트_실행_오류/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Windows Power Shell] 보안오류(스크립트 실행 오류)
 
 코딩정보/Windows
@@ -79,3 +80,9 @@ alt_en: '/en/posts/2021-03-09-windows_power_shell_보안오류_스크립트_실�
 #관리자 권한 실행 #unauthorizedAccess #Power Shell 스크립트 실행 오류 #보안 오류
 #PSSecurityException #about_Execution_Policies
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -21,6 +21,7 @@ permalink: '/posts/2019-09-19-c_callback_함수와_delegate_사용하기/'
 alt_en: '/en/posts/2019-09-19-c_callback_함수와_delegate_사용하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] CallBack 함수와 Delegate 사용하기
 
 코딩정보/C#
@@ -124,3 +125,9 @@ Psss 되고 null이 아닌 값이 들어오게 되면 대리자를 호출하여 
 
 #프로그래밍 #RFID #delegate #c# #코딩 #Callback #RFID Reader #대리자 #Soket #이더넷통신
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

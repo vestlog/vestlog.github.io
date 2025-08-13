@@ -16,6 +16,7 @@ permalink: '/posts/2019-12-16-kakaoadfit_드디어_심사_승인되었습니다/
 alt_en: '/en/posts/2019-12-16-kakaoadfit_드디어_심사_승인되었습니다/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [KakaoAdfit]드디어 심사 승인되었습니다
 
 코딩정보/잡담
@@ -74,3 +75,9 @@ alt_en: '/en/posts/2019-12-16-kakaoadfit_드디어_심사_승인되었습니다/
 
 #심사보류 #다음애드핏 #kakaoadfit #최신컨텐츠보류 #매체 심사
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -14,6 +14,7 @@ permalink: '/posts/2020-05-07-c_microsoft_ace_oledb_12_0_공급자는_로컬_컴
 alt_en: '/en/posts/2020-05-07-c_microsoft_ace_oledb_12_0_공급자는_로컬_컴퓨터에_등록할_수_없습니다/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] 'Microsoft.ACE.OLEDB.12.0' 공급자는 로컬 컴퓨터에 등록할 수 없습니다
 
 코딩정보/C#
@@ -63,3 +64,9 @@ us/download/details.aspx?id=54920)
 
 #Microsoft.ACE.OLEDB.12.0 #OLEDB 공급자 오류 #엑셀 연동 오류
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

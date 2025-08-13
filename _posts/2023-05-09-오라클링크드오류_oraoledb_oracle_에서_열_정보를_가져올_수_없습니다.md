@@ -18,6 +18,7 @@ permalink: '/posts/2023-05-09-오라클링크드오류_oraoledb_oracle_에서_�
 alt_en: '/en/posts/2023-05-09-오라클링크드오류_oraoledb_oracle_에서_열_정보를_가져올_수_없습니다/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [오라클링크드오류]"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.
 
 코딩정보/Oracle
@@ -56,3 +57,9 @@ MSSQL에서 오라클 DB를 링크드 설정하여 OPENQUERY를 실행하였을 
 거부되었습니다. #"OraOLEDB.Oracle"에서 필수 인터페이스("IID_IDBCreateCommand")를 가져올 수 없습니다.
 #"OraOLEDB.Oracle"에서 열 정보를 가져올 수 없습니다.
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

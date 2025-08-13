@@ -17,6 +17,7 @@ permalink: '/posts/2020-03-17-xamarin_forms_자마린에서_mssql_연동하기/'
 alt_en: '/en/posts/2020-03-17-xamarin_forms_자마린에서_mssql_연동하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Xamarin Forms] 자마린에서 MSSQL 연동하기
 
 코딩정보/Android
@@ -230,3 +231,9 @@ Nuget을 사용해서 필요한 패키지를 설치 하면 됩니다 어렵지�
 
 #MSSQL #DB #xamarin mssql #로그인 앱 #안드로이드 MSSQL 연동 #MSSQL 연동
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

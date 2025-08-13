@@ -21,6 +21,7 @@ permalink: '/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
 alt_en: '/en/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] Soket 통신으로 RFID 연결하기 #1
 
 코딩정보/C#
@@ -280,3 +281,9 @@ alt_en: '/en/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
 
 #통신 #RFID #c# #모듈 #비동기식 #Soket #이더넷통신 #V680S #비동기식 Soket통신 #C#통신모듈
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -16,6 +16,7 @@ permalink: '/posts/2019-12-13-mssql_row_number함수를_사용한_group_by/'
 alt_en: '/en/posts/2019-12-13-mssql_row_number함수를_사용한_group_by/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MSSQL] ROW_NUMBER함수를 사용한 GROUP BY
 
 코딩정보/MS-SQL
@@ -74,3 +75,9 @@ row_number() 함수를 활용해서 좀 간결한(?) 쿼리로 GROUP BY와 같�
 
 #MSSQL #쿼리 #ROW_NUMBER #중복제거 #GroupBy
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

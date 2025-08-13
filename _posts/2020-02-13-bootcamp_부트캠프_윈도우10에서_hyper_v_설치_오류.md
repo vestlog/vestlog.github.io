@@ -17,6 +17,7 @@ permalink: '/posts/2020-02-13-bootcamp_부트캠프_윈도우10에서_hyper_v_�
 alt_en: '/en/posts/2020-02-13-bootcamp_부트캠프_윈도우10에서_hyper_v_설치_오류/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [BootCamp] 부트캠프 윈도우10에서 Hyper-V 설치 오류
 
 코딩정보/BootCamp
@@ -74,3 +75,9 @@ alt_en: '/en/posts/2020-02-13-bootcamp_부트캠프_윈도우10에서_hyper_v_�
 #안드로이드 #비쥬얼스튜디오 #설치 오류 #Microsoft Visual Studio Emulator for Android 오류
 #Hyper-v 오류 #에뮬레이터 오류
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

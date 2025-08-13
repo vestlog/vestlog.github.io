@@ -14,6 +14,7 @@ permalink: '/posts/2020-11-06-query_mssql_2005_이하_버전에서_merge_기능_
 alt_en: '/en/posts/2020-11-06-query_mssql_2005_이하_버전에서_merge_기능_만들기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Query]MSSQL 2005 이하 버전에서 Merge 기능 만들기.
 
 코딩정보/MS-SQL
@@ -94,3 +95,9 @@ codingman.tistory.com ](https://codingman.tistory.com/98?category=715730)
 
 #mssql merge #MSSQL ROWCOUNT #2005 MERGE기능
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

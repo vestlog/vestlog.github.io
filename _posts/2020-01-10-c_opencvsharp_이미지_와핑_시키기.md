@@ -20,6 +20,7 @@ permalink: '/posts/2020-01-10-c_opencvsharp_이미지_와핑_시키기/'
 alt_en: '/en/posts/2020-01-10-c_opencvsharp_이미지_와핑_시키기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 와핑 시키기
 
 코딩정보/OpenCv
@@ -154,3 +155,9 @@ OCR 같은 지능형 프로그램을 만들어보는게 목표인데
 
 #이미지편집 #c# #opencv #와핑 #Warping #WarpPerspective #opencvsharp #이미지왜곡 #이미지변조
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

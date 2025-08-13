@@ -17,6 +17,7 @@ permalink: '/posts/2020-04-20-c_datagridview_동적_컬럼_생성하기/'
 alt_en: '/en/posts/2020-04-20-c_datagridview_동적_컬럼_생성하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] DataGridView 동적 컬럼 생성하기
 
 코딩정보/C#
@@ -558,3 +559,9 @@ codingman.tistory.com ](https://codingman.tistory.com/73)
 
 #c# #MSSQL 연동 #엑셀불러오기 #데이터그리드뷰 동적컬럼 #동적컬럼생성하기 #DATAGRIDVIEW 해더생성
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

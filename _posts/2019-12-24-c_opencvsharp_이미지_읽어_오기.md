@@ -18,6 +18,7 @@ permalink: '/posts/2019-12-24-c_opencvsharp_이미지_읽어_오기/'
 alt_en: '/en/posts/2019-12-24-c_opencvsharp_이미지_읽어_오기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 읽어 오기
 
 코딩정보/C#
@@ -157,3 +158,9 @@ OpenCvSharp Dll 오류 해결하기 위한 신규 라이브러리 추가 방법
 
 #c# #불러오기 #파일불러오기 #opencv #opencvsharp #PictureBoxIpI #그림파일넣기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

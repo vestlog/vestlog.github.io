@@ -18,6 +18,7 @@ permalink: '/posts/2020-01-08-c_opencvsharp_사용자_지정_마스크_사용하
 alt_en: '/en/posts/2020-01-08-c_opencvsharp_사용자_지정_마스크_사용하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 사용자 지정 마스크 사용하기
 
 코딩정보/OpenCv
@@ -314,3 +315,9 @@ C# : ThresholdCv.Threshold(temp, temp, 80, 255, ThresholdType.BinaryInv);
 
 #c# #opencv #threshold #opencvsharp #사용자지정마스크 #유저마스크 #Fiter2D
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

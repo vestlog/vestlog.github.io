@@ -16,6 +16,7 @@ permalink: '/posts/2020-02-14-bootcamp_외장하드_usb_에_윈도우10_설치�
 alt_en: '/en/posts/2020-02-14-bootcamp_외장하드_usb_에_윈도우10_설치하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [BootCamp] 외장하드(USB)에 윈도우10 설치하기
 
 코딩정보/BootCamp
@@ -157,3 +158,9 @@ adguard.net ](https://tb.rg-adguard.net/public.php)
 
 #부트캠프 #윈도우10 #윈도우10 설치 #외장하드윈도우설치 #외장하드디스크부팅
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -18,6 +18,7 @@ permalink: '/posts/2020-01-02-네트워크_forticlient_설치_하기/'
 alt_en: '/en/posts/2020-01-02-네트워크_forticlient_설치_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [네트워크] FortiClient 설치 하기
 
 코딩정보/IT 프로그램
@@ -113,3 +114,9 @@ www.forticlient.com ](https://www.forticlient.com/downloads)
 
 #클라이언트 #VPN #방화벽 #SSL #fortigate #FortiClient VPN #VPN 클라이언트
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

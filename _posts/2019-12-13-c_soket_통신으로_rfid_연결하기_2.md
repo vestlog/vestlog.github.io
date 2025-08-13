@@ -18,6 +18,7 @@ permalink: '/posts/2019-12-13-c_soket_통신으로_rfid_연결하기_2/'
 alt_en: '/en/posts/2019-12-13-c_soket_통신으로_rfid_연결하기_2/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] Soket 통신으로 RFID 연결하기 #2
 
 코딩정보/C#
@@ -178,3 +179,9 @@ Receive 코드는 이렇습니다
 
 #통신 #RFID #c# #비동기 #OMRON #V680S #soket통신
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

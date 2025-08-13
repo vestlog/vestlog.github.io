@@ -17,6 +17,7 @@ permalink: '/posts/2019-12-30-c_opencvsharp_그레이_효과_주기/'
 alt_en: '/en/posts/2019-12-30-c_opencvsharp_그레이_효과_주기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 그레이 효과 주기
 
 코딩정보/OpenCv
@@ -168,3 +169,9 @@ codingman.tistory.com ](https://codingman.tistory.com/48)
 
 #c# #opencv #이미지효과 #이미지필터 #opencvsharp #그레이효과
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

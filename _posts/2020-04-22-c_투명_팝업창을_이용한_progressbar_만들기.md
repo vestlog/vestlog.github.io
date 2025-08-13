@@ -16,6 +16,7 @@ permalink: '/posts/2020-04-22-c_투명_팝업창을_이용한_progressbar_만들
 alt_en: '/en/posts/2020-04-22-c_투명_팝업창을_이용한_progressbar_만들기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] 투명 팝업창을 이용한 ProgressBar 만들기
 
 코딩정보/C#
@@ -274,3 +275,9 @@ PictureBox 컨트롤을 팝업 폼에 생성하고 그림박스의 배경 이미
 
 #c# #C# 프로그래바 #C# GIF 움직이기 #픽쳐박스 GIF #투명팝업
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

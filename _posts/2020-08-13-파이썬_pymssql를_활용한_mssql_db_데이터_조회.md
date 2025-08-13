@@ -16,6 +16,7 @@ permalink: '/posts/2020-08-13-파이썬_pymssql를_활용한_mssql_db_데이터_
 alt_en: '/en/posts/2020-08-13-파이썬_pymssql를_활용한_mssql_db_데이터_조회/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [파이썬] pymssql를 활용한 MSSQL DB 데이터 조회
 
 코딩정보/Python
@@ -196,3 +197,9 @@ user='ID', password='패스워트'를 넣어주시면 됩니다
 
 #python #파이썬 #python mssql #mssql select #파이썬 DB접속
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

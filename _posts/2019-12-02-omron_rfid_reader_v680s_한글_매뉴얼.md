@@ -21,6 +21,7 @@ permalink: '/posts/2019-12-02-omron_rfid_reader_v680s_한글_매뉴얼/'
 alt_en: '/en/posts/2019-12-02-omron_rfid_reader_v680s_한글_매뉴얼/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [OMRON] RFID Reader V680S 한글 매뉴얼
 
 코딩정보/IT 프로그램
@@ -59,3 +60,9 @@ _**※혹시 저작권이나 정보 공유 목적에 위반되는 사항이 발�
 #RFID #메뉴얼 #매뉴얼 #옴론 #OMRON #RFIDTag #V680S #RFID리더 #RFID V680S 매뉴얼 #omron
 v680s
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

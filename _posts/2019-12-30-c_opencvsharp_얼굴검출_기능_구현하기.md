@@ -19,6 +19,7 @@ permalink: '/posts/2019-12-30-c_opencvsharp_얼굴검출_기능_구현하기/'
 alt_en: '/en/posts/2019-12-30-c_opencvsharp_얼굴검출_기능_구현하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 얼굴검출 기능 구현하기
 
 코딩정보/OpenCv
@@ -166,3 +167,9 @@ alt_en: '/en/posts/2019-12-30-c_opencvsharp_얼굴검출_기능_구현하기/'
 
 #얼굴인식 #c# #opencv #이미지효과 #이미지필터 #이미지인식 #opencvsharp #얼굴검출
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

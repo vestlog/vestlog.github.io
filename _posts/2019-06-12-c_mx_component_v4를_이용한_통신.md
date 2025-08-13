@@ -17,6 +17,7 @@ permalink: '/posts/2019-06-12-c_mx_component_v4를_이용한_통신/'
 alt_en: '/en/posts/2019-06-12-c_mx_component_v4를_이용한_통신/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#]MX Component V4를 이용한 통신
 
 코딩정보/C#
@@ -82,3 +83,9 @@ station number를 입력한뒤 connect 버튼을 클릭하게 되면 우측 상�
 
 #통신 #c# #PLC #미쯔비시 #비쥬얼스튜디오 #2017
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

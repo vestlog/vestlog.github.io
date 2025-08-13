@@ -16,6 +16,7 @@ permalink: '/posts/2019-12-24-opencv_opencvsharp_분석하기/'
 alt_en: '/en/posts/2019-12-24-opencv_opencvsharp_분석하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [OpenCV] OpenCVSharp 분석하기
 
 코딩정보/OpenCv
@@ -83,3 +84,9 @@ Windows, Linux, Mac OS X, Android and iOS. sourceforge.net
 
 #다운로드 #c# #opencv #opencvsharp #OpenCV라이브러리
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

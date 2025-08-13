@@ -18,6 +18,7 @@ permalink: '/posts/2019-06-12-c_mx_component_v4_설정_방법/'
 alt_en: '/en/posts/2019-06-12-c_mx_component_v4_설정_방법/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#]MX Component V4 설정 방법
 
 코딩정보/IT 프로그램
@@ -104,3 +105,9 @@ Mx Component에 PLC Port 번호로 지정한 것이다
 
 #Mitsubishi #시뮬레이션 #c# #PLC #미쯔비시 #MXComponent #GX Works2
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

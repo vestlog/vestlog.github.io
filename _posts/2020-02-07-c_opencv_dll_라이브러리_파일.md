@@ -14,6 +14,7 @@ permalink: '/posts/2020-02-07-c_opencv_dll_라이브러리_파일/'
 alt_en: '/en/posts/2020-02-07-c_opencv_dll_라이브러리_파일/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCv DLL 라이브러리 파일
 
 코딩정보/OpenCv
@@ -45,3 +46,9 @@ OpenCv를 통해 SVM 구현시에 사용되는걸로 알고 있는데
 
 #c# #svm #MachineLearning dll
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

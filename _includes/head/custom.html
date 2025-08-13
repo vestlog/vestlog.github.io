@@ -1,29 +1,24 @@
 <!-- start custom head snippets -->
 
-<!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1695952648850095"
-     crossorigin="anonymous"></script> -->
-	 
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!--<link rel="alternate" type="application/rss+xml" href="{{ site.url }}/my-feed.xml" title="{{ site.title }} Feed"> -->
-<!-- end custom head snippets -->
-
-<!-- start custom head snippets -->
-
 <!-- Google Adsense -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1695952648850095"
-     crossorigin="anonymous"></script>
+        crossorigin="anonymous"></script>
 
-<!-- SEO Elements -->
-<title>{{ page.title | default: site.title }}</title>
-<meta name="description" content="{{ page.excerpt | default: site.description }}">
-<meta name="robots" content="index, follow">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
+{%- comment -%}
+If you already use jekyll-seo-tag (recommended), it will render <title>, description and canonical.
+To avoid duplicates, only render our manual tags when the plugin is NOT present.
+{%- endcomment -%}
+{% unless site.plugins contains "jekyll-seo-tag" %}
+  <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description }}">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+{% endunless %}
 
 <!-- RSS -->
 <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/my-feed.xml" title="{{ site.title }} Feed">
 
-{% comment %} hreflang alternate links {% endcomment %}
+{%- comment -%} hreflang alternate links (KO <-> EN) {%- endcomment -%}
 {% if page.alt_en or page.alt_ko %}
   {% assign ko_href = page.alt_ko | default: page.url | absolute_url %}
   {% assign en_href = page.alt_en | default: page.url | absolute_url %}
@@ -32,5 +27,19 @@
   <link rel="alternate" hreflang="x-default" href="{{ ko_href }}">
 {% endif %}
 
-<!-- end custom head snippets -->
+<!-- Language toggle styles (put CSS in head, NOT in post body) -->
+<style>
+  /* Two sibling panels: Korean(default) and English */
+  .lang-panel { display: none; }
+  .lang-panel.lang-ko { display: block; }
 
+  /* When body[data-lang="en"], show EN panel */
+  body[data-lang="en"] .lang-panel.lang-ko { display: none; }
+  body[data-lang="en"] .lang-panel.lang-en { display: block; }
+
+  /* Inline one-line translations inside paragraphs */
+  .lang-en-inline { display: none; }
+  body[data-lang="en"] .lang-en-inline { display: inline; }
+</style>
+
+<!-- end custom head snippets -->

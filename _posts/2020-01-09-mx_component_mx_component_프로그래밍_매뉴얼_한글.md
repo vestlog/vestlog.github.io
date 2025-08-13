@@ -18,6 +18,7 @@ permalink: '/posts/2020-01-09-mx_component_mx_component_프로그래밍_매뉴�
 alt_en: '/en/posts/2020-01-09-mx_component_mx_component_프로그래밍_매뉴얼_한글/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)
 
 코딩정보/IT 프로그램
@@ -46,3 +47,9 @@ MX_Component_V4_-kor.pdf 9.09MB ](./file/MX_Component_V4_-kor.pdf)
 #Mitsubishi #매뉴얼 #한글매뉴얼 #mxcomponentv4 #melsoft #MX Component V4 프로그래밍 매뉴얼
 #프로그래밍 매뉴얼
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -21,6 +21,7 @@ permalink: '/posts/2019-12-12-kakaoadfit_심사보류_해당_매체는_최근_�
 alt_en: '/en/posts/2019-12-12-kakaoadfit_심사보류_해당_매체는_최근_콘텐츠_부족/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [kakaoAdfit] 심사보류 "해당 매체는 최근 콘텐츠 부족..."
 
 코딩정보/잡담
@@ -78,3 +79,9 @@ IT 관련 정보 글은 아니지만 블러그를 열심히 운영하고자 하�
 
 #c# #코딩 #코딩학원 #생활코딩 #코딩교육 #다음 애드핏 #애드핏 #코딩배우기 #코딩프로그램 #카카오애드핏
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

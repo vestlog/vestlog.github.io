@@ -20,6 +20,7 @@ permalink: '/posts/2020-01-21-c_opencvsharp를_이용한_pca_만들기/'
 alt_en: '/en/posts/2020-01-21-c_opencvsharp를_이용한_pca_만들기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp를 이용한 PCA 만들기
 
 코딩정보/OpenCv
@@ -424,3 +425,9 @@ alt_en: '/en/posts/2020-01-21-c_opencvsharp를_이용한_pca_만들기/'
 
 #pca #판별 #분석 #학습 #매칭 #c# #검출 #opencv #opencvsharp
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

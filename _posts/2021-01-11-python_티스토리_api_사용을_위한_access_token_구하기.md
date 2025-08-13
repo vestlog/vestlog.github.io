@@ -15,6 +15,7 @@ permalink: '/posts/2021-01-11-python_티스토리_api_사용을_위한_access_to
 alt_en: '/en/posts/2021-01-11-python_티스토리_api_사용을_위한_access_token_구하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Python] 티스토리 API 사용을 위한 Access_token 구하기
 
 코딩정보/Python
@@ -114,3 +115,9 @@ code 값을 얻으셨다면 이제 마지막 단계만 하시면 Access Token을
 
 #파이썬 #티스토리 자동글 올리기 #티스토리 Access_token #티스토리토큰
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

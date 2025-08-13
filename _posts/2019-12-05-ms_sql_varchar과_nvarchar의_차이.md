@@ -21,6 +21,7 @@ permalink: '/posts/2019-12-05-ms_sql_varchar과_nvarchar의_차이/'
 alt_en: '/en/posts/2019-12-05-ms_sql_varchar과_nvarchar의_차이/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MS-SQL] VARCHAR과 NVARCHAR의 차이??
 
 코딩정보/MS-SQL
@@ -66,3 +67,9 @@ varchar(3)에 테스트라는 문자열을 넣었는데 길이가 1바이트 밖
 #팁 #SQL #차이점 #MSSQL #query #VARCHAR #nvarchar #소소한팁 #varchar와nvarchar의차이
 #초보sql
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -15,6 +15,7 @@ permalink: '/posts/2020-02-25-visual_studio_2017_microsoft_visual_studio_emulato
 alt_en: '/en/posts/2020-02-25-visual_studio_2017_microsoft_visual_studio_emulator_for_android_설치_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Visual Studio 2017] Microsoft Visual Studio Emulator for Android 설치 하기
 
 코딩정보/Android
@@ -107,3 +108,9 @@ Visual Studio Installer를 클릭하게 되면 설치 정보를 확인 할 수 �
 
 #에뮬레이터 #Visual Studio Emulator for Android #비쥬얼스튜디오 안드로이드 #비쥬얼스튜디오2017
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

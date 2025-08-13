@@ -20,6 +20,7 @@ permalink: '/posts/2020-01-21-c_opencvsharp_이미지_템플릿_매칭/'
 alt_en: '/en/posts/2020-01-21-c_opencvsharp_이미지_템플릿_매칭/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 템플릿 매칭
 
 코딩정보/OpenCv
@@ -146,3 +147,9 @@ alt_en: '/en/posts/2020-01-21-c_opencvsharp_이미지_템플릿_매칭/'
 
 #비교 #매칭 #c# #검출 #opencv #opencvsharp #템플릿매칭 #이미지비교 #찾아내기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -16,6 +16,7 @@ permalink: '/posts/2019-06-12-ms_sql_alter_table문_사용_방법/'
 alt_en: '/en/posts/2019-06-12-ms_sql_alter_table문_사용_방법/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [MS-SQL] ALTER TABLE문 사용 방법
 
 코딩정보/MS-SQL
@@ -56,3 +57,9 @@ alt_en: '/en/posts/2019-06-12-ms_sql_alter_table문_사용_방법/'
 
 #MSSQL #query #table #alter #alter table
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

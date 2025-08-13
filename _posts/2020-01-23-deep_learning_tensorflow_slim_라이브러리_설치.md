@@ -16,6 +16,7 @@ permalink: '/posts/2020-01-23-deep_learning_tensorflow_slim_라이브러리_설�
 alt_en: '/en/posts/2020-01-23-deep_learning_tensorflow_slim_라이브러리_설치/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Deep Learning] Tensorflow slim 라이브러리 설치
 
 코딩정보/Deep Learning
@@ -160,3 +161,9 @@ TFRecord 포맷 생성 명령어를 다시 실행해 줍니다
 
 #딥러닝 #라이브러리설치 #이미지셋다운로드 #download_and_convert_data.py #tansorflow
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

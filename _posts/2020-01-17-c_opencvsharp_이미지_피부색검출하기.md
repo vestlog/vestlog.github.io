@@ -21,6 +21,7 @@ permalink: '/posts/2020-01-17-c_opencvsharp_이미지_피부색검출하기/'
 alt_en: '/en/posts/2020-01-17-c_opencvsharp_이미지_피부색검출하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 피부색검출하기
 
 코딩정보/OpenCv
@@ -337,3 +338,9 @@ alt_en: '/en/posts/2020-01-17-c_opencvsharp_이미지_피부색검출하기/'
 #c# #opencv #opencvsharp #FindContours #ConvexHull2 #피부색검출 #DrawContours
 #ConvextyDefect #CvBlobs #ApproxPoly
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

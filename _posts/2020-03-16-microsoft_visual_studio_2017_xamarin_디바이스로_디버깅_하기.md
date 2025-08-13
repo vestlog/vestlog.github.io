@@ -19,6 +19,7 @@ permalink: '/posts/2020-03-16-microsoft_visual_studio_2017_xamarin_디바이스�
 alt_en: '/en/posts/2020-03-16-microsoft_visual_studio_2017_xamarin_디바이스로_디버깅_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Microsoft Visual Studio 2017] Xamarin 디바이스로 디버깅 하기
 
 코딩정보/Android
@@ -111,3 +112,9 @@ local.sec.samsung.com
 
 #안드로이드 #디버깅 #비쥬얼스튜디오 #앱개발 #개발자옵션 #디바이스디버깅 #휴대폰빌드 #내휴대폰으로앱실행하기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

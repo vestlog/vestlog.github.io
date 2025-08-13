@@ -17,6 +17,7 @@ permalink: '/posts/2021-09-03-windows_server_2003_방화벽_설정으로_특정_
 alt_en: '/en/posts/2021-09-03-windows_server_2003_방화벽_설정으로_특정_ip_차단_설정/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Windows Server 2003] 방화벽 설정으로 특정 IP 차단 설정
 
 코딩정보/Windows
@@ -207,3 +208,9 @@ IP 필터 목록에도 방금 생성한 규칙이 보이 실 겁니다
 
 #윈도우서버2003 #db접근통제 #방화벽 설정 #WindowsServer2003 #서버접근차단 #MSSQL 접근 통제
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -19,6 +19,7 @@ permalink: '/posts/2021-03-26-텐서플로워_tensorflow_1_x버전_코드를_ten
 alt_en: '/en/posts/2021-03-26-텐서플로워_tensorflow_1_x버전_코드를_tensorflow_2_x버전으로_사용/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [텐서플로워] Tensorflow 1.x버전 코드를 Tensorflow 2.x버전으로 사용
 
 코딩정보/TensorFlow
@@ -140,3 +141,9 @@ alt_en: '/en/posts/2021-03-26-텐서플로워_tensorflow_1_x버전_코드를_ten
 compatible with eager execution #attributeerror: module 'tensorflow' has no
 attribute 'reset_default_graph'
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

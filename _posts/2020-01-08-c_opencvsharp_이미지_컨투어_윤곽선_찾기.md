@@ -19,6 +19,7 @@ permalink: '/posts/2020-01-08-c_opencvsharp_이미지_컨투어_윤곽선_찾기
 alt_en: '/en/posts/2020-01-08-c_opencvsharp_이미지_컨투어_윤곽선_찾기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 컨투어(윤곽선) 찾기
 
 코딩정보/OpenCv
@@ -378,3 +379,9 @@ alt_en: '/en/posts/2020-01-08-c_opencvsharp_이미지_컨투어_윤곽선_찾기
 #c# #opencv #contour #opencvsharp #윤곽선검출 #컨투어검출 #FindContours
 #StartFindContours
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -16,6 +16,7 @@ permalink: '/posts/2020-02-06-nvidia_cuda_윈도우에서_cuda_설치_하기/'
 alt_en: '/en/posts/2020-02-06-nvidia_cuda_윈도우에서_cuda_설치_하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Nvidia CUDA] 윈도우에서 CUDA 설치 하기
 
 코딩정보/Nvidia CUDA
@@ -129,3 +130,9 @@ CUDA_PATH와 CUDA_PATH_V8_0이 생성되었는지 확인 합니다
 
 #Nvidia CUDA #CUDA #CUDA toolkit #tensorflow #cuDNN
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

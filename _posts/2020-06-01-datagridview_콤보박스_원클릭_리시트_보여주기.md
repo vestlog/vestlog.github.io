@@ -16,6 +16,7 @@ permalink: '/posts/2020-06-01-datagridview_콤보박스_원클릭_리시트_보�
 alt_en: '/en/posts/2020-06-01-datagridview_콤보박스_원클릭_리시트_보여주기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [DataGridView] 콤보박스 원클릭 리시트 보여주기
 
 코딩정보/C#
@@ -97,3 +98,9 @@ C# Winform에서 데이터그리드뷰를 사용해서 이런저런(?) 프로그
 
 #드롭다운 #콤보박스 원클릭 #데이터그리드뷰 콤보박스 클릭이벤트 #CellClick #콤보박스리스트
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

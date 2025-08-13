@@ -21,6 +21,7 @@ permalink: '/posts/2020-01-07-c_opencvsharp_이미지_옵티컬플로우_처리�
 alt_en: '/en/posts/2020-01-07-c_opencvsharp_이미지_옵티컬플로우_처리하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 옵티컬플로우 처리하기
 
 코딩정보/OpenCv
@@ -279,3 +280,9 @@ OpenCvSharp에 대한 연제 포스팅을 하다 보니 이미 만들어진 디�
 
 #이미지 편집 #c# #opencv #opencvsharp #옵티컬플로우 #광학처리 #이미지 광학 #이미지 처리 #광류 #이미지 광류
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

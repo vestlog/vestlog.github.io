@@ -16,6 +16,7 @@ permalink: '/posts/2020-12-02-fortigate_fortiguard_예외_관리_방법/'
 alt_en: '/en/posts/2020-12-02-fortigate_fortiguard_예외_관리_방법/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [FortiGate] FortiGuard 예외 관리 방법
 
 코딩정보/IT 프로그램
@@ -124,3 +125,9 @@ codingman.tistory.com ](https://codingman.tistory.com/129?category=762039)
 
 #패킷분석 #포티게이트(FortiGate) #포티가드(FortiGuard) #웹사이트차단 #URL확인
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -16,6 +16,7 @@ permalink: '/posts/2019-06-12-c_미쯔비시_plc와_통신하기_위한_gx_works
 alt_en: '/en/posts/2019-06-12-c_미쯔비시_plc와_통신하기_위한_gx_works2설정/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] 미쯔비시 PLC와 통신하기 위한 GX Works2설정
 
 코딩정보/C#
@@ -68,3 +69,9 @@ PLC의 환경을 구성해 줍니다
 
 #시뮬레이션 #c# #PLC #미쯔비시 #GX Works2
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

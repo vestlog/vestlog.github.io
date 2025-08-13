@@ -20,6 +20,7 @@ permalink: '/posts/2019-12-10-c_resources를_통한_다국어_기능_구현/'
 alt_en: '/en/posts/2019-12-10-c_resources를_통한_다국어_기능_구현/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] Resources를 통한 다국어 기능 구현
 
 코딩정보/C#
@@ -190,3 +191,9 @@ alt_en: '/en/posts/2019-12-10-c_resources를_통한_다국어_기능_구현/'
 
 #중국어 #개발 #한국어 #c# #코딩 #다국어 #언어변경 #Resource #인도네시아어
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

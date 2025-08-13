@@ -18,6 +18,7 @@ permalink: '/posts/2020-01-06-c_opencvsharp_이미지_코너_검출하기/'
 alt_en: '/en/posts/2020-01-06-c_opencvsharp_이미지_코너_검출하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 코너 검출하기
 
 코딩정보/OpenCv
@@ -249,3 +250,9 @@ minDistance, CvArr mask);
 
 #이미지편집 #c# #opencv #opencvsharp #이미지처리 #이미지코너검출 #코너검출
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

@@ -14,6 +14,7 @@ permalink: '/posts/2020-10-06-구글애드센스_판매자_정보를_google_sell
 alt_en: '/en/posts/2020-10-06-구글애드센스_판매자_정보를_google_sellers_json_파일에_게시하시기_바랍니다/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다.
 
 코딩정보/잡담
@@ -108,3 +109,9 @@ Google 애드센스에서 광고 크기를 자동으로 최적화하여 광고�
 
 #google sellers.json #구글애드센스 경고 #판매자 정보 공개 상태
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

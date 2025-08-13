@@ -21,6 +21,7 @@ permalink: '/posts/2020-01-07-c_opencvsharp_이미지_모폴로지_연산_처리
 alt_en: '/en/posts/2020-01-07-c_opencvsharp_이미지_모폴로지_연산_처리하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 모폴로지 연산 처리하기
 
 코딩정보/OpenCv
@@ -378,3 +379,9 @@ codingman.tistory.com ](https://codingman.tistory.com/62)
 
 #c# #opencv #팽창 #침식 #모폴로지 #opencvsharp #이미지처리 #이미지작업 #모폴로지연산 #형태학적
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

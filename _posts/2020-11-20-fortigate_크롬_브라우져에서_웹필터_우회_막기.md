@@ -18,6 +18,7 @@ permalink: '/posts/2020-11-20-fortigate_크롬_브라우져에서_웹필터_우�
 alt_en: '/en/posts/2020-11-20-fortigate_크롬_브라우져에서_웹필터_우회_막기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [FortiGate] 크롬 브라우져에서 웹필터 우회 막기
 
 코딩정보/IT 프로그램
@@ -107,3 +108,9 @@ Simple 타입으로 하나 등록하였구요
 #웹필터 #크롬 브라우져 #프록시 설정 #포티케이트(FortiGate) #fortigate 501E 장비 #크롬 우회 방지 #웹필터 우회
 방지
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

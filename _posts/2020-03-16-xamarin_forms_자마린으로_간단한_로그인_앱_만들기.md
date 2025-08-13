@@ -19,6 +19,7 @@ permalink: '/posts/2020-03-16-xamarin_forms_자마린으로_간단한_로그인_
 alt_en: '/en/posts/2020-03-16-xamarin_forms_자마린으로_간단한_로그인_앱_만들기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Xamarin Forms] 자마린으로 간단한 로그인 앱 만들기
 
 코딩정보/Android
@@ -650,3 +651,9 @@ alt_en: '/en/posts/2020-03-16-xamarin_forms_자마린으로_간단한_로그인_
 #어플만들기 #앱만들기 #cross-platform #자마린 #Xamarin Forms #xamarin 로그인페이지 #로그인만들기
 #비쥬얼스튜디오 앱 만들기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

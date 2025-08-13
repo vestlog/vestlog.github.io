@@ -20,6 +20,7 @@ permalink: '/posts/2020-01-10-c_opencvsharp_이미지_컨벡스헐_그리기/'
 alt_en: '/en/posts/2020-01-10-c_opencvsharp_이미지_컨벡스헐_그리기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [C#] OpenCvSharp 이미지 컨벡스헐 그리기
 
 코딩정보/OpenCv
@@ -189,3 +190,9 @@ OpenCvSharp 함수 중에 ConvexHull2 이라는 함수를 사용해서 구현을
 
 #c# #opencv #Hull #opencvsharp #컨벡스헐 #점선그리기 #ConvexHull2 #점선연결하기 #외곽선그리기
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

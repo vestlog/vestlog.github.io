@@ -16,6 +16,7 @@ permalink: '/posts/2020-11-19-fortigate_방화벽에서_웹필터_정책_사용�
 alt_en: '/en/posts/2020-11-19-fortigate_방화벽에서_웹필터_정책_사용하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [FortiGate] 방화벽에서 웹필터 정책 사용하기
 
 코딩정보/IT 프로그램
@@ -130,3 +131,9 @@ Simple : naver.com만 기입
 
 #웹필터 #보안정책 #포티게이트(FortiGate) #포티가드(FortiGuard) #501E
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>

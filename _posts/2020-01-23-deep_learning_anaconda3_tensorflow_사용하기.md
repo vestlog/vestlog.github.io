@@ -19,6 +19,7 @@ permalink: '/posts/2020-01-23-deep_learning_anaconda3_tensorflow_사용하기/'
 alt_en: '/en/posts/2020-01-23-deep_learning_anaconda3_tensorflow_사용하기/'
 ---
 
+<div class="lang-panel lang-ko" lang="ko">
 ## [Deep Learning] Anaconda3 + Tensorflow 사용하기
 
 코딩정보/Deep Learning
@@ -217,3 +218,9 @@ dependencies with Conda. www.anaconda.com
 
 #아나콘다 #python #파이썬 #deep learning #딥러닝 #tensorflow #텐서플로우 #anaconda3
 
+
+</div>
+<div class="lang-panel lang-en" lang="en">
+(*No embedded English lines found. Add translations later.*)
+
+</div>
