@@ -1,13 +1,18 @@
 ---
-title:  "[2021-09-03] - [Windows Server 2012] 방화벽 설정으로 특정 IP 차단 설정"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "MSSQL"
-  - "윈도우서버"
-  - "WindowsServer2012"
-  - "특정프로그램차단"
-last_modified_at: 2025-05-30T16:04:25+09:00
+  - 'MSSQL'
+  - '윈도우서버'
+  - 'WindowsServer2012'
+  - '특정프로그램차단'
+last_modified_at: '2025-05-30T16:04:25+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2021-09-03-windows_server_2012_방화벽_설정으로_특정_ip_차단_설정/'
+alt_en: '/en/posts/2021-09-03-windows_server_2012_방화벽_설정으로_특정_ip_차단_설정/'
 ---
 
 ## [Windows Server 2012] 방화벽 설정으로 특정 IP 차단 설정

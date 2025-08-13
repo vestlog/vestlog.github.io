@@ -1,18 +1,23 @@
 ---
-title:  "[2020-02-06] - [Deep Learning] slim 라이브러리를 이용한 설치, 학습, 평가"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "평가"
-  - "Slim"
-  - "학습"
-  - "라이브러리"
-  - "deep"
-  - "tensorflow"
-  - "실예측정확도"
-  - "유사율"
-  - "모델학습"
-last_modified_at: 2025-05-30T16:04:00+09:00
+  - '평가'
+  - 'Slim'
+  - '학습'
+  - '라이브러리'
+  - 'deep'
+  - 'tensorflow'
+  - '실예측정확도'
+  - '유사율'
+  - '모델학습'
+last_modified_at: '2025-05-30T16:04:00+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-02-06-deep_learning_slim_라이브러리를_이용한_설치_학습_평가/'
+alt_en: '/en/posts/2020-02-06-deep_learning_slim_라이브러리를_이용한_설치_학습_평가/'
 ---
 
 ## [Deep Learning] slim 라이브러리를 이용한 설치, 학습, 평가

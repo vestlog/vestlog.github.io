@@ -1,14 +1,19 @@
 ---
-title:  "[2020-01-23] - [Deep Learning] Tensorflow slim 라이브러리 설치"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "딥러닝"
-  - "라이브러리설치"
-  - "이미지셋다운로드"
-  - "download_and_convert_data.py"
-  - "tansorflow"
-last_modified_at: 2025-05-30T16:03:59+09:00
+  - '딥러닝'
+  - '라이브러리설치'
+  - '이미지셋다운로드'
+  - 'download_and_convert_data.py'
+  - 'tansorflow'
+last_modified_at: '2025-05-30T16:03:59+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-01-23-deep_learning_tensorflow_slim_라이브러리_설치/'
+alt_en: '/en/posts/2020-01-23-deep_learning_tensorflow_slim_라이브러리_설치/'
 ---
 
 ## [Deep Learning] Tensorflow slim 라이브러리 설치

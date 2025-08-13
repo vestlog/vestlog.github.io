@@ -1,14 +1,19 @@
 ---
-title:  "[2020-11-19] - [FortiGate] 방화벽에서 웹필터 정책 사용하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "웹필터"
-  - "보안정책"
-  - "포티게이트(FortiGate)"
-  - "포티가드(FortiGuard)"
-  - "501E"
-last_modified_at: 2025-05-30T16:04:04+09:00
+  - '웹필터'
+  - '보안정책'
+  - '포티게이트(FortiGate)'
+  - '포티가드(FortiGuard)'
+  - '501E'
+last_modified_at: '2025-05-30T16:04:04+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-11-19-fortigate_방화벽에서_웹필터_정책_사용하기/'
+alt_en: '/en/posts/2020-11-19-fortigate_방화벽에서_웹필터_정책_사용하기/'
 ---
 
 ## [FortiGate] 방화벽에서 웹필터 정책 사용하기

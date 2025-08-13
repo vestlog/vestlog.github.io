@@ -1,18 +1,23 @@
 ---
-title:  "[2024-02-07] - [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "ai"
-  - "ChatGPT"
-  - "AI"
-  - "AI"
-  - "ChatGPT"
-  - "AI"
-  - "AI"
-  - "AI"
-  - "AI"
-last_modified_at: 2025-05-30T16:04:30+09:00
+  - 'ai'
+  - 'ChatGPT'
+  - 'AI'
+  - 'AI'
+  - 'ChatGPT'
+  - 'AI'
+  - 'AI'
+  - 'AI'
+  - 'AI'
+last_modified_at: '2025-05-30T16:04:30+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2024-02-07-chatgpt_dan_활성화_하기_chatgpt_루팅/'
+alt_en: '/en/posts/2024-02-07-chatgpt_dan_활성화_하기_chatgpt_루팅/'
 ---
 
 ## [ChatGPT] DAN 활성화 하기(ChatGPT 루팅)

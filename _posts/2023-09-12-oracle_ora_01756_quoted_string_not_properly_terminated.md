@@ -1,17 +1,22 @@
 ---
-title:  "[2023-09-12] - [Oracle] ORA-01756 : quoted string not properly terminated"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "oracle"
-  - "오라클"
-  - "오류"
-  - "작은"
-  - "오라클오류"
-  - "ORA-01756"
-  - "단일인용부"
-  - "인용부"
-last_modified_at: 2025-05-30T16:04:30+09:00
+  - 'oracle'
+  - '오라클'
+  - '오류'
+  - '작은'
+  - '오라클오류'
+  - 'ORA-01756'
+  - '단일인용부'
+  - '인용부'
+last_modified_at: '2025-05-30T16:04:30+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2023-09-12-oracle_ora_01756_quoted_string_not_properly_terminated/'
+alt_en: '/en/posts/2023-09-12-oracle_ora_01756_quoted_string_not_properly_terminated/'
 ---
 
 ## [Oracle] ORA-01756 : quoted string not properly terminated

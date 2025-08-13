@@ -1,19 +1,24 @@
 ---
-title:  "[2019-12-04] - [C#] Soket 통신으로 RFID 연결하기 #1"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "통신"
-  - "RFID"
-  - "c#"
-  - "모듈"
-  - "비동기식"
-  - "Soket"
-  - "이더넷통신"
-  - "V680S"
-  - "비동기식"
-  - "C#통신모듈"
-last_modified_at: 2025-05-30T16:03:55+09:00
+  - '통신'
+  - 'RFID'
+  - 'c#'
+  - '모듈'
+  - '비동기식'
+  - 'Soket'
+  - '이더넷통신'
+  - 'V680S'
+  - '비동기식'
+  - 'C#통신모듈'
+last_modified_at: '2025-05-30T16:03:55+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
+alt_en: '/en/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
 ---
 
 ## [C#] Soket 통신으로 RFID 연결하기 #1

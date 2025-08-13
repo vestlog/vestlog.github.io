@@ -1,15 +1,20 @@
 ---
-title:  "[2020-04-20] - [C#] DataGridView 동적 컬럼 생성하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "c#"
-  - "MSSQL"
-  - "엑셀불러오기"
-  - "데이터그리드뷰"
-  - "동적컬럼생성하기"
-  - "DATAGRIDVIEW"
-last_modified_at: 2025-05-30T16:04:02+09:00
+  - 'c#'
+  - 'MSSQL'
+  - '엑셀불러오기'
+  - '데이터그리드뷰'
+  - '동적컬럼생성하기'
+  - 'DATAGRIDVIEW'
+last_modified_at: '2025-05-30T16:04:02+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-04-20-c_datagridview_동적_컬럼_생성하기/'
+alt_en: '/en/posts/2020-04-20-c_datagridview_동적_컬럼_생성하기/'
 ---
 
 ## [C#] DataGridView 동적 컬럼 생성하기

@@ -1,18 +1,23 @@
 ---
-title:  "[2019-12-11] - [C#] stdole.dll 어셈블리의 강력한 이름 서명이 잘못되었습니다."
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "오류"
-  - "배포"
-  - "ClickOnce"
-  - "코딩"
-  - "생활코딩"
-  - "코딩교육"
-  - "코딩배우기"
-  - "코딩프로그램"
-  - "stdole.dll"
-last_modified_at: 2025-05-30T16:03:55+09:00
+  - '오류'
+  - '배포'
+  - 'ClickOnce'
+  - '코딩'
+  - '생활코딩'
+  - '코딩교육'
+  - '코딩배우기'
+  - '코딩프로그램'
+  - 'stdole.dll'
+last_modified_at: '2025-05-30T16:03:55+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-11-c_stdole_dll_어셈블리의_강력한_이름_서명이_잘못되었습니다/'
+alt_en: '/en/posts/2019-12-11-c_stdole_dll_어셈블리의_강력한_이름_서명이_잘못되었습니다/'
 ---
 
 ## [C#] stdole.dll 어셈블리의 강력한 이름 서명이 잘못되었습니다.

@@ -1,17 +1,22 @@
 ---
-title:  "[2019-12-30] - [C#] OpenCvSharp 얼굴검출 기능 구현하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "얼굴인식"
-  - "c#"
-  - "opencv"
-  - "이미지효과"
-  - "이미지필터"
-  - "이미지인식"
-  - "opencvsharp"
-  - "얼굴검출"
-last_modified_at: 2025-05-30T16:03:57+09:00
+  - '얼굴인식'
+  - 'c#'
+  - 'opencv'
+  - '이미지효과'
+  - '이미지필터'
+  - '이미지인식'
+  - 'opencvsharp'
+  - '얼굴검출'
+last_modified_at: '2025-05-30T16:03:57+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-30-c_opencvsharp_얼굴검출_기능_구현하기/'
+alt_en: '/en/posts/2019-12-30-c_opencvsharp_얼굴검출_기능_구현하기/'
 ---
 
 ## [C#] OpenCvSharp 얼굴검출 기능 구현하기

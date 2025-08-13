@@ -1,14 +1,19 @@
 ---
-title:  "[2020-06-01] - [DataGridView] 콤보박스 원클릭 리시트 보여주기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "드롭다운"
-  - "콤보박스"
-  - "데이터그리드뷰"
-  - "CellClick"
-  - "콤보박스리스트"
-last_modified_at: 2025-05-30T16:04:02+09:00
+  - '드롭다운'
+  - '콤보박스'
+  - '데이터그리드뷰'
+  - 'CellClick'
+  - '콤보박스리스트'
+last_modified_at: '2025-05-30T16:04:02+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-06-01-datagridview_콤보박스_원클릭_리시트_보여주기/'
+alt_en: '/en/posts/2020-06-01-datagridview_콤보박스_원클릭_리시트_보여주기/'
 ---
 
 ## [DataGridView] 콤보박스 원클릭 리시트 보여주기

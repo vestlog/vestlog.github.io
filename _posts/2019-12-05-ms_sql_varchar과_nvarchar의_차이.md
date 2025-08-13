@@ -1,19 +1,24 @@
 ---
-title:  "[2019-12-05] - [MS-SQL] VARCHAR과 NVARCHAR의 차이??"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "팁"
-  - "SQL"
-  - "차이점"
-  - "MSSQL"
-  - "query"
-  - "VARCHAR"
-  - "nvarchar"
-  - "소소한팁"
-  - "varchar와nvarchar의차이"
-  - "초보sql"
-last_modified_at: 2025-05-30T16:03:55+09:00
+  - '팁'
+  - 'SQL'
+  - '차이점'
+  - 'MSSQL'
+  - 'query'
+  - 'VARCHAR'
+  - 'nvarchar'
+  - '소소한팁'
+  - 'varchar와nvarchar의차이'
+  - '초보sql'
+last_modified_at: '2025-05-30T16:03:55+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-05-ms_sql_varchar과_nvarchar의_차이/'
+alt_en: '/en/posts/2019-12-05-ms_sql_varchar과_nvarchar의_차이/'
 ---
 
 ## [MS-SQL] VARCHAR과 NVARCHAR의 차이??

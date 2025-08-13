@@ -1,16 +1,21 @@
 ---
-title:  "[2020-01-09] - [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "Mitsubishi"
-  - "매뉴얼"
-  - "한글매뉴얼"
-  - "mxcomponentv4"
-  - "melsoft"
-  - "MX"
-  - "프로그래밍"
-last_modified_at: 2025-05-30T16:03:58+09:00
+  - 'Mitsubishi'
+  - '매뉴얼'
+  - '한글매뉴얼'
+  - 'mxcomponentv4'
+  - 'melsoft'
+  - 'MX'
+  - '프로그래밍'
+last_modified_at: '2025-05-30T16:03:58+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-01-09-mx_component_mx_component_프로그래밍_매뉴얼_한글/'
+alt_en: '/en/posts/2020-01-09-mx_component_mx_component_프로그래밍_매뉴얼_한글/'
 ---
 
 ## [MX_Component] MX_Component 프로그래밍 매뉴얼(한글)

@@ -1,18 +1,23 @@
 ---
-title:  "[2019-12-10] - [C#] Resources를 통한 다국어 기능 구현"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "중국어"
-  - "개발"
-  - "한국어"
-  - "c#"
-  - "코딩"
-  - "다국어"
-  - "언어변경"
-  - "Resource"
-  - "인도네시아어"
-last_modified_at: 2025-05-30T16:03:55+09:00
+  - '중국어'
+  - '개발'
+  - '한국어'
+  - 'c#'
+  - '코딩'
+  - '다국어'
+  - '언어변경'
+  - 'Resource'
+  - '인도네시아어'
+last_modified_at: '2025-05-30T16:03:55+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-10-c_resources를_통한_다국어_기능_구현/'
+alt_en: '/en/posts/2019-12-10-c_resources를_통한_다국어_기능_구현/'
 ---
 
 ## [C#] Resources를 통한 다국어 기능 구현

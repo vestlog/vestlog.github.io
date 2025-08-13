@@ -1,17 +1,22 @@
 ---
-title:  "[2021-03-26] - [텐서플로워] Tensorflow 1.x버전 코드를 Tensorflow 2.x버전으로 사용"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "tensorflow"
-  - "텐서플로우"
-  - "Tensorflow"
-  - "Tensorflow"
-  - "텐서플로우"
-  - "tf.contrib.layers.fully_connected"
-  - "runtimeerror:"
-  - "attributeerror:"
-last_modified_at: 2025-05-30T16:04:10+09:00
+  - 'tensorflow'
+  - '텐서플로우'
+  - 'Tensorflow'
+  - 'Tensorflow'
+  - '텐서플로우'
+  - 'tf.contrib.layers.fully_connected'
+  - 'runtimeerror:'
+  - 'attributeerror:'
+last_modified_at: '2025-05-30T16:04:10+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2021-03-26-텐서플로워_tensorflow_1_x버전_코드를_tensorflow_2_x버전으로_사용/'
+alt_en: '/en/posts/2021-03-26-텐서플로워_tensorflow_1_x버전_코드를_tensorflow_2_x버전으로_사용/'
 ---
 
 ## [텐서플로워] Tensorflow 1.x버전 코드를 Tensorflow 2.x버전으로 사용

@@ -1,14 +1,19 @@
 ---
-title:  "[2020-08-13] - [파이썬] pymssql를 활용한 MSSQL DB 데이터 조회"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "python"
-  - "파이썬"
-  - "python"
-  - "mssql"
-  - "파이썬"
-last_modified_at: 2025-05-30T16:04:03+09:00
+  - 'python'
+  - '파이썬'
+  - 'python'
+  - 'mssql'
+  - '파이썬'
+last_modified_at: '2025-05-30T16:04:03+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-08-13-파이썬_pymssql를_활용한_mssql_db_데이터_조회/'
+alt_en: '/en/posts/2020-08-13-파이썬_pymssql를_활용한_mssql_db_데이터_조회/'
 ---
 
 ## [파이썬] pymssql를 활용한 MSSQL DB 데이터 조회

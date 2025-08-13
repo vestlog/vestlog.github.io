@@ -1,14 +1,19 @@
 ---
-title:  "[2020-02-06] - [Nvidia CUDA] 윈도우에서 CUDA 설치 하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "Nvidia"
-  - "CUDA"
-  - "CUDA"
-  - "tensorflow"
-  - "cuDNN"
-last_modified_at: 2025-05-30T16:04:00+09:00
+  - 'Nvidia'
+  - 'CUDA'
+  - 'CUDA'
+  - 'tensorflow'
+  - 'cuDNN'
+last_modified_at: '2025-05-30T16:04:00+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-02-06-nvidia_cuda_윈도우에서_cuda_설치_하기/'
+alt_en: '/en/posts/2020-02-06-nvidia_cuda_윈도우에서_cuda_설치_하기/'
 ---
 
 ## [Nvidia CUDA] 윈도우에서 CUDA 설치 하기

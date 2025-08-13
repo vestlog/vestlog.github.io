@@ -1,15 +1,20 @@
 ---
-title:  "[2020-03-19] - [Xamarin Forms] 자마린으로 간단한 앱 회원가입 만들기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "안드로이드"
-  - "앱만들기"
-  - "자마린"
-  - "Xamarin"
-  - "앱"
-  - "로그인앱만들기"
-last_modified_at: 2025-05-30T16:04:01+09:00
+  - '안드로이드'
+  - '앱만들기'
+  - '자마린'
+  - 'Xamarin'
+  - '앱'
+  - '로그인앱만들기'
+last_modified_at: '2025-05-30T16:04:01+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-03-19-xamarin_forms_자마린으로_간단한_앱_회원가입_만들기/'
+alt_en: '/en/posts/2020-03-19-xamarin_forms_자마린으로_간단한_앱_회원가입_만들기/'
 ---
 
 ## [Xamarin Forms] 자마린으로 간단한 앱 회원가입 만들기

@@ -1,15 +1,20 @@
 ---
-title:  "[2020-01-09] - [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "Rectangle"
-  - "c#"
-  - "opencv"
-  - "opencvsharp"
-  - "BoundingRect"
-  - "사각그리기"
-last_modified_at: 2025-05-30T16:03:58+09:00
+  - 'Rectangle'
+  - 'c#'
+  - 'opencv'
+  - 'opencvsharp'
+  - 'BoundingRect'
+  - '사각그리기'
+last_modified_at: '2025-05-30T16:03:58+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-01-09-c_opencvsharp_포인트를_찾아_영역_지정_하기/'
+alt_en: '/en/posts/2020-01-09-c_opencvsharp_포인트를_찾아_영역_지정_하기/'
 ---
 
 ## [C#] OpenCvSharp 포인트를 찾아 영역 지정 하기

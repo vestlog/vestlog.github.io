@@ -1,18 +1,23 @@
 ---
-title:  "[2020-01-10] - [C#] OpenCvSharp 이미지 컨벡스헐 그리기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "c#"
-  - "opencv"
-  - "Hull"
-  - "opencvsharp"
-  - "컨벡스헐"
-  - "점선그리기"
-  - "ConvexHull2"
-  - "점선연결하기"
-  - "외곽선그리기"
-last_modified_at: 2025-05-30T16:03:58+09:00
+  - 'c#'
+  - 'opencv'
+  - 'Hull'
+  - 'opencvsharp'
+  - '컨벡스헐'
+  - '점선그리기'
+  - 'ConvexHull2'
+  - '점선연결하기'
+  - '외곽선그리기'
+last_modified_at: '2025-05-30T16:03:58+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-01-10-c_opencvsharp_이미지_컨벡스헐_그리기/'
+alt_en: '/en/posts/2020-01-10-c_opencvsharp_이미지_컨벡스헐_그리기/'
 ---
 
 ## [C#] OpenCvSharp 이미지 컨벡스헐 그리기

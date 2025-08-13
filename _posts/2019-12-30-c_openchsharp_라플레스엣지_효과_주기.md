@@ -1,15 +1,20 @@
 ---
-title:  "[2019-12-30] - [C#] OpenChSharp 라플레스엣지 효과 주기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "c#"
-  - "opencv"
-  - "이미지효과"
-  - "이미지필터"
-  - "opencvsharp"
-  - "라플레스엣지"
-last_modified_at: 2025-05-30T16:03:57+09:00
+  - 'c#'
+  - 'opencv'
+  - '이미지효과'
+  - '이미지필터'
+  - 'opencvsharp'
+  - '라플레스엣지'
+last_modified_at: '2025-05-30T16:03:57+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-30-c_openchsharp_라플레스엣지_효과_주기/'
+alt_en: '/en/posts/2019-12-30-c_openchsharp_라플레스엣지_효과_주기/'
 ---
 
 ## [C#] OpenChSharp 라플레스엣지 효과 주기

@@ -1,14 +1,19 @@
 ---
-title:  "[2019-06-12] - [MS-SQL] ALTER TABLE문 사용 방법"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "MSSQL"
-  - "query"
-  - "table"
-  - "alter"
-  - "alter"
-last_modified_at: 2025-05-30T16:03:54+09:00
+  - 'MSSQL'
+  - 'query'
+  - 'table'
+  - 'alter'
+  - 'alter'
+last_modified_at: '2025-05-30T16:03:54+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-06-12-ms_sql_alter_table문_사용_방법/'
+alt_en: '/en/posts/2019-06-12-ms_sql_alter_table문_사용_방법/'
 ---
 
 ## [MS-SQL] ALTER TABLE문 사용 방법

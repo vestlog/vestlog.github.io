@@ -1,14 +1,19 @@
 ---
-title:  "[2019-06-12] - [C#] 미쯔비시 PLC와 통신하기 위한 GX Works2설정"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "시뮬레이션"
-  - "c#"
-  - "PLC"
-  - "미쯔비시"
-  - "GX"
-last_modified_at: 2025-05-30T16:03:55+09:00
+  - '시뮬레이션'
+  - 'c#'
+  - 'PLC'
+  - '미쯔비시'
+  - 'GX'
+last_modified_at: '2025-05-30T16:03:55+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-06-12-c_미쯔비시_plc와_통신하기_위한_gx_works2설정/'
+alt_en: '/en/posts/2019-06-12-c_미쯔비시_plc와_통신하기_위한_gx_works2설정/'
 ---
 
 ## [C#] 미쯔비시 PLC와 통신하기 위한 GX Works2설정

@@ -1,14 +1,19 @@
 ---
-title:  "[2020-02-14] - [BootCamp] 외장하드(USB)에 윈도우10 설치하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "부트캠프"
-  - "윈도우10"
-  - "윈도우10"
-  - "외장하드윈도우설치"
-  - "외장하드디스크부팅"
-last_modified_at: 2025-05-30T16:04:00+09:00
+  - '부트캠프'
+  - '윈도우10'
+  - '윈도우10'
+  - '외장하드윈도우설치'
+  - '외장하드디스크부팅'
+last_modified_at: '2025-05-30T16:04:00+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-02-14-bootcamp_외장하드_usb_에_윈도우10_설치하기/'
+alt_en: '/en/posts/2020-02-14-bootcamp_외장하드_usb_에_윈도우10_설치하기/'
 ---
 
 ## [BootCamp] 외장하드(USB)에 윈도우10 설치하기

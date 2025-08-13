@@ -1,19 +1,24 @@
 ---
-title:  "[2020-01-17] - [C#] OpenCvSharp 이미지 피부색검출하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "c#"
-  - "opencv"
-  - "opencvsharp"
-  - "FindContours"
-  - "ConvexHull2"
-  - "피부색검출"
-  - "DrawContours"
-  - "ConvextyDefect"
-  - "CvBlobs"
-  - "ApproxPoly"
-last_modified_at: 2025-05-30T16:03:59+09:00
+  - 'c#'
+  - 'opencv'
+  - 'opencvsharp'
+  - 'FindContours'
+  - 'ConvexHull2'
+  - '피부색검출'
+  - 'DrawContours'
+  - 'ConvextyDefect'
+  - 'CvBlobs'
+  - 'ApproxPoly'
+last_modified_at: '2025-05-30T16:03:59+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-01-17-c_opencvsharp_이미지_피부색검출하기/'
+alt_en: '/en/posts/2020-01-17-c_opencvsharp_이미지_피부색검출하기/'
 ---
 
 ## [C#] OpenCvSharp 이미지 피부색검출하기

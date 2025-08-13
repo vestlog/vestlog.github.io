@@ -1,12 +1,17 @@
 ---
-title:  "[2020-10-06] - [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다."
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "google"
-  - "구글애드센스"
-  - "판매자"
-last_modified_at: 2025-05-30T16:04:03+09:00
+  - 'google'
+  - '구글애드센스'
+  - '판매자'
+last_modified_at: '2025-05-30T16:04:03+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-10-06-구글애드센스_판매자_정보를_google_sellers_json_파일에_게시하시기_바랍니다/'
+alt_en: '/en/posts/2020-10-06-구글애드센스_판매자_정보를_google_sellers_json_파일에_게시하시기_바랍니다/'
 ---
 
 ## [구글애드센스] 판매자 정보를 Google sellers.json 파일에 게시하시기 바랍니다.

@@ -1,0 +1,12 @@
+---
+layout: 'post'
+lang: 'en'
+permalink: '/en/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
+title: '[2025-08-13] - Post'
+excerpt: 'Auto-generated English stub. Please refine translation.'
+categories:
+  - 'Blog'
+alt_ko: '/posts/2019-12-04-c_soket_통신으로_rfid_연결하기_1/'
+---
+
+(*No embedded English lines found. Add translations later.*)

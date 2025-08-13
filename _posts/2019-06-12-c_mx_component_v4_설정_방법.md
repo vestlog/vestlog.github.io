@@ -1,16 +1,21 @@
 ---
-title:  "[2019-06-12] - [C#]MX Component V4 설정 방법"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "Mitsubishi"
-  - "시뮬레이션"
-  - "c#"
-  - "PLC"
-  - "미쯔비시"
-  - "MXComponent"
-  - "GX"
-last_modified_at: 2025-05-30T16:03:54+09:00
+  - 'Mitsubishi'
+  - '시뮬레이션'
+  - 'c#'
+  - 'PLC'
+  - '미쯔비시'
+  - 'MXComponent'
+  - 'GX'
+last_modified_at: '2025-05-30T16:03:54+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-06-12-c_mx_component_v4_설정_방법/'
+alt_en: '/en/posts/2019-06-12-c_mx_component_v4_설정_방법/'
 ---
 
 ## [C#]MX Component V4 설정 방법

@@ -1,19 +1,24 @@
 ---
-title:  "[2019-12-13] - [C#] ClickOnce를 이용한 배포하기"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "보안"
-  - "웹사이트"
-  - "폴더"
-  - "FTP"
-  - "배포"
-  - "c#"
-  - "ClickOnce"
-  - "IIS"
-  - "게시"
-  - "클릭온스"
-last_modified_at: 2025-05-30T16:03:56+09:00
+  - '보안'
+  - '웹사이트'
+  - '폴더'
+  - 'FTP'
+  - '배포'
+  - 'c#'
+  - 'ClickOnce'
+  - 'IIS'
+  - '게시'
+  - '클릭온스'
+last_modified_at: '2025-05-30T16:03:56+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-12-13-c_clickonce를_이용한_배포하기/'
+alt_en: '/en/posts/2019-12-13-c_clickonce를_이용한_배포하기/'
 ---
 
 ## [C#] ClickOnce를 이용한 배포하기

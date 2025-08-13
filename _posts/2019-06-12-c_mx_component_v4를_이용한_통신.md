@@ -1,15 +1,20 @@
 ---
-title:  "[2019-06-12] - [C#]MX Component V4를 이용한 통신"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "통신"
-  - "c#"
-  - "PLC"
-  - "미쯔비시"
-  - "비쥬얼스튜디오"
-  - "2017"
-last_modified_at: 2025-05-30T16:03:55+09:00
+  - '통신'
+  - 'c#'
+  - 'PLC'
+  - '미쯔비시'
+  - '비쥬얼스튜디오'
+  - '2017'
+last_modified_at: '2025-05-30T16:03:55+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2019-06-12-c_mx_component_v4를_이용한_통신/'
+alt_en: '/en/posts/2019-06-12-c_mx_component_v4를_이용한_통신/'
 ---
 
 ## [C#]MX Component V4를 이용한 통신

@@ -1,12 +1,17 @@
 ---
-title:  "[2020-05-07] - [C#] 'Microsoft.ACE.OLEDB.12.0' 공급자는 로컬 컴퓨터에 등록할 수 없습니다"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "Microsoft.ACE.OLEDB.12.0"
-  - "OLEDB"
-  - "엑셀"
-last_modified_at: 2025-05-30T16:04:02+09:00
+  - 'Microsoft.ACE.OLEDB.12.0'
+  - 'OLEDB'
+  - '엑셀'
+last_modified_at: '2025-05-30T16:04:02+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-05-07-c_microsoft_ace_oledb_12_0_공급자는_로컬_컴퓨터에_등록할_수_없습니다/'
+alt_en: '/en/posts/2020-05-07-c_microsoft_ace_oledb_12_0_공급자는_로컬_컴퓨터에_등록할_수_없습니다/'
 ---
 
 ## [C#] 'Microsoft.ACE.OLEDB.12.0' 공급자는 로컬 컴퓨터에 등록할 수 없습니다

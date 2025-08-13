@@ -1,16 +1,21 @@
 ---
-title:  "[2020-08-25] - [DataGridView] 기본 데이터그리드뷰 디자인 하기!!"
 categories:
-  - Blog
+  - 'Blog'
 tags:
-  - "c#"
-  - "DataGridView"
-  - "커스텀디자인"
-  - "데이터그리드뷰"
-  - "그리드뷰"
-  - "그리드뷰"
-  - "그리드뷰"
-last_modified_at: 2025-05-30T16:04:03+09:00
+  - 'c#'
+  - 'DataGridView'
+  - '커스텀디자인'
+  - '데이터그리드뷰'
+  - '그리드뷰'
+  - '그리드뷰'
+  - '그리드뷰'
+last_modified_at: '2025-05-30T16:04:03+09:00'
+title: '[2025-08-13] - Post'
+excerpt: ''
+layout: 'post'
+lang: 'ko'
+permalink: '/posts/2020-08-25-datagridview_기본_데이터그리드뷰_디자인_하기/'
+alt_en: '/en/posts/2020-08-25-datagridview_기본_데이터그리드뷰_디자인_하기/'
 ---
 
 ## [DataGridView] 기본 데이터그리드뷰 디자인 하기!!
