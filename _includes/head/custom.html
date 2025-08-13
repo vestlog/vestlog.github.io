@@ -27,19 +27,51 @@ To avoid duplicates, only render our manual tags when the plugin is NOT present.
   <link rel="alternate" hreflang="x-default" href="{{ ko_href }}">
 {% endif %}
 
-<!-- Language toggle styles (put CSS in head, NOT in post body) -->
+<!-- Language toggle styles (ALWAYS in head, never inside posts) -->
 <style>
-  /* Two sibling panels: Korean(default) and English */
+  /* 기본: 한국어 패널 표시, 영어 패널 숨김 */
   .lang-panel { display: none; }
   .lang-panel.lang-ko { display: block; }
 
-  /* When body[data-lang="en"], show EN panel */
+  /* EN 모드에서만 영어 패널 표시 */
   body[data-lang="en"] .lang-panel.lang-ko { display: none; }
   body[data-lang="en"] .lang-panel.lang-en { display: block; }
 
-  /* Inline one-line translations inside paragraphs */
+  /* 문단 안 한 줄 번역(인라인) */
   .lang-en-inline { display: none; }
   body[data-lang="en"] .lang-en-inline { display: inline; }
 </style>
+
+<!-- Tiny JS: remember language and expose toggleLang() for the button -->
+<script>
+(function () {
+  // 이 페이지의 기본 언어(프런트매터의 lang: ko|en). 기본 ko.
+  var pageDefault = '{{ page.lang | default: "ko" }}';
+  var saved = null;
+  try { saved = localStorage.getItem('siteLang'); } catch (e) {}
+
+  var lang = (saved === 'en' || saved === 'ko') ? saved : pageDefault;
+  document.documentElement.setAttribute('lang', lang === 'en' ? 'en' : 'ko');
+  // body가 아직 없을 수 있으니 DOM이 만들어진 뒤에도 한 번 더 설정
+  function apply(langVal){
+    var b = document.body;
+    if (b) b.setAttribute('data-lang', langVal);
+    document.documentElement.setAttribute('lang', langVal === 'en' ? 'en' : 'ko');
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function(){ apply(lang); });
+  } else {
+    apply(lang);
+  }
+
+  // 전역 토글 함수: 푸터/헤더 버튼에서 onclick="toggleLang()" 로 사용
+  window.toggleLang = function () {
+    var b = document.body || document.documentElement;
+    var next = (b.getAttribute('data-lang') === 'en') ? 'ko' : 'en';
+    apply(next);
+    try { localStorage.setItem('siteLang', next); } catch (e) {}
+  };
+})();
+</script>
 
 <!-- end custom head snippets -->

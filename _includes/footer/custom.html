@@ -1,12 +1,29 @@
 <!-- start custom footer snippets -->
-{% if page.lang == "ko" and page.alt_en %}
-<div class="lang-toggle" style="margin:12px 0 20px;">
-  <button
-    style="padding:6px 10px;border:1px solid #ccc;border-radius:6px;background:#fff;cursor:pointer;"
-    onclick="document.body.setAttribute('data-lang', document.body.getAttribute('data-lang')==='en' ? 'ko' : 'en')">
-    🌐 Toggle English
-  </button>
-</div>
-{% endif %}
+{% assign has_alt = page.alt_en or page.alt_ko %}
+{% if has_alt %}
+  <div class="lang-toggle" style="margin:12px 0 20px; display:flex; gap:8px; align-items:center;">
+    <!-- 토글 버튼: 헤드의 toggleLang() 호출 -->
+    <button
+      style="padding:6px 10px;border:1px solid #ccc;border-radius:6px;background:#fff;cursor:pointer;"
+      onclick="toggleLang()">
+      🌐 Toggle English
+    </button>
 
+    <!-- 선택: 영어/한국어 전용 페이지로 바로 가는 링크(SEO용 별도 URL) -->
+    {% if page.lang == "ko" and page.alt_en %}
+      <a href="{{ page.alt_en | absolute_url }}" style="text-decoration:none;">Open English page ↗</a>
+    {% elsif page.lang == "en" and page.alt_ko %}
+      <a href="{{ page.alt_ko | absolute_url }}" style="text-decoration:none;">한국어 페이지로 이동 ↗</a>
+    {% endif %}
+  </div>
+
+  <!-- JS 꺼진 방문자 위한 폴백 -->
+  <noscript>
+    {% if page.lang == "ko" and page.alt_en %}
+      <p><a href="{{ page.alt_en | absolute_url }}">English version</a></p>
+    {% elsif page.lang == "en" and page.alt_ko %}
+      <p><a href="{{ page.alt_ko | absolute_url }}">Korean version</a></p>
+    {% endif %}
+  </noscript>
+{% endif %}
 <!-- end custom footer snippets -->
