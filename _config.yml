@@ -314,16 +314,36 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # 한국어 포스트 기본
   - scope:
-      path: ""
-      type: posts
+      path: "_posts"
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      toc_ads: true
-      toc_sticky: true
+      layout: post           # Minimal Mistakes면 보통 'single' 또는 'post'
+      lang: ko
+      categories: [Blog]
+      # 한국어 기본 permalink (site-level permalink를 그대로 씁니다)
+
+  # 영어 포스트 기본 (_posts/en/에 넣을 것)
+  - scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      layout: post
+      lang: en
+      permalink: /en/posts/:year-:month-:day-:title/
+      categories: [Blog]
+      
+#defaults:
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
+#      toc_ads: true
+#      toc_sticky: true
