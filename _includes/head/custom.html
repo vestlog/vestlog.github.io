@@ -45,26 +45,30 @@ To avoid duplicates, only render our manual tags when the plugin is NOT present.
 <!-- Tiny JS: remember language and expose toggleLang() for the button -->
 <script>
 (function () {
-  // 이 페이지의 기본 언어(프런트매터의 lang: ko|en). 기본 ko.
+  // 페이지가 가진 기본 언어(프런트매터: page.lang). 없으면 ko.
   var pageDefault = '{{ page.lang | default: "ko" }}';
   var saved = null;
   try { saved = localStorage.getItem('siteLang'); } catch (e) {}
 
   var lang = (saved === 'en' || saved === 'ko') ? saved : pageDefault;
+
+  // HTML lang 동기화
   document.documentElement.setAttribute('lang', lang === 'en' ? 'en' : 'ko');
-  // body가 아직 없을 수 있으니 DOM이 만들어진 뒤에도 한 번 더 설정
+
+  // body가 아직 없을 수 있으므로 DOM 준비 후에도 한 번 더 적용
   function apply(langVal){
     var b = document.body;
     if (b) b.setAttribute('data-lang', langVal);
     document.documentElement.setAttribute('lang', langVal === 'en' ? 'en' : 'ko');
   }
+
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', function(){ apply(lang); });
   } else {
     apply(lang);
   }
 
-  // 전역 토글 함수: 푸터/헤더 버튼에서 onclick="toggleLang()" 로 사용
+  // 전역 토글 함수: 푸터/헤더 버튼에서 onclick="toggleLang()"
   window.toggleLang = function () {
     var b = document.body || document.documentElement;
     var next = (b.getAttribute('data-lang') === 'en') ? 'ko' : 'en';
