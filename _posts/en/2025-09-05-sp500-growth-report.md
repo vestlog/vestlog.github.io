@@ -11,7 +11,7 @@ tags:
   - 'US Stocks'
   - 'Growth Stocks'
   - 'Long-term Investment'
-last_modified_at: 2025-09-05T08:35:42+09:00
+last_modified_at: 2025-09-05T08:45:54+09:00
 alt_ko: /posts/2025-09-05-sp500-growth-report/
 ---
 
@@ -64,35 +64,40 @@ Hello. This is an analysis report on S&P 500 stocks that have consistently grown
 <div class='card'>
 <h2>✅ AJG (AJG)</h2>
 <ul>
-<li><strong>Description:</strong> AJG may refer to:</li>
+<li><strong>Description:</strong> 기업 설명 정보 없음</li>
+<li><strong>English Description:</strong> AJG may refer to:</li>
 </ul>
 <img src='/assets/Sp500Chart/AJG_10yr_chart_2025-09-05.png' alt='AJG 10-Year Stock Price Chart'>
 </div>
 <div class='card'>
 <h2>✅ Axon Enterprise (AXON)</h2>
 <ul>
-<li><strong>Description:</strong>  Axon Enterprise, Inc. (formerly TASER International) is an American company based in Scottsdale, Arizona, that develops weapons and technology products for military, law enforcement, and civilians.[2]</li>
+<li><strong>Description:</strong> 기업 설명 정보 없음</li>
+<li><strong>English Description:</strong>  Axon Enterprise, Inc. (formerly TASER International) is an American company based in Scottsdale, Arizona, that develops weapons and technology products for military, law enforcement, and civilians.[2]</li>
 </ul>
 <img src='/assets/Sp500Chart/AXON_10yr_chart_2025-09-05.png' alt='AXON 10-Year Stock Price Chart'>
 </div>
 <div class='card'>
 <h2>✅ CTAS (CTAS)</h2>
 <ul>
-<li><strong>Description:</strong> CTAS may refer to:</li>
+<li><strong>Description:</strong> 기업 설명 정보 없음</li>
+<li><strong>English Description:</strong> CTAS may refer to:</li>
 </ul>
 <img src='/assets/Sp500Chart/CTAS_10yr_chart_2025-09-05.png' alt='CTAS 10-Year Stock Price Chart'>
 </div>
 <div class='card'>
 <h2>✅ PGR (PGR)</h2>
 <ul>
-<li><strong>Description:</strong> PGR may stand for:</li>
+<li><strong>Description:</strong> 기업 설명 정보 없음</li>
+<li><strong>English Description:</strong> PGR may stand for:</li>
 </ul>
 <img src='/assets/Sp500Chart/PGR_10yr_chart_2025-09-05.png' alt='PGR 10-Year Stock Price Chart'>
 </div>
 <div class='card'>
 <h2>✅ TJX (TJX)</h2>
 <ul>
-<li><strong>Description:</strong>  The TJX Companies, Inc. (abbreviated TJX) is an American multinational off-price department store corporation, headquartered in Framingham, Massachusetts.[4] It was formed as a subsidiary of Zayre Corp. in 1987, and became the legal successor to Zayre Corp. following a company reorganization in 1989.</li>
+<li><strong>Description:</strong> 기업 설명 정보 없음</li>
+<li><strong>English Description:</strong>  The TJX Companies, Inc. (abbreviated TJX) is an American multinational off-price department store corporation, headquartered in Framingham, Massachusetts.[4] It was formed as a subsidiary of Zayre Corp. in 1987, and became the legal successor to Zayre Corp. following a company reorganization in 1989.</li>
 </ul>
 <img src='/assets/Sp500Chart/TJX_10yr_chart_2025-09-05.png' alt='TJX 10-Year Stock Price Chart'>
 </div>
