@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 lang: en
 permalink: /en/posts/2025-09-05-sp500-growth-report/
@@ -11,7 +11,7 @@ tags:
   - 'US Stocks'
   - 'Growth Stocks'
   - 'Long-term Investment'
-last_modified_at: 2025-09-05T08:45:54+09:00
+last_modified_at: 2025-09-05T09:15:41+09:00
 alt_ko: /posts/2025-09-05-sp500-growth-report/
 ---
 

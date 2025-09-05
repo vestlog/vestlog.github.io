@@ -1,4 +1,4 @@
----
+﻿---
 layout: single
 lang: ko
 permalink: /posts/2025-09-05-sp500-growth-report/
@@ -11,7 +11,7 @@ tags:
   - '미국주식'
   - '성장주'
   - '장기투자'
-last_modified_at: 2025-09-05T08:45:54+09:00
+last_modified_at: 2025-09-05T09:15:41+09:00
 alt_en: /en/posts/2025-09-05-sp500-growth-report/
 ---
 
