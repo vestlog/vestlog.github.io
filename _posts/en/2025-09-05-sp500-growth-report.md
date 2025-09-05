@@ -11,7 +11,7 @@ tags:
   - 'US Stocks'
   - 'Growth Stocks'
   - 'Long-term Investment'
-last_modified_at: 2025-09-05T09:59:08+09:00
+last_modified_at: 2025-09-05T10:10:10+09:00
 alt_ko: /posts/2025-09-05-sp500-growth-report/
 ---
 
