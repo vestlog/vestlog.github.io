@@ -1,4 +1,47 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+permalink: /
+hidden: true
+header:
+  # [1] 준비하신 대문 배경 이미지 연결
+  overlay_image: /assets/images/main-bg.jpg
+  overlay_filter: 0.5
+  excerpt: "데이터로 시장을 읽는<br>코딩하는 남자의 주식 & 기술 블로그"
+  actions:
+    - label: "최신 글 보러가기"
+      url: "/year-archive/"
+      btn_class: "btn--primary"
+excerpt: "AI 주식 분석, 퀀트 투자, 그리고 개발 이야기.<br />데이터에 기반한 인사이트를 공유합니다."
+intro: 
+  - excerpt: '관심 있는 주제를 선택해 보세요.'
+feature_row:
+  - image_path: /assets/images/stock-icon.png # [2] 주식 아이콘 이미지 연결
+    alt: "주식 분석"
+    title: "📈 주식 분석"
+    excerpt: "급등주, 정배열 종목 등 데이터 기반의 주식 시장 분석 리포트입니다."
+    # [3] 카테고리 링크 (실제 카테고리명에 맞춰 수정 필요할 수 있음)
+    url: "/categories/stock/" 
+    btn_label: "분석글 보기"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/code-icon.png # [4] 개발 아이콘 이미지 연결
+    alt: "개발 일지"
+    title: "💻 개발 일지"
+    excerpt: "파이썬, 자동매매 봇 개발 등 기술적인 내용을 다룹니다."
+    url: "/categories/dev/"
+    btn_label: "개발글 보기"
+    btn_class: "btn--inverse"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+<div style="text-align: center; margin-top: 50px; margin-bottom: 20px;">
+  <h3>📝 최근 포스트</h3>
+</div>
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
