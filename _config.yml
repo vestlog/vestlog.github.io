@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "코딩하는남자의 스토리 블로그."
+title                    : "주식하는남자의 스토리 블로그."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "코딩하는남자"
+name                     : "주식하는남자"
 description              : "일일 주식 뉴스, 기술 분석, 트렌드 요약을 자동으로 포스팅하는 블로그."
 url                      : "https://vestlog.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "코딩하는남자"
+  name             : "주식하는남자"
   avatar           : "/assets/images/profile_image.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am CodingMan."
+  bio              : "I am StockMan."
   location         : "Somewhere"
   email            : "gute0111@gamil.com"
   links:
