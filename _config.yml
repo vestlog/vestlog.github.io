@@ -347,3 +347,25 @@ defaults:
 #      related: true
 #      toc_ads: true
 #      toc_sticky: true
+
+
+# 광고 설정 (빠져 있던 부분)
+ads:
+  provider: "google"
+  google:
+    client: "ca-pub-1695952648850095" # 본인의 애드센스 게시자 ID (ca-pub- 숫자)를 넣으세요
+    slot: "3590475773" # (선택사항) 특정 광고 단위 ID
+
+# 광고가 글(Post)에서만 보이도록 설정
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      ads: true 
