@@ -7,3 +7,101 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* ==========================================================================
+   [사용자 커스텀 디자인] 아래부터는 새로 추가된 디자인 코드입니다.
+   ========================================================================== */
+
+/* 1. 폰트 변경 (Pretendard - 가독성 좋은 최신 고딕체) */
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
+
+body {
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Pretendard", sans-serif !important;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+/* 2. 글 목록을 '카드(Card)' 스타일로 변경 */
+.archive__item {
+  position: relative;
+  background-color: #252a34; /* 카드 배경색 (다크모드용) */
+  border-radius: 15px;       /* 모서리를 둥글게 */
+  padding: 0;                /* 안쪽 여백 초기화 (이미지 꽉 차게) */
+  overflow: hidden;          /* 둥근 모서리 밖으로 내용 튀어나옴 방지 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* 그림자 효과 */
+  transition: all 0.3s ease; /* 부드러운 움직임 */
+  border: 1px solid #333;    /* 얇은 테두리 */
+  height: 100%;              /* 높이 맞춤 */
+  display: flex;             /* 내부 요소 정렬 */
+  flex-direction: column;    /* 세로로 배치 */
+}
+
+/* 마우스 올렸을 때 (Hover) 효과 */
+.archive__item:hover {
+  transform: translateY(-7px); /* 위로 붕 뜨는 느낌 */
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4); /* 그림자가 진해짐 */
+  border-color: #ff6b6b; /* 테두리 색상이 포인트 컬러로 변함 (선택사항) */
+  z-index: 10;
+}
+
+/* 썸네일 이미지 영역 */
+.archive__item-teaser {
+  margin: 0;
+  position: relative;
+  height: 180px; /* 이미지 높이 고정 (일정하게 보이도록) */
+  overflow: hidden;
+  background-color: #000;
+}
+
+.archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* 이미지가 찌그러지지 않고 꽉 차게 */
+  transition: transform 0.5s;
+}
+
+/* 마우스 올리면 이미지 살짝 확대 */
+.archive__item:hover .archive__item-teaser img {
+  transform: scale(1.1);
+}
+
+/* 글 제목 스타일 */
+.archive__item-title {
+  margin: 20px 20px 5px 20px; /* 여백: 위 오른쪽 아래 왼쪽 */
+  font-size: 1.1em;
+  line-height: 1.4;
+}
+
+/* 요약글 스타일 */
+.archive__item-excerpt {
+  margin: 0 20px 20px 20px;
+  font-size: 0.9em;
+  color: #bbb; /* 글씨 색상 (회색) */
+  flex-grow: 1; /* 남은 공간을 채워서 카드 높이 맞춤 */
+  display: -webkit-box;
+  -webkit-line-clamp: 3; /* 3줄까지만 보여주고 ... 처리 */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 날짜 등 메타 정보 */
+.page__meta {
+  margin: 0 20px 15px 20px !important;
+  font-size: 0.75em;
+  color: #888;
+  border-top: 1px solid #333; /* 위쪽에 얇은 구분선 */
+  padding-top: 10px;
+}
+
+/* 3. 사이드바 프로필 사진 원형으로 만들기 */
+.author__avatar img {
+  border-radius: 50%;       /* 50%를 주면 원이 됩니다 */
+  border: 3px solid #252a34; /* 테두리 추가 */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* 그림자 */
+  aspect-ratio: 1/1; /* 정사각형 비율 강제 유지 */
+  object-fit: cover; /* 이미지 찌그러짐 방지 */
+}
