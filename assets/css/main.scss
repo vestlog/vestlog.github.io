@@ -9,10 +9,16 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /* ==========================================================================
-   [사용자 커스텀 디자인] 아래부터는 새로 추가된 디자인 코드입니다.
+   [사용자 커스텀 디자인 통합본] 
+   1. 폰트 변경 (Pretendard)
+   2. 카드형 리스트 디자인
+   3. Mac 스타일 코드 블록
+   4. 본문 확장 (Wide Layout)
    ========================================================================== */
 
-/* 1. 폰트 변경 (Pretendard - 가독성 좋은 최신 고딕체) */
+/* ----------------------------------------------------------
+   1. 폰트 변경 (Pretendard - 가독성 좋은 최신 고딕체) 
+   ---------------------------------------------------------- */
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
 
 body {
@@ -25,34 +31,36 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.5px;
 }
 
-/* 2. 글 목록을 '카드(Card)' 스타일로 변경 */
+/* ----------------------------------------------------------
+   2. 글 목록을 '카드(Card)' 스타일로 변경 
+   ---------------------------------------------------------- */
 .archive__item {
   position: relative;
-  background-color: #252a34; /* 카드 배경색 (다크모드용) */
-  border-radius: 15px;       /* 모서리를 둥글게 */
-  padding: 0;                /* 안쪽 여백 초기화 (이미지 꽉 차게) */
-  overflow: hidden;          /* 둥근 모서리 밖으로 내용 튀어나옴 방지 */
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); /* 그림자 효과 */
-  transition: all 0.3s ease; /* 부드러운 움직임 */
-  border: 1px solid #333;    /* 얇은 테두리 */
-  height: 100%;              /* 높이 맞춤 */
-  display: flex;             /* 내부 요소 정렬 */
-  flex-direction: column;    /* 세로로 배치 */
+  background-color: #252a34; /* 카드 배경색 */
+  border-radius: 15px;       /* 모서리 둥글게 */
+  padding: 0;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  border: 1px solid #333;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
-/* 마우스 올렸을 때 (Hover) 효과 */
+/* 마우스 호버 효과 */
 .archive__item:hover {
-  transform: translateY(-7px); /* 위로 붕 뜨는 느낌 */
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4); /* 그림자가 진해짐 */
-  border-color: #ff6b6b; /* 테두리 색상이 포인트 컬러로 변함 (선택사항) */
+  transform: translateY(-7px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+  border-color: #ff6b6b; 
   z-index: 10;
 }
 
-/* 썸네일 이미지 영역 */
+/* 썸네일 이미지 */
 .archive__item-teaser {
   margin: 0;
   position: relative;
-  height: 180px; /* 이미지 높이 고정 (일정하게 보이도록) */
+  height: 180px;
   overflow: hidden;
   background-color: #000;
 }
@@ -60,97 +68,54 @@ h1, h2, h3, h4, h5, h6 {
 .archive__item-teaser img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* 이미지가 찌그러지지 않고 꽉 차게 */
+  object-fit: cover;
   transition: transform 0.5s;
 }
 
-/* 마우스 올리면 이미지 살짝 확대 */
 .archive__item:hover .archive__item-teaser img {
   transform: scale(1.1);
 }
 
-/* 글 제목 스타일 */
+/* 카드 내용 스타일 */
 .archive__item-title {
-  margin: 20px 20px 5px 20px; /* 여백: 위 오른쪽 아래 왼쪽 */
+  margin: 20px 20px 5px 20px;
   font-size: 1.1em;
   line-height: 1.4;
 }
 
-/* 요약글 스타일 */
 .archive__item-excerpt {
   margin: 0 20px 20px 20px;
   font-size: 0.9em;
-  color: #bbb; /* 글씨 색상 (회색) */
-  flex-grow: 1; /* 남은 공간을 채워서 카드 높이 맞춤 */
+  color: #bbb;
+  flex-grow: 1;
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* 3줄까지만 보여주고 ... 처리 */
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-/* 날짜 등 메타 정보 */
 .page__meta {
   margin: 0 20px 15px 20px !important;
   font-size: 0.75em;
   color: #888;
-  border-top: 1px solid #333; /* 위쪽에 얇은 구분선 */
+  border-top: 1px solid #333;
   padding-top: 10px;
 }
 
-/* 3. 사이드바 프로필 사진 원형으로 만들기 */
-.author__avatar img {
-  border-radius: 50%;       /* 50%를 주면 원이 됩니다 */
-  border: 3px solid #252a34; /* 테두리 추가 */
-  box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* 그림자 */
-  aspect-ratio: 1/1; /* 정사각형 비율 강제 유지 */
-  object-fit: cover; /* 이미지 찌그러짐 방지 */
-}
-
-/* =========================================
-   [디자인 업그레이드] 본문 너비 시원하게 넓히기
-   ========================================= */
-
-/* PC 화면(1024px 이상)에서만 적용 */
-@media (min-width: 1024px) {
-  /* 본문 영역 최대 너비를 1280px까지 확장 */
-  .page__inner-wrap {
-    max-width: 1280px !important;
-    padding-right: 2em; /* 오른쪽 여백 확보 */
-  }
-  
-  /* 글 목록(Archive) 화면도 넓게 */
-  .archive {
-    max-width: 1280px !important;
-    padding-right: 2em;
-  }
-
-  /* 사이드바 위치 조정 (넓어진 만큼 왼쪽으로 붙음) */
-  .sidebar {
-    width: 250px; /* 사이드바 너비 고정 */
-  }
-}
-
-/* 본문 글씨 크기 약간 키우기 (가독성 향상) */
-.page__content {
-  font-size: 1.05em; 
-}
-
-/* =========================================
-   [디자인 업그레이드] 코드 블록 Mac 스타일로 꾸미기
-   ========================================= */
-
-/* 1. 코드 박스 둥글게 깎기 */
+/* ----------------------------------------------------------
+   3. 코드 블록 디자인 (Mac OS 터미널 스타일)
+   ---------------------------------------------------------- */
 div.highlighter-rouge .highlight, 
 figure.highlight {
-  border-radius: 12px;       /* 모서리 둥글게 */
-  box-shadow: 0 10px 30px rgba(0,0,0,0.25); /* 그림자 줘서 입체감 살리기 */
-  margin-bottom: 2em;        /* 아래쪽 여백 */
-  position: relative;        /* 점 3개 찍을 위치 기준 */
-  padding-top: 30px;         /* 점 3개가 들어갈 상단 여백 확보 */
-  background: #282c34;       /* 배경색 (취향에 따라 변경 가능) */
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+  margin-bottom: 2em;
+  position: relative;
+  padding-top: 30px; /* 점 3개 공간 확보 */
+  background: #282c34;
 }
 
-/* 2. 상단에 빨/노/초 점 3개 찍기 (가상 요소 사용) */
+/* 상단 점 3개 (빨강, 노랑, 초록) */
 div.highlighter-rouge .highlight::before, 
 figure.highlight::before {
   content: " ";
@@ -160,21 +125,17 @@ figure.highlight::before {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  
-  /* 빨강(본체) + 노랑(그림자1) + 초록(그림자2) 로 점 3개 표현 */
   background: #ff5f56;
   box-shadow: 20px 0 0 #ffbd2e, 40px 0 0 #27c93f; 
 }
 
-/* 3. 코드 내부 여백 및 스크롤바 디자인 */
 div.highlighter-rouge .highlight pre, 
 figure.highlight pre {
   margin: 0;
-  padding: 15px 20px; /* 코드와 박스 사이 여백 */
-  overflow-x: auto;   /* 가로 스크롤 허용 */
+  padding: 15px 20px;
+  overflow-x: auto;
 }
 
-/* 스크롤바 예쁘게 꾸미기 */
 div.highlighter-rouge .highlight pre::-webkit-scrollbar {
   height: 8px;
 }
@@ -183,38 +144,57 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   border-radius: 4px;
 }
 
-/* =========================================
-   [디자인 업그레이드] 사이드바 없애고 본문 꽉 채우기
-   ========================================= */
+/* ----------------------------------------------------------
+   4. [중요] 사이드바 제거 및 본문 90% 확장 (Wide Mode)
+   ---------------------------------------------------------- */
 
-/* 1. 사이드바 영역 강제로 숨기기 (혹시 남아있을 경우 대비) */
+/* 혹시 모를 왼쪽 사이드바 잔여 공간 제거 */
 .sidebar {
   display: none !important;
 }
 
-/* 2. 본문 너비 100%로 확장 */
-/* PC 화면에서 본문이 중앙에 좁게 나오는 것을 방지 */
+/* PC 화면(1024px 이상)에서 본문 너비 제한 풀기 */
 @media (min-width: 1024px) {
-  .page__inner-wrap {
-    float: none !important;    /* 왼쪽 정렬 해제 */
-    margin: 0 auto !important; /* 중앙 정렬 */
-    width: 100% !important;    /* 너비 100% */
-    max-width: 1400px !important; /* 최대 너비를 1400px까지 넓힘 (원하는 만큼 숫자 조절 가능) */
-    padding-right: 0 !important; /* 오른쪽 여백 제거 */
+  
+  /* 본문 전체 틀을 화면의 90%까지 넓힙니다 */
+  /* 기존 테마가 가진 max-width 제한을 덮어씁니다 */
+  .layout--single .page__inner-wrap {
+    max-width: 90% !important;  /* 화면 가로의 90% 사용 */
+    width: 90% !important;
+    margin: 0 auto !important;  /* 중앙 정렬 */
+    float: none !important;     /* 테마의 float 속성 해제 */
+    padding-right: 0 !important;
   }
-
-  /* 글 목록(Archive) 화면도 넓게 */
+  
+  /* 글 목록(Archive) 화면도 동일하게 확장 */
   .archive {
-    width: 100% !important;
-    max-width: 1400px !important;
+    max-width: 90% !important;
+    width: 90% !important;
     margin: 0 auto !important;
     float: none !important;
     padding-right: 0 !important;
   }
+
+  /* 실제 글 내용이 들어가는 박스도 꽉 채우기 */
+  .page__content {
+    width: 100% !important;
+    max-width: 100% !important;
+    padding-right: 0 !important;
+    font-size: 1.1em; /* 화면이 커진 만큼 글씨도 살짝 키움 */
+  }
+
+  /* 오른쪽 목차(TOC) 위치 조정 */
+  /* 본문이 넓어지면 목차가 글을 가릴 수 있으므로 오른쪽 구석에 고정 */
+  .sidebar__right {
+    margin-left: 20px !important;
+    width: 250px !important; /* 목차 너비 유지 */
+  }
 }
 
-/* 3. 본문 글씨 크기와 줄 간격 조정 (화면이 넓어진 만큼 가독성 확보) */
-.page__content {
-  font-size: 1.1em; /* 글씨를 조금 키움 */
-  line-height: 1.7; /* 줄 간격을 넓힘 */
+/* 작은 화면 대응 */
+@media (max-width: 1024px) {
+  .page__inner-wrap {
+    width: 95% !important;
+    padding-right: 0 !important;
+  }
 }
