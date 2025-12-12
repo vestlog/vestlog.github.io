@@ -9,10 +9,12 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /* ==========================================================================
-   [사용자 커스텀 디자인 통합본]
+   [사용자 커스텀 디자인 통합본 - 안전 버전]
    ========================================================================== */
 
-/* 1. 폰트 변경 (Pretendard) */
+/* ----------------------------------------------------------
+   1. 폰트 변경 (Pretendard) 
+   ---------------------------------------------------------- */
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
 
 body {
@@ -25,7 +27,9 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.5px;
 }
 
-/* 2. 글 목록 카드 디자인 */
+/* ----------------------------------------------------------
+   2. 글 목록을 '카드(Card)' 스타일로 변경 
+   ---------------------------------------------------------- */
 .archive__item {
   position: relative;
   background-color: #252a34;
@@ -88,7 +92,9 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 10px;
 }
 
-/* 3. 코드 블록 디자인 (Mac 스타일) */
+/* ----------------------------------------------------------
+   3. 코드 블록 디자인 (Mac OS 스타일)
+   ---------------------------------------------------------- */
 div.highlighter-rouge .highlight, 
 figure.highlight {
   border-radius: 12px;
@@ -128,7 +134,7 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
 }
 
 /* ==========================================================================
-   [레이아웃 최종 해결] 사이드바 제거 및 본문 왼쪽 확장 (단순화 버전)
+   [레이아웃 해결] 복잡한 계산식 제거 후 안전하게 100% 확장
    ========================================================================== */
 
 /* 1. 사이드바 숨김 */
@@ -136,51 +142,39 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   display: none !important;
 }
 
-/* 2. PC 화면 (Wide) 설정 */
+/* 2. PC 화면 레이아웃 재설정 (Wide View) */
 @media (min-width: 1024px) {
 
-  /* (1) 가장 바깥쪽 컨테이너(.page)의 여백과 정렬 초기화 */
-  /* 이 부분이 왼쪽의 '검은 빈 공간'을 없애줍니다. */
-  .layout--single .page,
+  /* (1) 본문 전체 틀: 너비 제한을 풀고 100% 사용 */
+  .layout--single .page__inner-wrap,
   .layout--archive .archive {
-    width: 100% !important;
-    float: none !important;
-    margin: 0 !important;
-    padding-right: 0 !important;
+    float: none !important;       /* 둥둥 떠다니는 float 속성 제거 */
+    margin: 0 auto !important;    /* 중앙 정렬 */
+    width: 96% !important;        /* 화면의 96%까지 사용 (양옆에 아주 살짝 여백 둠) */
+    max-width: 100% !important;   /* 최대 너비 제한 해제 */
+    padding-right: 0 !important;  
   }
 
-  /* (2) 실제 본문 내용을 감싸는 박스 (.page__inner-wrap) */
-  /* 왼쪽 벽에 너무 붙지 않도록 패딩만 주고, 너비는 화면 전체 사용 */
-  .page__inner-wrap {
-    width: 100% !important;      /* 화면 너비 100% */
-    max-width: 100% !important;  /* 제한 해제 */
-    float: none !important;
-    margin: 0 !important;        /* 불필요한 여백 제거 */
-    padding-left: 5% !important; /* 왼쪽 벽에서 5% 정도 띄움 (보기 좋게) */
-    padding-right: 5% !important;/* 오른쪽 벽에서도 5% 띄움 */
-  }
-
-  /* (3) 글 내용 영역 (.page__content) */
-  /* 별도의 너비 계산 없이 가득 채움 (목차는 내부에서 알아서 오른쪽 정렬됨) */
+  /* (2) 글 내용 영역 */
+  /* 그냥 100%로 둡니다. 목차(TOC)는 안에서 자연스럽게 어울리도록 놔둡니다. */
   .page__content {
     width: 100% !important;
     float: none !important;
   }
 
-  /* (4) 오른쪽 목차 (TOC) */
-  /* 본문 내에서 자연스럽게 오른쪽에 위치하도록 설정 */
+  /* (3) 오른쪽 목차 (TOC) */
+  /* 본문 오른쪽 구석에 얌전히 붙어있도록 설정 */
   .sidebar__right {
-    float: right !important;
-    width: 280px !important;
+    float: right !important;      /* 오른쪽으로 붙임 */
+    width: 280px !important;      /* 너비 고정 */
     margin-left: 30px !important; /* 본문 글자와의 간격 */
     margin-bottom: 20px;
-    position: sticky;
-    top: 20px;
+    clear: both;                  /* 혹시 모를 겹침 방지 */
   }
 }
 
-/* 본문 폰트 크기 및 줄간격 시원하게 조정 */
+/* 본문 폰트 크기 및 줄간격 조정 */
 .page__content {
-  font-size: 1.15em;
+  font-size: 1.1em;
   line-height: 1.7;
 }
