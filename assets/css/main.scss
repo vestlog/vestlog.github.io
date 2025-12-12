@@ -105,3 +105,80 @@ h1, h2, h3, h4, h5, h6 {
   aspect-ratio: 1/1; /* 정사각형 비율 강제 유지 */
   object-fit: cover; /* 이미지 찌그러짐 방지 */
 }
+
+/* =========================================
+   [디자인 업그레이드] 본문 너비 시원하게 넓히기
+   ========================================= */
+
+/* PC 화면(1024px 이상)에서만 적용 */
+@media (min-width: 1024px) {
+  /* 본문 영역 최대 너비를 1280px까지 확장 */
+  .page__inner-wrap {
+    max-width: 1280px !important;
+    padding-right: 2em; /* 오른쪽 여백 확보 */
+  }
+  
+  /* 글 목록(Archive) 화면도 넓게 */
+  .archive {
+    max-width: 1280px !important;
+    padding-right: 2em;
+  }
+
+  /* 사이드바 위치 조정 (넓어진 만큼 왼쪽으로 붙음) */
+  .sidebar {
+    width: 250px; /* 사이드바 너비 고정 */
+  }
+}
+
+/* 본문 글씨 크기 약간 키우기 (가독성 향상) */
+.page__content {
+  font-size: 1.05em; 
+}
+
+/* =========================================
+   [디자인 업그레이드] 코드 블록 Mac 스타일로 꾸미기
+   ========================================= */
+
+/* 1. 코드 박스 둥글게 깎기 */
+div.highlighter-rouge .highlight, 
+figure.highlight {
+  border-radius: 12px;       /* 모서리 둥글게 */
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25); /* 그림자 줘서 입체감 살리기 */
+  margin-bottom: 2em;        /* 아래쪽 여백 */
+  position: relative;        /* 점 3개 찍을 위치 기준 */
+  padding-top: 30px;         /* 점 3개가 들어갈 상단 여백 확보 */
+  background: #282c34;       /* 배경색 (취향에 따라 변경 가능) */
+}
+
+/* 2. 상단에 빨/노/초 점 3개 찍기 (가상 요소 사용) */
+div.highlighter-rouge .highlight::before, 
+figure.highlight::before {
+  content: " ";
+  position: absolute;
+  top: 13px;
+  left: 15px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  
+  /* 빨강(본체) + 노랑(그림자1) + 초록(그림자2) 로 점 3개 표현 */
+  background: #ff5f56;
+  box-shadow: 20px 0 0 #ffbd2e, 40px 0 0 #27c93f; 
+}
+
+/* 3. 코드 내부 여백 및 스크롤바 디자인 */
+div.highlighter-rouge .highlight pre, 
+figure.highlight pre {
+  margin: 0;
+  padding: 15px 20px; /* 코드와 박스 사이 여백 */
+  overflow-x: auto;   /* 가로 스크롤 허용 */
+}
+
+/* 스크롤바 예쁘게 꾸미기 */
+div.highlighter-rouge .highlight pre::-webkit-scrollbar {
+  height: 8px;
+}
+div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
+  background: #555;
+  border-radius: 4px;
+}

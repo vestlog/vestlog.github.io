@@ -1,12 +1,20 @@
-# main links
+# _data/navigation.yml
+
 main:
   - title: "Home"
-    url: https://vestlog.github.io
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /
+  
+  # 직관성을 위해 핵심 카테고리를 상단에 바로 노출합니다.
+  - title: "📈 주식 분석"
+    url: /categories/stock/
+  
+  - title: "💻 개발 일지"
+    url: /categories/dev/
+  
+  # 모든 글을 모아보는 아카이브 메뉴
+  - title: "🗂️ 전체 글"
+    url: /blog/
+  
+  # 태그 모음 (원하는 주제 찾기 편함)
+  - title: "🏷️ 태그"
+    url: /tags/
