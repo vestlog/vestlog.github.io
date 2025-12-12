@@ -311,61 +311,45 @@ compress_html:
   ignore:
     envs: development
 
-
 # Defaults
 defaults:
-  # 한국어 포스트 기본
+  # 1. [공통 설정] 모든 글에 적용 (광고, 레이아웃, 기능 활성화)
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single           # 디자인: 테마 표준 레이아웃
+      author_profile: true     # 사이드바: 프로필 표시
+      read_time: true          # 읽는 시간 표시
+      comments: true           # 댓글 허용
+      share: true              # 공유 버튼
+      related: true            # 관련 글
+      ads: true                # 광고: 본문 하단 등 고정 광고 활성화
+      toc: true                # 목차: 구글 SEO에 좋음
+      toc_sticky: true         # 목차 따라오기
+
+  # 2. [한국어 설정] _posts 폴더 (기존 주소 유지)
   - scope:
       path: "_posts"
-      type: "posts"
+      type: posts
     values:
-      layout: post           # Minimal Mistakes면 보통 'single' 또는 'post'
-      lang: ko
-      categories: [Blog]
-      # 한국어 기본 permalink (site-level permalink를 그대로 씁니다)
+      lang: ko                 # 구글에게 "한국어 문서"라고 알림
+      categories: [Blog]       # 기본 카테고리
+      # permalink는 상단의 전역 설정(/blog/:title/)을 따름 -> 기존 링크 보호됨
 
-  # 영어 포스트 기본 (_posts/en/에 넣을 것)
+  # 3. [영어 설정] _posts/en 폴더 (기존 주소 유지)
   - scope:
       path: "_posts/en"
-      type: "posts"
+      type: posts
     values:
-      layout: post
-      lang: en
-      permalink: /en/posts/:year-:month-:day-:title/
+      lang: en                 # 구글에게 "영어 문서"라고 알림
       categories: [Blog]
-      
-#defaults:
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-#      toc_ads: true
-#      toc_sticky: true
+      # [중요] 기존 영어 글들이 404가 뜨지 않도록 현재 주소 형식을 유지
+      permalink: /en/posts/:year-:month-:day-:title/
 
-
-# 광고 설정 (빠져 있던 부분)
-#ads:
-#  provider: "google"
-#  google:
-#    client: "ca-pub-1695952648850095" # 본인의 애드센스 게시자 ID (ca-pub- 숫자)를 넣으세요
-#    slot: "3590475773" # (선택사항) 특정 광고 단위 ID
-
-# 광고가 글(Post)에서만 보이도록 설정
-#defaults:
-#  - scope:
-#      path: "_posts"
-#      type: "posts"
-#    values:
-#      layout: single
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-#      ads: true 
+# 광고 설정 (자동 광고 + 수동 광고 슬롯 동시 지원)
+ads:
+  provider: "google"
+  google:
+    client: "ca-pub-1695952648850095" # 사용자님 ID
+    slot: "3590475773" # 사용자님 Slot ID
