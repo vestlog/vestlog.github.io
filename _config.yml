@@ -319,7 +319,7 @@ defaults:
       type: posts
     values:
       layout: single           # 디자인: 테마 표준 레이아웃
-      author_profile: true     # 사이드바: 프로필 표시
+      author_profile: false     # 사이드바: 프로필 표시
       read_time: true          # 읽는 시간 표시
       comments: true           # 댓글 허용
       share: true              # 공유 버튼

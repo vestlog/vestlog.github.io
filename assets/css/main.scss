@@ -182,3 +182,39 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   background: #555;
   border-radius: 4px;
 }
+
+/* =========================================
+   [디자인 업그레이드] 사이드바 없애고 본문 꽉 채우기
+   ========================================= */
+
+/* 1. 사이드바 영역 강제로 숨기기 (혹시 남아있을 경우 대비) */
+.sidebar {
+  display: none !important;
+}
+
+/* 2. 본문 너비 100%로 확장 */
+/* PC 화면에서 본문이 중앙에 좁게 나오는 것을 방지 */
+@media (min-width: 1024px) {
+  .page__inner-wrap {
+    float: none !important;    /* 왼쪽 정렬 해제 */
+    margin: 0 auto !important; /* 중앙 정렬 */
+    width: 100% !important;    /* 너비 100% */
+    max-width: 1400px !important; /* 최대 너비를 1400px까지 넓힘 (원하는 만큼 숫자 조절 가능) */
+    padding-right: 0 !important; /* 오른쪽 여백 제거 */
+  }
+
+  /* 글 목록(Archive) 화면도 넓게 */
+  .archive {
+    width: 100% !important;
+    max-width: 1400px !important;
+    margin: 0 auto !important;
+    float: none !important;
+    padding-right: 0 !important;
+  }
+}
+
+/* 3. 본문 글씨 크기와 줄 간격 조정 (화면이 넓어진 만큼 가독성 확보) */
+.page__content {
+  font-size: 1.1em; /* 글씨를 조금 키움 */
+  line-height: 1.7; /* 줄 간격을 넓힘 */
+}
