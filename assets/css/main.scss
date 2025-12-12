@@ -9,7 +9,11 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 /* ==========================================================================
-   [사용자 커스텀 디자인 통합본 - 최종 수정]
+   [사용자 커스텀 디자인 통합본]
+   1. 폰트 변경 (Pretendard)
+   2. 카드형 리스트 디자인
+   3. Mac 스타일 코드 블록
+   4. [핵심] 왼쪽 여백 제거 및 본문 꽉 채우기
    ========================================================================== */
 
 /* ----------------------------------------------------------
@@ -137,54 +141,54 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
 }
 
 /* ----------------------------------------------------------
-   4. [핵심 수정] 본문 왼쪽 여백 강제 제거 및 전체 확장
+   4. [최종 해결] 투명한 왼쪽 사이드바 공간 제거 및 본문 전체 확장
    ---------------------------------------------------------- */
 
-/* 혹시 모를 사이드바 숨김 */
+/* (1) 사이드바 영역 물리적으로 제거 */
 .sidebar {
   display: none !important;
+  width: 0 !important;
 }
 
-/* PC 화면 (Wide Screen) 설정 */
+/* (2) PC 화면에서 레이아웃 강제 조정 */
 @media (min-width: 1024px) {
   
-  /* 본문이 오른쪽에 쏠려있는 현상을 해결하기 위해 float 해제 및 여백 초기화 */
+  /* 본문 전체 틀: 가운데 정렬 해제하고 왼쪽부터 100% 채움 */
   .layout--single .page__inner-wrap {
-    float: none !important;      /* 오른쪽으로 밀어내는 속성 강제 해제 */
-    margin-left: auto !important; /* 중앙 정렬 */
-    margin-right: auto !important;
-    padding-right: 0 !important; /* 불필요한 오른쪽 여백 제거 */
-    max-width: 1400px !important; /* 원하는 최대 너비 */
-    width: 95% !important;       /* 화면의 95%까지 사용 */
-  }
-  
-  /* 글 내용 박스도 100%로 확장 */
-  .layout--single .page__content {
-    width: 100% !important;
     max-width: 100% !important;
+    width: 100% !important;
+    margin-left: 0 !important;    /* 왼쪽 여백 제거 (핵심!) */
     margin-right: 0 !important;
-    flex: none !important;
-  }
-  
-  /* Archive (글 목록) 화면도 동일하게 확장 */
-  .archive {
+    padding-left: 30px !important;  /* 왼쪽 벽에 너무 딱 붙지 않게 최소한의 여백 */
+    padding-right: 30px !important;
     float: none !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    width: 95% !important;
-    max-width: 1400px !important;
+  }
+
+  /* 본문 내용: 목차 공간을 제외한 나머지를 꽉 채움 */
+  /* 목차(약 280px) + 여백(약 40px) = 320px 제외 */
+  .layout--single .page__content {
+    width: calc(100% - 320px) !important;
+    float: left !important;       /* 왼쪽으로 밀착 */
+    margin-right: 0 !important;
     padding-right: 0 !important;
   }
-}
 
-/* 본문 폰트 사이즈 조정 */
-.page__content {
-  font-size: 1.1em;
-  line-height: 1.7;
-}
+  /* 오른쪽 목차(TOC): 오른쪽 구석에 고정 */
+  .sidebar__right {
+    width: 280px !important;
+    float: right !important;      /* 오른쪽으로 밀착 */
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    position: sticky;
+    top: 20px;
+  }
 
-/* 오른쪽 목차(TOC) 스타일 유지 */
-.sidebar__right {
-  margin-left: 20px !important;
-  margin-bottom: 20px;
+  /* 글 목록(Archive) 화면도 넓게 */
+  .archive {
+    width: 95% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    float: none !important;
+    padding-right: 0 !important;
+  }
 }
