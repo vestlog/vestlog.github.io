@@ -10,15 +10,9 @@ search: false
 
 /* ==========================================================================
    [사용자 커스텀 디자인 통합본]
-   1. 폰트 변경 (Pretendard)
-   2. 카드형 리스트 디자인
-   3. Mac 스타일 코드 블록
-   4. [핵심] 왼쪽 여백 제거 및 본문 꽉 채우기
    ========================================================================== */
 
-/* ----------------------------------------------------------
-   1. 폰트 변경 (Pretendard) 
-   ---------------------------------------------------------- */
+/* 1. 폰트 변경 (Pretendard) */
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard.css");
 
 body {
@@ -31,14 +25,11 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -0.5px;
 }
 
-/* ----------------------------------------------------------
-   2. 글 목록을 '카드(Card)' 스타일로 변경 
-   ---------------------------------------------------------- */
+/* 2. 글 목록 카드 디자인 */
 .archive__item {
   position: relative;
-  background-color: #252a34; /* 카드 배경색 */
-  border-radius: 15px;       /* 모서리 둥글게 */
-  padding: 0;
+  background-color: #252a34;
+  border-radius: 15px;
   overflow: hidden;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
   transition: all 0.3s ease;
@@ -51,13 +42,11 @@ h1, h2, h3, h4, h5, h6 {
 .archive__item:hover {
   transform: translateY(-7px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
-  border-color: #ff6b6b; 
+  border-color: #ff6b6b;
   z-index: 10;
 }
 
 .archive__item-teaser {
-  margin: 0;
-  position: relative;
   height: 180px;
   overflow: hidden;
   background-color: #000;
@@ -99,16 +88,14 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 10px;
 }
 
-/* ----------------------------------------------------------
-   3. 코드 블록 디자인 (Mac OS 스타일)
-   ---------------------------------------------------------- */
+/* 3. 코드 블록 디자인 (Mac 스타일) */
 div.highlighter-rouge .highlight, 
 figure.highlight {
   border-radius: 12px;
   box-shadow: 0 10px 30px rgba(0,0,0,0.25);
   margin-bottom: 2em;
   position: relative;
-  padding-top: 30px; 
+  padding-top: 30px;
   background: #282c34;
 }
 
@@ -122,7 +109,7 @@ figure.highlight::before {
   height: 12px;
   border-radius: 50%;
   background: #ff5f56;
-  box-shadow: 20px 0 0 #ffbd2e, 40px 0 0 #27c93f; 
+  box-shadow: 20px 0 0 #ffbd2e, 40px 0 0 #27c93f;
 }
 
 div.highlighter-rouge .highlight pre, 
@@ -140,55 +127,60 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   border-radius: 4px;
 }
 
-/* ----------------------------------------------------------
-   4. [최종 해결] 투명한 왼쪽 사이드바 공간 제거 및 본문 전체 확장
-   ---------------------------------------------------------- */
+/* ==========================================================================
+   [레이아웃 최종 해결] 사이드바 제거 및 본문 왼쪽 확장 (단순화 버전)
+   ========================================================================== */
 
-/* (1) 사이드바 영역 물리적으로 제거 */
+/* 1. 사이드바 숨김 */
 .sidebar {
   display: none !important;
-  width: 0 !important;
 }
 
-/* (2) PC 화면에서 레이아웃 강제 조정 */
+/* 2. PC 화면 (Wide) 설정 */
 @media (min-width: 1024px) {
-  
-  /* 본문 전체 틀: 가운데 정렬 해제하고 왼쪽부터 100% 채움 */
-  .layout--single .page__inner-wrap {
-    max-width: 100% !important;
-    width: 100% !important;
-    margin-left: 0 !important;    /* 왼쪽 여백 제거 (핵심!) */
-    margin-right: 0 !important;
-    padding-left: 30px !important;  /* 왼쪽 벽에 너무 딱 붙지 않게 최소한의 여백 */
-    padding-right: 30px !important;
-    float: none !important;
-  }
 
-  /* 본문 내용: 목차 공간을 제외한 나머지를 꽉 채움 */
-  /* 목차(약 280px) + 여백(약 40px) = 320px 제외 */
-  .layout--single .page__content {
-    width: calc(100% - 320px) !important;
-    float: left !important;       /* 왼쪽으로 밀착 */
-    margin-right: 0 !important;
+  /* (1) 가장 바깥쪽 컨테이너(.page)의 여백과 정렬 초기화 */
+  /* 이 부분이 왼쪽의 '검은 빈 공간'을 없애줍니다. */
+  .layout--single .page,
+  .layout--archive .archive {
+    width: 100% !important;
+    float: none !important;
+    margin: 0 !important;
     padding-right: 0 !important;
   }
 
-  /* 오른쪽 목차(TOC): 오른쪽 구석에 고정 */
+  /* (2) 실제 본문 내용을 감싸는 박스 (.page__inner-wrap) */
+  /* 왼쪽 벽에 너무 붙지 않도록 패딩만 주고, 너비는 화면 전체 사용 */
+  .page__inner-wrap {
+    width: 100% !important;      /* 화면 너비 100% */
+    max-width: 100% !important;  /* 제한 해제 */
+    float: none !important;
+    margin: 0 !important;        /* 불필요한 여백 제거 */
+    padding-left: 5% !important; /* 왼쪽 벽에서 5% 정도 띄움 (보기 좋게) */
+    padding-right: 5% !important;/* 오른쪽 벽에서도 5% 띄움 */
+  }
+
+  /* (3) 글 내용 영역 (.page__content) */
+  /* 별도의 너비 계산 없이 가득 채움 (목차는 내부에서 알아서 오른쪽 정렬됨) */
+  .page__content {
+    width: 100% !important;
+    float: none !important;
+  }
+
+  /* (4) 오른쪽 목차 (TOC) */
+  /* 본문 내에서 자연스럽게 오른쪽에 위치하도록 설정 */
   .sidebar__right {
+    float: right !important;
     width: 280px !important;
-    float: right !important;      /* 오른쪽으로 밀착 */
-    margin-left: 0 !important;
-    margin-right: 0 !important;
+    margin-left: 30px !important; /* 본문 글자와의 간격 */
+    margin-bottom: 20px;
     position: sticky;
     top: 20px;
   }
+}
 
-  /* 글 목록(Archive) 화면도 넓게 */
-  .archive {
-    width: 95% !important;
-    max-width: 100% !important;
-    margin: 0 auto !important;
-    float: none !important;
-    padding-right: 0 !important;
-  }
+/* 본문 폰트 크기 및 줄간격 시원하게 조정 */
+.page__content {
+  font-size: 1.15em;
+  line-height: 1.7;
 }
