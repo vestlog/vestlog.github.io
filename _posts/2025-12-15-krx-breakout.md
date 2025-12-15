@@ -3,7 +3,7 @@ layout: single
 title: "[2025-12-15] 급등주 포착: 바이오스마트, 대주산업, 쎄크 등 10종목 심층 분석"
 date: 2025-12-15 16:00:00
 categories:
-  - StockPick
+  - Blog
 tags:
   - 급등주
   - 정배열
