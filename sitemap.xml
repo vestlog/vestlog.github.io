@@ -3073,6 +3073,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vestlog.github.io/blog/대한제당우/</loc>
+    <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vestlog.github.io/blog/로스웰/</loc>
     <lastmod>2025-12-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -3091,7 +3097,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://vestlog.github.io/blog/아주IB투자/</loc>
+    <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vestlog.github.io/blog/애머릿지/</loc>
+    <lastmod>2025-12-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vestlog.github.io/blog/엔지브이아이/</loc>
     <lastmod>2025-12-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
