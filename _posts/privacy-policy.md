@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Privacy Policy
+layout: single
+title: "Privacy Policy"
 permalink: /privacy-policy/
+author_profile: true
 ---
 
 # Privacy Policy for Vestlog
