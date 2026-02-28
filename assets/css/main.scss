@@ -134,136 +134,92 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
 }
 
 /* ----------------------------------------------------------
-   2. 레이아웃 구조 (브런치/미디엄 스타일 - 초강력 버전)
+   2. 레이아웃 구조 (브런치/미디엄 스타일의 모던 중앙 정렬)
    ---------------------------------------------------------- */
-.sidebar {
-  display: none !important;
+/* 불필요한 좌측 사이드바 100% 숨김 */
+.sidebar { 
+  display: none !important; 
 }
 
-@media (min-width: 1024px) {
-  /* 1️⃣ 가장 바깥 뼈대(#main) 자체의 최대 너비를 1100px로 제한하고 가운데 정렬 */
-  #main {
-    width: 100% !important;
-    max-width: 1100px !important; 
-    margin: 0 auto !important; /* 화면 중앙 정렬 */
-    float: none !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-  }
-
-  /* 2️⃣ 내부 요소들은 제한된 1100px 안에서 꽉 차게 둠 */
-  #main .archive,
-  #main .page__inner-wrap,
-  #main .page,
-  .layout--single .page__inner-wrap {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-
-  /* 3️⃣ 실제 글(텍스트) 영역: 우측 목차 공간을 빼고 시원하게 정렬 */
-  #main .page__content {
-    width: calc(100% - 320px) !important; /* 오른쪽 목차(280px) + 여백 공간 확보 */
-    float: left !important;
-    padding-right: 60px !important; /* 글씨와 우측 목차 사이의 넓은 여백 */
-    font-size: 1.12em;
-    line-height: 1.85; /* 줄 간격 넓힘 */
-    word-break: keep-all; 
-    color: #e6e6e6;
-  }
-
-  /* 4️⃣ 오른쪽 목차 (TOC) 위치 최적화 */
-  .sidebar__right {
-    float: right !important;
-    width: 280px !important;
-    margin-left: 0 !important;
-    position: sticky;
-    top: 100px;
-    z-index: 99;
-  }
+/* 1️⃣ 뼈대: 어떤 화면에서든 글 너비를 850px로 강제 고정하고 정중앙 배치 */
+#main {
+  display: block !important;
+  width: 100% !important;
+  max-width: 850px !important; /* ✨ 핵심: 가로폭을 확 줄여서 양옆 여백을 만듭니다 */
+  margin: 40px auto !important; /* 화면 가운데 정렬 및 위아래 여백 */
+  padding: 0 20px !important;
+  float: none !important;
 }
+
+/* 2️⃣ 테마 내부의 불필요한 여백/너비 설정 싹 다 무효화 */
+.page,
+.page__inner-wrap,
+.layout--single .page__inner-wrap {
+  width: 100% !important;
+  max-width: 100% !important;
+  float: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* 3️⃣ 텍스트 퀄리티 (논문 느낌 탈피!) */
+.page__content {
+  font-size: 1.15em !important; /* 글씨 크기를 키워 시원하게 */
+  line-height: 2.0 !important; /* 줄 간격을 200%로 쫙 벌려서 숨통 트기 */
+  color: #e0e0e0 !important; /* 눈이 편안한 부드러운 밝은 회색 */
+  word-break: keep-all !important; /* 단어가 끊어지지 않게 보호 */
+}
+
+/* 문단(엔터) 사이의 간격을 넓혀서 빽빽함 제거 */
+.page__content p {
+  margin-bottom: 1.8em !important; 
+}
+
 
 /* ----------------------------------------------------------
-   3. 디자인 디테일 업그레이드 (New!)
+   3. 디자인 디테일 (인용구, 헤더, 우측 목차)
    ---------------------------------------------------------- */
 
-/* (1) 목차(TOC) 심플하고 모던하게 변경 */
-.sidebar__right .toc {
-  background-color: transparent !important; /* 박스 배경 제거 */
-  border: none !important; /* 테두리 제거 */
-  border-left: 2px solid #444 !important; /* 왼쪽에 얇은 가이드 라인 */
-  border-radius: 0 !important;
-  padding-left: 15px !important;
-  margin-left: 10px;
+/* 🎨 요약 박스(Blockquote) 세련되게 디자인 (글의 포인트 역할) */
+.page__content blockquote {
+  background-color: #2b303b !important; /* 다크 네이비 배경 */
+  border-left: 6px solid #ff6b6b !important; /* 포인트 컬러 바 */
+  padding: 25px 20px !important;
+  margin: 40px 0 !important; /* 박스 위아래로 넓은 여백 */
+  border-radius: 0 10px 10px 0 !important;
+  font-style: normal !important; /* 기본 기울임꼴 취소 */
+  color: #ffffff !important;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
 }
 
-.sidebar__right .toc .nav__title {
-  background-color: transparent !important;
-  color: #fff !important;
-  font-size: 1.1em;
-  font-weight: 700;
-  padding: 0;
-  margin-bottom: 15px;
-  border-bottom: none !important;
-}
-
-.sidebar__right .toc .toc__menu a {
-  color: #999;
-  font-size: 0.95em;
-  padding: 5px 0;
-  transition: color 0.2s;
-}
-
-.sidebar__right .toc .toc__menu a:hover,
-.sidebar__right .toc .toc__menu .active a {
-  color: #ff6b6b !important; /* 포인트 컬러 */
-  font-weight: bold;
-  border-left: none;
-}
-
-/* (2) 본문 소제목(H2, H3) 디자인 */
+/* 소제목(H2, H3) 디자인: 위아래 여백을 줘서 문단을 확실히 분리 */
 .page__content h2 {
-  border-bottom: 2px solid #444; /* 은은한 밑줄 */
-  padding-bottom: 10px;
-  margin-top: 60px;
-  margin-bottom: 30px;
-  color: #fff;
-  font-size: 1.7em;
+  margin-top: 2.5em !important;
+  margin-bottom: 1em !important;
+  border-bottom: 1px solid #444 !important;
+  padding-bottom: 10px !important;
+  font-size: 1.6em !important;
+  color: #fff !important;
 }
 
 .page__content h3 {
-  border-left: 5px solid #ff6b6b; /* 왼쪽 컬러 바 */
-  padding-left: 15px;
-  margin-top: 50px;
-  margin-bottom: 20px;
-  color: #eee;
-  font-size: 1.4em;
+  margin-top: 2em !important;
+  margin-bottom: 1em !important;
+  color: #ff6b6b !important;
 }
 
-/* (3) 상단 메뉴바 유리 효과 (Glassmorphism) */
-.masthead {
-  background-color: rgba(30, 34, 40, 0.8) !important; /* 반투명 */
-  backdrop-filter: blur(12px); /* 흐림 효과 */
-  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-  position: sticky;
-  top: 0;
-  z-index: 1000;
+/* 📌 우측 목차(TOC) 처리: 화면이 아주 넓을 때만 850px 본문 우측 허공에 둥둥 띄움 */
+@media (min-width: 1350px) {
+  .sidebar__right {
+    position: fixed !important;
+    right: calc(50% - 700px) !important; /* 본문 영역을 침범하지 않게 바깥으로 뺌 */
+    top: 120px !important;
+    width: 250px !important;
+    float: none !important;
+    margin: 0 !important;
+  }
 }
-
-/* (4) 메인 대문 '최신 글 보러가기' 버튼 꾸미기 */
-.page__hero-action .btn--primary {
-  background: linear-gradient(135deg, #ff6b6b, #ff8e53) !important;
-  border: none !important;
-  color: white !important;
-  padding: 12px 30px;
-  border-radius: 50px; /* 둥근 모양 */
-  font-weight: bold;
-  box-shadow: 0 4px 15px rgba(255, 107, 107, 0.4);
-  transition: all 0.3s ease;
-}
-
-.page__hero-action .btn--primary:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 25px rgba(255, 107, 107, 0.6);
+@media (max-width: 1349px) {
+  /* 화면이 좁아지면 목차가 본문을 가리지 않게 아예 숨김 */
+  .sidebar__right { display: none !important; } 
 }
