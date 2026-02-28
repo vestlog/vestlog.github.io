@@ -134,44 +134,44 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
 }
 
 /* ----------------------------------------------------------
-   2. 레이아웃 구조 (왼쪽 사이드바 제거 및 본문 꽉 채우기)
+   2. 레이아웃 구조 (브런치/미디엄 스타일의 모던 중앙 정렬)
    ---------------------------------------------------------- */
 .sidebar {
-  display: none !important;
+  display: none !important; /* 왼쪽 프로필 사이드바는 깔끔하게 숨김 유지 */
 }
 
 @media (min-width: 1024px) {
-  /* 본문 영역 강제 확장 및 왼쪽 정렬 */
+  /* 전체 컨테이너를 화면 중앙에 배치하고 최대 너비 제한 */
   #main .archive,
   #main .page__inner-wrap,
   #main .page,
   .layout--single .page__inner-wrap {
     width: 100% !important;
-    max-width: 100% !important;
+    max-width: 1050px !important; /* ✨꽉 차던 화면을 1050px로 우아하게 제한 */
     float: none !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    padding-left: 0 !important; 
-    padding-right: 0 !important;
+    margin: 0 auto !important; /* ✨핵심: 화면 가운데 정렬 */
+    padding: 0 20px !important;
   }
 
-  /* 본문 텍스트 영역 */
+  /* 실제 글(텍스트)이 들어가는 영역 */
   #main .page__content {
-    width: 100% !important;
-    float: none !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    font-size: 1.1em;
-    line-height: 1.7;
+    width: calc(100% - 320px) !important; /* 우측 목차 공간(280px) + 여백 확보 */
+    float: left !important;
+    padding-left: 0 !important;
+    padding-right: 50px !important; /* 텍스트와 우측 목차 사이의 시원한 숨통 트기 */
+    font-size: 1.12em; /* 글씨 크기 살짝 키움 (가독성 UP) */
+    line-height: 1.85; /* 줄 간격을 넓혀서 빽빽한 느낌 제거 */
+    word-break: keep-all; /* 단어가 중간에 잘리지 않도록 설정 */
+    color: #e6e6e6; /* 눈이 덜 피로한 부드러운 밝은 회색으로 변경 */
   }
 
-  /* 오른쪽 목차 (TOC) 위치 */
+  /* 오른쪽 목차 (TOC) 위치 최적화 */
   .sidebar__right {
     float: right !important;
     width: 280px !important;
-    margin-left: 30px !important;
+    margin-left: 0 !important;
     position: sticky;
-    top: 20px;
+    top: 100px; /* 스크롤 시 상단 유리효과 메뉴바에 안 가려지게 여백 확보 */
     z-index: 99;
   }
 }
