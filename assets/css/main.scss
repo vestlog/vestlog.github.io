@@ -133,28 +133,37 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   border-radius: 4px;
 }
 
-/* ----------------------------------------------------------
-   2. 레이아웃 구조 (브런치/미디엄 스타일의 모던 중앙 정렬)
-   ---------------------------------------------------------- */
-/* 불필요한 좌측 사이드바 100% 숨김 */
-.sidebar { 
-  display: none !important; 
+/* ==========================================================================
+   [주식/일반 게시글] - 기본적으로 넓게 쓰는 기존 레이아웃 유지 (차트/표 보호)
+   ========================================================================== */
+.sidebar { display: none !important; }
+
+@media (min-width: 1024px) {
+  #main .page__content {
+    width: 100% !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
 }
 
-/* 1️⃣ 뼈대: 어떤 화면에서든 글 너비를 850px로 강제 고정하고 정중앙 배치 */
-#main {
+/* ==========================================================================
+   ✨ [트렌드 게시글 전용] - 브런치/미디엄 스타일의 모던 중앙 정렬
+   writer.py에서 Front Matter에 classes: 'trend-post'를 넣은 글만 적용됨!
+   ========================================================================== */
+
+/* 1️⃣ 뼈대: 트렌드 글일 때만 가로폭을 850px로 확 줄여서 양옆 여백을 만듭니다 */
+.trend-post #main {
   display: block !important;
   width: 100% !important;
-  max-width: 850px !important; /* ✨ 핵심: 가로폭을 확 줄여서 양옆 여백을 만듭니다 */
-  margin: 40px auto !important; /* 화면 가운데 정렬 및 위아래 여백 */
+  max-width: 850px !important; 
+  margin: 40px auto !important; /* 화면 가운데 정렬 */
   padding: 0 20px !important;
   float: none !important;
 }
 
-/* 2️⃣ 테마 내부의 불필요한 여백/너비 설정 싹 다 무효화 */
-.page,
-.page__inner-wrap,
-.layout--single .page__inner-wrap {
+/* 2️⃣ 테마 내부 여백 무효화 (트렌드 글 한정) */
+.trend-post .page,
+.trend-post .page__inner-wrap {
   width: 100% !important;
   max-width: 100% !important;
   float: none !important;
@@ -162,38 +171,33 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   padding: 0 !important;
 }
 
-/* 3️⃣ 텍스트 퀄리티 (논문 느낌 탈피!) */
-.page__content {
-  font-size: 1.15em !important; /* 글씨 크기를 키워 시원하게 */
-  line-height: 2.0 !important; /* 줄 간격을 200%로 쫙 벌려서 숨통 트기 */
-  color: #e0e0e0 !important; /* 눈이 편안한 부드러운 밝은 회색 */
-  word-break: keep-all !important; /* 단어가 끊어지지 않게 보호 */
+/* 3️⃣ 텍스트 퀄리티 (논문 느낌 탈피) */
+.trend-post .page__content {
+  font-size: 1.15em !important; 
+  line-height: 2.0 !important; /* 줄 간격 넓히기 */
+  color: #e0e0e0 !important; 
+  word-break: keep-all !important; 
 }
 
 /* 문단(엔터) 사이의 간격을 넓혀서 빽빽함 제거 */
-.page__content p {
+.trend-post .page__content p {
   margin-bottom: 1.8em !important; 
 }
 
-
-/* ----------------------------------------------------------
-   3. 디자인 디테일 (인용구, 헤더, 우측 목차)
-   ---------------------------------------------------------- */
-
-/* 🎨 요약 박스(Blockquote) 세련되게 디자인 (글의 포인트 역할) */
-.page__content blockquote {
-  background-color: #2b303b !important; /* 다크 네이비 배경 */
-  border-left: 6px solid #ff6b6b !important; /* 포인트 컬러 바 */
+/* 🎨 요약 박스(Blockquote) 세련되게 디자인 */
+.trend-post .page__content blockquote {
+  background-color: #2b303b !important; 
+  border-left: 6px solid #ff6b6b !important; 
   padding: 25px 20px !important;
-  margin: 40px 0 !important; /* 박스 위아래로 넓은 여백 */
+  margin: 40px 0 !important; 
   border-radius: 0 10px 10px 0 !important;
-  font-style: normal !important; /* 기본 기울임꼴 취소 */
+  font-style: normal !important; 
   color: #ffffff !important;
   box-shadow: 0 4px 15px rgba(0,0,0,0.2) !important;
 }
 
-/* 소제목(H2, H3) 디자인: 위아래 여백을 줘서 문단을 확실히 분리 */
-.page__content h2 {
+/* 소제목(H2, H3) 디자인 */
+.trend-post .page__content h2 {
   margin-top: 2.5em !important;
   margin-bottom: 1em !important;
   border-bottom: 1px solid #444 !important;
@@ -202,17 +206,17 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   color: #fff !important;
 }
 
-.page__content h3 {
+.trend-post .page__content h3 {
   margin-top: 2em !important;
   margin-bottom: 1em !important;
   color: #ff6b6b !important;
 }
 
-/* 📌 우측 목차(TOC) 처리: 화면이 아주 넓을 때만 850px 본문 우측 허공에 둥둥 띄움 */
+/* 📌 우측 목차(TOC) 처리 */
 @media (min-width: 1350px) {
-  .sidebar__right {
+  .trend-post .sidebar__right {
     position: fixed !important;
-    right: calc(50% - 700px) !important; /* 본문 영역을 침범하지 않게 바깥으로 뺌 */
+    right: calc(50% - 700px) !important; /* 본문 바깥으로 뺌 */
     top: 120px !important;
     width: 250px !important;
     float: none !important;
@@ -220,6 +224,5 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
   }
 }
 @media (max-width: 1349px) {
-  /* 화면이 좁아지면 목차가 본문을 가리지 않게 아예 숨김 */
-  .sidebar__right { display: none !important; } 
+  .trend-post .sidebar__right { display: none !important; } 
 }
