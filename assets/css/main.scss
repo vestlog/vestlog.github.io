@@ -134,44 +134,52 @@ div.highlighter-rouge .highlight pre::-webkit-scrollbar-thumb {
 }
 
 /* ----------------------------------------------------------
-   2. 레이아웃 구조 (브런치/미디엄 스타일의 모던 중앙 정렬)
+   2. 레이아웃 구조 (브런치/미디엄 스타일 - 초강력 버전)
    ---------------------------------------------------------- */
 .sidebar {
-  display: none !important; /* 왼쪽 프로필 사이드바는 깔끔하게 숨김 유지 */
+  display: none !important;
 }
 
 @media (min-width: 1024px) {
-  /* 전체 컨테이너를 화면 중앙에 배치하고 최대 너비 제한 */
+  /* 1️⃣ 가장 바깥 뼈대(#main) 자체의 최대 너비를 1100px로 제한하고 가운데 정렬 */
+  #main {
+    width: 100% !important;
+    max-width: 1100px !important; 
+    margin: 0 auto !important; /* 화면 중앙 정렬 */
+    float: none !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
+
+  /* 2️⃣ 내부 요소들은 제한된 1100px 안에서 꽉 차게 둠 */
   #main .archive,
   #main .page__inner-wrap,
   #main .page,
   .layout--single .page__inner-wrap {
     width: 100% !important;
-    max-width: 1050px !important; /* ✨꽉 차던 화면을 1050px로 우아하게 제한 */
-    float: none !important;
-    margin: 0 auto !important; /* ✨핵심: 화면 가운데 정렬 */
-    padding: 0 20px !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
-  /* 실제 글(텍스트)이 들어가는 영역 */
+  /* 3️⃣ 실제 글(텍스트) 영역: 우측 목차 공간을 빼고 시원하게 정렬 */
   #main .page__content {
-    width: calc(100% - 320px) !important; /* 우측 목차 공간(280px) + 여백 확보 */
+    width: calc(100% - 320px) !important; /* 오른쪽 목차(280px) + 여백 공간 확보 */
     float: left !important;
-    padding-left: 0 !important;
-    padding-right: 50px !important; /* 텍스트와 우측 목차 사이의 시원한 숨통 트기 */
-    font-size: 1.12em; /* 글씨 크기 살짝 키움 (가독성 UP) */
-    line-height: 1.85; /* 줄 간격을 넓혀서 빽빽한 느낌 제거 */
-    word-break: keep-all; /* 단어가 중간에 잘리지 않도록 설정 */
-    color: #e6e6e6; /* 눈이 덜 피로한 부드러운 밝은 회색으로 변경 */
+    padding-right: 60px !important; /* 글씨와 우측 목차 사이의 넓은 여백 */
+    font-size: 1.12em;
+    line-height: 1.85; /* 줄 간격 넓힘 */
+    word-break: keep-all; 
+    color: #e6e6e6;
   }
 
-  /* 오른쪽 목차 (TOC) 위치 최적화 */
+  /* 4️⃣ 오른쪽 목차 (TOC) 위치 최적화 */
   .sidebar__right {
     float: right !important;
     width: 280px !important;
     margin-left: 0 !important;
     position: sticky;
-    top: 100px; /* 스크롤 시 상단 유리효과 메뉴바에 안 가려지게 여백 확보 */
+    top: 100px;
     z-index: 99;
   }
 }
