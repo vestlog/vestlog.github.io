@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://vestlog.github.io/sitemap.xml
